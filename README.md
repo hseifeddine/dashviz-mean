@@ -1,5 +1,5 @@
 # DashViz: an interactive data driven dashboards visualizer
-
+## About 
 This application exposes a set of interactive data driven dashboards.
 
 Visualization is the so called front-end of modern business intelligence systems. 
@@ -14,15 +14,24 @@ The user can add dashboards to his favorites and can check his history (the last
 A dashboard contains a list of views.
 A view can be a form, a data table, or a 2D charts (Line chart, bar chart, or a pie chart).
 
+## Installation
 To be able to run this application on your local machine proceed as follows:
 
- Markup : 1. from the dataset directory run the following commands to import the data into a local instance of MongoDB:
-           1. mongoimport -d dashviz -c censuses --type csv --file censuses.csv --headerline
-           2. mongoimport -d dashviz -c earthquakes --type csv --file earthquakes.csv --headerline
-           3. mongoimport -d dashviz -c stocks --type csv --file stocks.csv --headerline
-           4. mongoimport -d dashviz -c donors --type csv --file donors.csv --headerline
-          2. from the root directory run npm install
-          3. from the root directory run node server
-          4. the application should be accessible at port 8080
+  - from the dataset directory run the following commands to import the data into a local instance of MongoDB:
+ ```sh
+$ mongoimport -d dashviz -c censuses --type csv --file censuses.csv --headerline
+$ mongoimport -d dashviz -c earthquakes --type csv --file earthquakes.csv --headerline
+$ mongoimport -d dashviz -c stocks --type csv --file stocks.csv --headerline
+$ mongoimport -d dashviz -c donors --type csv --file donors.csv --headerline
+```
+  - from the root directory run npm install
+  - from the root directory run node server
+  - the application should be accessible at port 8080
 
+## Version
+1.0.0
+
+License
+----
+MIT
 

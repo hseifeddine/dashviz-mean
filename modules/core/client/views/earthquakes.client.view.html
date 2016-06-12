@@ -1,0 +1,115 @@
+<section ng-controller="EarthQuakesController" ng-init="find()">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">New Zealand Earthquakes</h1>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Summary
+                    </div>
+                    <div class="panel-body">
+                        <div id="row-selection" class="dc-data-count">
+                            <span>
+        <span class="filter-count"></span> selected out of
+                            <span class="total-count"></span> records |
+                            <a href="javascript:dc.filterAll(); dc.renderAll();">
+                                <font color="#33CC99">Reset All</font>
+                            </a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Number of Events by Magnitude
+                    </div>
+                    <div class="panel-body">
+                        <div id="dc-magnitude-chart"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Events by Depth (km)
+                    </div>
+                    <div class="panel-body">
+                        <div id="dc-depth-chart"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Events per hour
+                    </div>
+                    <div class="panel-body">
+                        <div id="dc-time-chart"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Day of the Week
+                    </div>
+                    <div class="panel-body">
+                        <div id="dc-dayweek-chart"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        North or South Island
+                    </div>
+                    <div class="panel-body">
+                        <div id="dc-island-chart"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Records
+                    </div>
+                    <div class="panel-body">
+                        <table class='table table-hover' id='dc-table-graph'>
+                            <thead>
+                                <tr class='header'>
+                                    <th>DTG</th>
+                                    <th>Lat</th>
+                                    <th>Long</th>
+                                    <th>Depth</th>
+                                    <th>Magnitude</th>
+                                    <th>Google Map</th>
+                                    <th>OSM Map</th>
+                                </tr>
+                            </thead>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>

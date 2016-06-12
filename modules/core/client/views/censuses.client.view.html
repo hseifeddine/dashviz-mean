@@ -1,0 +1,136 @@
+<script type="text/javascript" src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/dc/1.7.0/dc.js"></script>
+<script type="text/javascript" src="https://rawgithub.com/NickQiZhu/dc.js/master/web/js/crossfilter.js"></script>
+
+
+<section ng-controller="CensusesController" ng-init="find()">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Student Census</h1>
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Summary
+                    </div>
+                    <div class="panel-body">
+                        <div id="data-count-top" class="dc-data-count">
+                            <span>
+                    <span class="filter-count"></span> selected out of
+                            <span class="total-count"></span> records |
+                            <a href="javascript:dc.filterAll(); dc.renderAll();">
+                                <font color="#33CC99">Reset All</font>
+                            </a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Level
+                    </div>
+                    <div class="panel-body">
+                        <div id="grad-status-chart"></div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Gender
+                    </div>
+                    <div class="panel-body">
+                        <div id="gender-chart"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-5">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Ethnicity
+                    </div>
+                    <div class="panel-body">
+                        <div id="ethnicity-chart"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-7">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Headcount by Ethnicity
+                    </div>
+                    <div class="panel-body">
+                        <div id="series-chart"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Entry Status
+                    </div>
+                    <div class="panel-body">
+                        <div id="entry-status-chart"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Total Headcount
+                    </div>
+                    <div class="panel-body">
+                        <div id="year-chart"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Records
+                    </div>
+                    <div class="panel-body">
+                        <div id="data-table">
+                            <table class="table table-hover dc-data-table">
+                                <thead>
+                                    <tr class="header">
+                                        <th>Level</th>
+                                        <th>Entry Status</th>
+                                        <th>Gender</th>
+                                        <th>Race Ethnicity</th>
+                                        <th>Year</th>
+                                        <th>Count</th>
+                                    </tr>
+                                </thead>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

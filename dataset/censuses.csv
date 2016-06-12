@@ -1,0 +1,3757 @@
+undergradStatus,entryStatus,gender,raceEthnicity,year,count
+G,Advanced Standing,Female,African American,1985,1
+G,Advanced Standing,Female,African American,1986,1
+G,Advanced Standing,Female,African American,1987,2
+G,Advanced Standing,Female,African American,1988,3
+G,Advanced Standing,Female,African American,1989,2
+G,Advanced Standing,Female,African American,1990,3
+G,Advanced Standing,Female,African American,1991,5
+G,Advanced Standing,Female,African American,1992,5
+G,Advanced Standing,Female,African American,1993,12
+G,Advanced Standing,Female,African American,1994,10
+G,Advanced Standing,Female,African American,1995,5
+G,Advanced Standing,Female,African American,1996,10
+G,Advanced Standing,Female,African American,1997,7
+G,Advanced Standing,Female,African American,1998,6
+G,Advanced Standing,Female,African American,1999,6
+G,Advanced Standing,Female,African American,2000,9
+G,Advanced Standing,Female,African American,2001,7
+G,Advanced Standing,Female,African American,2002,7
+G,Advanced Standing,Female,African American,2003,5
+G,Advanced Standing,Female,African American,2004,8
+G,Advanced Standing,Female,African American,2005,9
+G,Advanced Standing,Female,African American,2006,7
+G,Advanced Standing,Female,African American,2007,6
+G,Advanced Standing,Female,African American,2008,3
+G,Advanced Standing,Female,Asian,1985,8
+G,Advanced Standing,Female,Asian,1986,13
+G,Advanced Standing,Female,Asian,1987,18
+G,Advanced Standing,Female,Asian,1988,27
+G,Advanced Standing,Female,Asian,1989,24
+G,Advanced Standing,Female,Asian,1990,26
+G,Advanced Standing,Female,Asian,1991,22
+G,Advanced Standing,Female,Asian,1992,26
+G,Advanced Standing,Female,Asian,1993,42
+G,Advanced Standing,Female,Asian,1994,42
+G,Advanced Standing,Female,Asian,1995,37
+G,Advanced Standing,Female,Asian,1996,34
+G,Advanced Standing,Female,Asian,1997,36
+G,Advanced Standing,Female,Asian,1998,38
+G,Advanced Standing,Female,Asian,1999,35
+G,Advanced Standing,Female,Asian,2000,27
+G,Advanced Standing,Female,Asian,2001,21
+G,Advanced Standing,Female,Asian,2002,22
+G,Advanced Standing,Female,Asian,2003,27
+G,Advanced Standing,Female,Asian,2004,20
+G,Advanced Standing,Female,Asian,2005,34
+G,Advanced Standing,Female,Asian,2006,30
+G,Advanced Standing,Female,Asian,2007,34
+G,Advanced Standing,Female,Asian,2008,29
+G,Advanced Standing,Female,Chicano/Latino,1984,1
+G,Advanced Standing,Female,Chicano/Latino,1985,2
+G,Advanced Standing,Female,Chicano/Latino,1986,4
+G,Advanced Standing,Female,Chicano/Latino,1987,10
+G,Advanced Standing,Female,Chicano/Latino,1988,12
+G,Advanced Standing,Female,Chicano/Latino,1989,12
+G,Advanced Standing,Female,Chicano/Latino,1990,12
+G,Advanced Standing,Female,Chicano/Latino,1991,17
+G,Advanced Standing,Female,Chicano/Latino,1992,21
+G,Advanced Standing,Female,Chicano/Latino,1993,24
+G,Advanced Standing,Female,Chicano/Latino,1994,24
+G,Advanced Standing,Female,Chicano/Latino,1995,23
+G,Advanced Standing,Female,Chicano/Latino,1996,23
+G,Advanced Standing,Female,Chicano/Latino,1997,19
+G,Advanced Standing,Female,Chicano/Latino,1998,19
+G,Advanced Standing,Female,Chicano/Latino,1999,16
+G,Advanced Standing,Female,Chicano/Latino,2000,16
+G,Advanced Standing,Female,Chicano/Latino,2001,14
+G,Advanced Standing,Female,Chicano/Latino,2002,15
+G,Advanced Standing,Female,Chicano/Latino,2003,18
+G,Advanced Standing,Female,Chicano/Latino,2004,21
+G,Advanced Standing,Female,Chicano/Latino,2005,18
+G,Advanced Standing,Female,Chicano/Latino,2006,19
+G,Advanced Standing,Female,Chicano/Latino,2007,22
+G,Advanced Standing,Female,Chicano/Latino,2008,21
+G,Advanced Standing,Female,Decline to State,1986,3
+G,Advanced Standing,Female,Decline to State,1987,1
+G,Advanced Standing,Female,Decline to State,1990,1
+G,Advanced Standing,Female,Decline to State,1991,5
+G,Advanced Standing,Female,Decline to State,1992,6
+G,Advanced Standing,Female,Decline to State,1993,5
+G,Advanced Standing,Female,Decline to State,1994,7
+G,Advanced Standing,Female,Decline to State,1995,9
+G,Advanced Standing,Female,Decline to State,1996,9
+G,Advanced Standing,Female,Decline to State,1997,4
+G,Advanced Standing,Female,Decline to State,1998,2
+G,Advanced Standing,Female,Decline to State,1999,3
+G,Advanced Standing,Female,Decline to State,2000,9
+G,Advanced Standing,Female,Decline to State,2001,9
+G,Advanced Standing,Female,Decline to State,2002,8
+G,Advanced Standing,Female,Decline to State,2003,8
+G,Advanced Standing,Female,Decline to State,2004,11
+G,Advanced Standing,Female,Decline to State,2005,18
+G,Advanced Standing,Female,Decline to State,2006,15
+G,Advanced Standing,Female,Decline to State,2007,17
+G,Advanced Standing,Female,Decline to State,2008,20
+G,Advanced Standing,Female,International,1985,2
+G,Advanced Standing,Female,International,1986,3
+G,Advanced Standing,Female,International,1987,2
+G,Advanced Standing,Female,International,1988,2
+G,Advanced Standing,Female,International,1989,2
+G,Advanced Standing,Female,International,1990,5
+G,Advanced Standing,Female,International,1991,5
+G,Advanced Standing,Female,International,1992,4
+G,Advanced Standing,Female,International,1993,5
+G,Advanced Standing,Female,International,1994,3
+G,Advanced Standing,Female,International,1995,6
+G,Advanced Standing,Female,International,1996,8
+G,Advanced Standing,Female,International,1997,4
+G,Advanced Standing,Female,International,1998,3
+G,Advanced Standing,Female,International,1999,5
+G,Advanced Standing,Female,International,2000,6
+G,Advanced Standing,Female,International,2001,2
+G,Advanced Standing,Female,International,2002,4
+G,Advanced Standing,Female,International,2003,5
+G,Advanced Standing,Female,International,2004,4
+G,Advanced Standing,Female,International,2005,4
+G,Advanced Standing,Female,International,2006,3
+G,Advanced Standing,Female,International,2007,5
+G,Advanced Standing,Female,International,2008,3
+G,Advanced Standing,Female,Native American,1988,1
+G,Advanced Standing,Female,Native American,1989,1
+G,Advanced Standing,Female,Native American,1990,2
+G,Advanced Standing,Female,Native American,1991,1
+G,Advanced Standing,Female,Native American,1992,1
+G,Advanced Standing,Female,Native American,1993,4
+G,Advanced Standing,Female,Native American,1994,4
+G,Advanced Standing,Female,Native American,1995,1
+G,Advanced Standing,Female,Native American,1996,1
+G,Advanced Standing,Female,Native American,1997,1
+G,Advanced Standing,Female,Native American,1998,4
+G,Advanced Standing,Female,Native American,1999,5
+G,Advanced Standing,Female,Native American,2000,6
+G,Advanced Standing,Female,Native American,2001,7
+G,Advanced Standing,Female,Native American,2002,10
+G,Advanced Standing,Female,Native American,2003,6
+G,Advanced Standing,Female,Native American,2004,2
+G,Advanced Standing,Female,Native American,2005,1
+G,Advanced Standing,Female,Native American,2007,1
+G,Advanced Standing,Female,Native American,2008,1
+G,Advanced Standing,Female,Other,1989,3
+G,Advanced Standing,Female,Other,1990,6
+G,Advanced Standing,Female,Other,1991,3
+G,Advanced Standing,Female,Other,1992,6
+G,Advanced Standing,Female,Other,1993,6
+G,Advanced Standing,Female,Other,1994,11
+G,Advanced Standing,Female,Other,1995,12
+G,Advanced Standing,Female,Other,1996,4
+G,Advanced Standing,Female,Other,1997,6
+G,Advanced Standing,Female,Other,1998,6
+G,Advanced Standing,Female,Other,1999,6
+G,Advanced Standing,Female,Other,2000,2
+G,Advanced Standing,Female,Other,2001,4
+G,Advanced Standing,Female,Other,2002,5
+G,Advanced Standing,Female,Other,2003,10
+G,Advanced Standing,Female,Other,2004,11
+G,Advanced Standing,Female,Other,2005,7
+G,Advanced Standing,Female,Other,2006,12
+G,Advanced Standing,Female,Other,2007,17
+G,Advanced Standing,Female,Other,2008,12
+G,Advanced Standing,Female,Pacific Islander,1992,1
+G,Advanced Standing,Female,Pacific Islander,1993,1
+G,Advanced Standing,Female,Pacific Islander,1998,1
+G,Advanced Standing,Female,Pacific Islander,1999,1
+G,Advanced Standing,Female,Pacific Islander,2001,1
+G,Advanced Standing,Female,White,1984,4
+G,Advanced Standing,Female,White,1985,33
+G,Advanced Standing,Female,White,1986,69
+G,Advanced Standing,Female,White,1987,86
+G,Advanced Standing,Female,White,1988,96
+G,Advanced Standing,Female,White,1989,103
+G,Advanced Standing,Female,White,1990,103
+G,Advanced Standing,Female,White,1991,120
+G,Advanced Standing,Female,White,1992,113
+G,Advanced Standing,Female,White,1993,120
+G,Advanced Standing,Female,White,1994,121
+G,Advanced Standing,Female,White,1995,105
+G,Advanced Standing,Female,White,1996,105
+G,Advanced Standing,Female,White,1997,114
+G,Advanced Standing,Female,White,1998,102
+G,Advanced Standing,Female,White,1999,98
+G,Advanced Standing,Female,White,2000,97
+G,Advanced Standing,Female,White,2001,88
+G,Advanced Standing,Female,White,2002,87
+G,Advanced Standing,Female,White,2003,86
+G,Advanced Standing,Female,White,2004,85
+G,Advanced Standing,Female,White,2005,80
+G,Advanced Standing,Female,White,2006,64
+G,Advanced Standing,Female,White,2007,57
+G,Advanced Standing,Female,White,2008,54
+G,Advanced Standing,Male,African American,1984,1
+G,Advanced Standing,Male,African American,1985,2
+G,Advanced Standing,Male,African American,1986,3
+G,Advanced Standing,Male,African American,1987,2
+G,Advanced Standing,Male,African American,1988,2
+G,Advanced Standing,Male,African American,1989,2
+G,Advanced Standing,Male,African American,1990,5
+G,Advanced Standing,Male,African American,1991,6
+G,Advanced Standing,Male,African American,1992,9
+G,Advanced Standing,Male,African American,1993,4
+G,Advanced Standing,Male,African American,1994,5
+G,Advanced Standing,Male,African American,1995,5
+G,Advanced Standing,Male,African American,1996,6
+G,Advanced Standing,Male,African American,1997,7
+G,Advanced Standing,Male,African American,1998,8
+G,Advanced Standing,Male,African American,1999,5
+G,Advanced Standing,Male,African American,2000,5
+G,Advanced Standing,Male,African American,2001,5
+G,Advanced Standing,Male,African American,2002,7
+G,Advanced Standing,Male,African American,2003,6
+G,Advanced Standing,Male,African American,2004,6
+G,Advanced Standing,Male,African American,2005,7
+G,Advanced Standing,Male,African American,2006,7
+G,Advanced Standing,Male,African American,2007,5
+G,Advanced Standing,Male,African American,2008,5
+G,Advanced Standing,Male,Asian,1984,1
+G,Advanced Standing,Male,Asian,1985,9
+G,Advanced Standing,Male,Asian,1986,33
+G,Advanced Standing,Male,Asian,1987,49
+G,Advanced Standing,Male,Asian,1988,42
+G,Advanced Standing,Male,Asian,1989,38
+G,Advanced Standing,Male,Asian,1990,39
+G,Advanced Standing,Male,Asian,1991,45
+G,Advanced Standing,Male,Asian,1992,47
+G,Advanced Standing,Male,Asian,1993,45
+G,Advanced Standing,Male,Asian,1994,49
+G,Advanced Standing,Male,Asian,1995,41
+G,Advanced Standing,Male,Asian,1996,39
+G,Advanced Standing,Male,Asian,1997,36
+G,Advanced Standing,Male,Asian,1998,40
+G,Advanced Standing,Male,Asian,1999,42
+G,Advanced Standing,Male,Asian,2000,33
+G,Advanced Standing,Male,Asian,2001,36
+G,Advanced Standing,Male,Asian,2002,37
+G,Advanced Standing,Male,Asian,2003,35
+G,Advanced Standing,Male,Asian,2004,28
+G,Advanced Standing,Male,Asian,2005,17
+G,Advanced Standing,Male,Asian,2006,19
+G,Advanced Standing,Male,Asian,2007,29
+G,Advanced Standing,Male,Asian,2008,38
+G,Advanced Standing,Male,Chicano/Latino,1985,1
+G,Advanced Standing,Male,Chicano/Latino,1986,5
+G,Advanced Standing,Male,Chicano/Latino,1987,11
+G,Advanced Standing,Male,Chicano/Latino,1988,13
+G,Advanced Standing,Male,Chicano/Latino,1989,16
+G,Advanced Standing,Male,Chicano/Latino,1990,11
+G,Advanced Standing,Male,Chicano/Latino,1991,13
+G,Advanced Standing,Male,Chicano/Latino,1992,17
+G,Advanced Standing,Male,Chicano/Latino,1993,22
+G,Advanced Standing,Male,Chicano/Latino,1994,22
+G,Advanced Standing,Male,Chicano/Latino,1995,24
+G,Advanced Standing,Male,Chicano/Latino,1996,24
+G,Advanced Standing,Male,Chicano/Latino,1997,28
+G,Advanced Standing,Male,Chicano/Latino,1998,22
+G,Advanced Standing,Male,Chicano/Latino,1999,19
+G,Advanced Standing,Male,Chicano/Latino,2000,14
+G,Advanced Standing,Male,Chicano/Latino,2001,12
+G,Advanced Standing,Male,Chicano/Latino,2002,13
+G,Advanced Standing,Male,Chicano/Latino,2003,18
+G,Advanced Standing,Male,Chicano/Latino,2004,23
+G,Advanced Standing,Male,Chicano/Latino,2005,19
+G,Advanced Standing,Male,Chicano/Latino,2006,20
+G,Advanced Standing,Male,Chicano/Latino,2007,24
+G,Advanced Standing,Male,Chicano/Latino,2008,22
+G,Advanced Standing,Male,Decline to State,1985,2
+G,Advanced Standing,Male,Decline to State,1986,5
+G,Advanced Standing,Male,Decline to State,1987,4
+G,Advanced Standing,Male,Decline to State,1988,4
+G,Advanced Standing,Male,Decline to State,1989,2
+G,Advanced Standing,Male,Decline to State,1990,5
+G,Advanced Standing,Male,Decline to State,1991,4
+G,Advanced Standing,Male,Decline to State,1992,10
+G,Advanced Standing,Male,Decline to State,1993,8
+G,Advanced Standing,Male,Decline to State,1994,11
+G,Advanced Standing,Male,Decline to State,1995,5
+G,Advanced Standing,Male,Decline to State,1996,6
+G,Advanced Standing,Male,Decline to State,1997,4
+G,Advanced Standing,Male,Decline to State,1998,5
+G,Advanced Standing,Male,Decline to State,1999,7
+G,Advanced Standing,Male,Decline to State,2000,10
+G,Advanced Standing,Male,Decline to State,2001,6
+G,Advanced Standing,Male,Decline to State,2002,7
+G,Advanced Standing,Male,Decline to State,2003,12
+G,Advanced Standing,Male,Decline to State,2004,11
+G,Advanced Standing,Male,Decline to State,2005,14
+G,Advanced Standing,Male,Decline to State,2006,11
+G,Advanced Standing,Male,Decline to State,2007,13
+G,Advanced Standing,Male,Decline to State,2008,24
+G,Advanced Standing,Male,International,1986,4
+G,Advanced Standing,Male,International,1987,4
+G,Advanced Standing,Male,International,1988,5
+G,Advanced Standing,Male,International,1989,5
+G,Advanced Standing,Male,International,1990,4
+G,Advanced Standing,Male,International,1991,7
+G,Advanced Standing,Male,International,1992,12
+G,Advanced Standing,Male,International,1993,8
+G,Advanced Standing,Male,International,1994,6
+G,Advanced Standing,Male,International,1995,10
+G,Advanced Standing,Male,International,1996,4
+G,Advanced Standing,Male,International,1997,6
+G,Advanced Standing,Male,International,1998,5
+G,Advanced Standing,Male,International,1999,9
+G,Advanced Standing,Male,International,2000,10
+G,Advanced Standing,Male,International,2001,5
+G,Advanced Standing,Male,International,2002,4
+G,Advanced Standing,Male,International,2003,9
+G,Advanced Standing,Male,International,2004,8
+G,Advanced Standing,Male,International,2005,9
+G,Advanced Standing,Male,International,2006,11
+G,Advanced Standing,Male,International,2007,15
+G,Advanced Standing,Male,International,2008,12
+G,Advanced Standing,Male,Native American,1985,1
+G,Advanced Standing,Male,Native American,1986,1
+G,Advanced Standing,Male,Native American,1987,1
+G,Advanced Standing,Male,Native American,1992,1
+G,Advanced Standing,Male,Native American,1993,1
+G,Advanced Standing,Male,Native American,1995,1
+G,Advanced Standing,Male,Native American,1996,1
+G,Advanced Standing,Male,Native American,1997,1
+G,Advanced Standing,Male,Native American,2002,4
+G,Advanced Standing,Male,Native American,2003,6
+G,Advanced Standing,Male,Native American,2004,4
+G,Advanced Standing,Male,Native American,2006,2
+G,Advanced Standing,Male,Native American,2007,2
+G,Advanced Standing,Male,Native American,2008,3
+G,Advanced Standing,Male,Other,1988,3
+G,Advanced Standing,Male,Other,1989,3
+G,Advanced Standing,Male,Other,1990,5
+G,Advanced Standing,Male,Other,1991,5
+G,Advanced Standing,Male,Other,1992,4
+G,Advanced Standing,Male,Other,1993,4
+G,Advanced Standing,Male,Other,1994,8
+G,Advanced Standing,Male,Other,1995,9
+G,Advanced Standing,Male,Other,1996,8
+G,Advanced Standing,Male,Other,1997,9
+G,Advanced Standing,Male,Other,1998,5
+G,Advanced Standing,Male,Other,1999,5
+G,Advanced Standing,Male,Other,2000,5
+G,Advanced Standing,Male,Other,2001,7
+G,Advanced Standing,Male,Other,2002,7
+G,Advanced Standing,Male,Other,2003,7
+G,Advanced Standing,Male,Other,2004,7
+G,Advanced Standing,Male,Other,2005,9
+G,Advanced Standing,Male,Other,2006,12
+G,Advanced Standing,Male,Other,2007,12
+G,Advanced Standing,Male,Other,2008,15
+G,Advanced Standing,Male,Pacific Islander,1988,1
+G,Advanced Standing,Male,Pacific Islander,1989,1
+G,Advanced Standing,Male,Pacific Islander,1990,1
+G,Advanced Standing,Male,Pacific Islander,1991,1
+G,Advanced Standing,Male,Pacific Islander,1992,1
+G,Advanced Standing,Male,Pacific Islander,1993,1
+G,Advanced Standing,Male,Pacific Islander,1994,1
+G,Advanced Standing,Male,Pacific Islander,1995,1
+G,Advanced Standing,Male,Pacific Islander,1996,1
+G,Advanced Standing,Male,Pacific Islander,1997,1
+G,Advanced Standing,Male,Pacific Islander,1998,1
+G,Advanced Standing,Male,Pacific Islander,1999,1
+G,Advanced Standing,Male,White,1984,1
+G,Advanced Standing,Male,White,1985,35
+G,Advanced Standing,Male,White,1986,85
+G,Advanced Standing,Male,White,1987,110
+G,Advanced Standing,Male,White,1988,114
+G,Advanced Standing,Male,White,1989,127
+G,Advanced Standing,Male,White,1990,125
+G,Advanced Standing,Male,White,1991,140
+G,Advanced Standing,Male,White,1992,162
+G,Advanced Standing,Male,White,1993,152
+G,Advanced Standing,Male,White,1994,156
+G,Advanced Standing,Male,White,1995,145
+G,Advanced Standing,Male,White,1996,130
+G,Advanced Standing,Male,White,1997,124
+G,Advanced Standing,Male,White,1998,122
+G,Advanced Standing,Male,White,1999,120
+G,Advanced Standing,Male,White,2000,99
+G,Advanced Standing,Male,White,2001,81
+G,Advanced Standing,Male,White,2002,68
+G,Advanced Standing,Male,White,2003,65
+G,Advanced Standing,Male,White,2004,59
+G,Advanced Standing,Male,White,2005,65
+G,Advanced Standing,Male,White,2006,67
+G,Advanced Standing,Male,White,2007,69
+G,Advanced Standing,Male,White,2008,71
+G,Doctoral,Female,African American,2013,119
+G,Doctoral,Female,Asian,2013,376
+G,Doctoral,Female,Chicano/Latino,2013,187
+G,Doctoral,Female,Decline to State,2013,289
+G,Doctoral,Female,International,2013,391
+G,Doctoral,Female,Native American,2013,30
+G,Doctoral,Female,Pacific Islander,2013,5
+G,Doctoral,Female,White,2013,1041
+G,Doctoral,Male,African American,2013,82
+G,Doctoral,Male,Asian,2013,353
+G,Doctoral,Male,Chicano/Latino,2013,198
+G,Doctoral,Male,Decline to State,2013,420
+G,Doctoral,Male,International,2013,856
+G,Doctoral,Male,Native American,2013,35
+G,Doctoral,Male,Pacific Islander,2013,4
+G,Doctoral,Male,White,2013,1311
+G,High School Honors,Female,African American,1994,1
+G,High School Honors,Female,African American,1995,1
+G,High School Honors,Female,African American,1996,1
+G,High School Honors,Female,African American,1997,1
+G,High School Honors,Female,African American,1998,1
+G,High School Honors,Female,African American,1999,2
+G,High School Honors,Female,African American,2000,2
+G,High School Honors,Female,African American,2001,2
+G,High School Honors,Female,African American,2002,2
+G,High School Honors,Female,African American,2003,2
+G,High School Honors,Female,African American,2004,1
+G,High School Honors,Female,African American,2005,1
+G,High School Honors,Female,African American,2006,1
+G,High School Honors,Female,African American,2007,1
+G,High School Honors,Female,African American,2008,1
+G,High School Honors,Female,Asian,1991,1
+G,High School Honors,Female,Asian,1992,1
+G,High School Honors,Female,Asian,1993,2
+G,High School Honors,Female,Asian,1994,4
+G,High School Honors,Female,Asian,1995,5
+G,High School Honors,Female,Asian,1996,7
+G,High School Honors,Female,Asian,1997,4
+G,High School Honors,Female,Asian,1998,5
+G,High School Honors,Female,Asian,1999,4
+G,High School Honors,Female,Asian,2000,6
+G,High School Honors,Female,Asian,2001,11
+G,High School Honors,Female,Asian,2002,11
+G,High School Honors,Female,Asian,2003,11
+G,High School Honors,Female,Asian,2004,10
+G,High School Honors,Female,Asian,2005,6
+G,High School Honors,Female,Asian,2006,6
+G,High School Honors,Female,Asian,2007,6
+G,High School Honors,Female,Asian,2008,4
+G,High School Honors,Female,Chicano/Latino,1996,1
+G,High School Honors,Female,Chicano/Latino,1997,1
+G,High School Honors,Female,Chicano/Latino,1998,1
+G,High School Honors,Female,Chicano/Latino,1999,1
+G,High School Honors,Female,Chicano/Latino,2000,1
+G,High School Honors,Female,Chicano/Latino,2001,1
+G,High School Honors,Female,Other,2001,1
+G,High School Honors,Female,Other,2004,2
+G,High School Honors,Female,Other,2005,1
+G,High School Honors,Female,Other,2006,2
+G,High School Honors,Female,Other,2007,1
+G,High School Honors,Female,Other,2008,1
+G,High School Honors,Female,White,1991,1
+G,High School Honors,Female,White,1992,2
+G,High School Honors,Female,White,1993,2
+G,High School Honors,Female,White,1994,1
+G,High School Honors,Female,White,1996,4
+G,High School Honors,Female,White,1997,4
+G,High School Honors,Female,White,1998,5
+G,High School Honors,Female,White,1999,6
+G,High School Honors,Female,White,2000,7
+G,High School Honors,Female,White,2001,6
+G,High School Honors,Female,White,2002,7
+G,High School Honors,Female,White,2003,9
+G,High School Honors,Female,White,2004,4
+G,High School Honors,Female,White,2005,6
+G,High School Honors,Female,White,2006,5
+G,High School Honors,Female,White,2007,6
+G,High School Honors,Female,White,2008,6
+G,High School Honors,Male,African American,1994,1
+G,High School Honors,Male,African American,1995,1
+G,High School Honors,Male,African American,1996,1
+G,High School Honors,Male,African American,1997,1
+G,High School Honors,Male,African American,1998,1
+G,High School Honors,Male,African American,1999,1
+G,High School Honors,Male,African American,2000,1
+G,High School Honors,Male,African American,2001,1
+G,High School Honors,Male,African American,2007,1
+G,High School Honors,Male,African American,2008,1
+G,High School Honors,Male,Asian,1992,2
+G,High School Honors,Male,Asian,1993,2
+G,High School Honors,Male,Asian,1994,2
+G,High School Honors,Male,Asian,1995,3
+G,High School Honors,Male,Asian,1996,3
+G,High School Honors,Male,Asian,1997,8
+G,High School Honors,Male,Asian,1998,9
+G,High School Honors,Male,Asian,1999,7
+G,High School Honors,Male,Asian,2000,6
+G,High School Honors,Male,Asian,2001,5
+G,High School Honors,Male,Asian,2002,4
+G,High School Honors,Male,Asian,2003,3
+G,High School Honors,Male,Asian,2004,3
+G,High School Honors,Male,Asian,2005,2
+G,High School Honors,Male,Asian,2006,6
+G,High School Honors,Male,Asian,2007,5
+G,High School Honors,Male,Asian,2008,6
+G,High School Honors,Male,Chicano/Latino,1996,1
+G,High School Honors,Male,Chicano/Latino,1997,1
+G,High School Honors,Male,Chicano/Latino,1998,1
+G,High School Honors,Male,Chicano/Latino,2008,1
+G,High School Honors,Male,Decline to State,1994,1
+G,High School Honors,Male,Decline to State,1995,1
+G,High School Honors,Male,Decline to State,1996,1
+G,High School Honors,Male,Decline to State,2001,1
+G,High School Honors,Male,Decline to State,2002,1
+G,High School Honors,Male,Decline to State,2004,3
+G,High School Honors,Male,Decline to State,2005,5
+G,High School Honors,Male,Decline to State,2006,5
+G,High School Honors,Male,Decline to State,2007,2
+G,High School Honors,Male,Decline to State,2008,1
+G,High School Honors,Male,Other,1996,1
+G,High School Honors,Male,Other,1997,1
+G,High School Honors,Male,Other,1998,1
+G,High School Honors,Male,Other,2002,1
+G,High School Honors,Male,Other,2003,1
+G,High School Honors,Male,Other,2004,1
+G,High School Honors,Male,Other,2005,1
+G,High School Honors,Male,Other,2006,1
+G,High School Honors,Male,Other,2008,1
+G,High School Honors,Male,White,1989,1
+G,High School Honors,Male,White,1990,2
+G,High School Honors,Male,White,1991,2
+G,High School Honors,Male,White,1992,5
+G,High School Honors,Male,White,1993,1
+G,High School Honors,Male,White,1994,2
+G,High School Honors,Male,White,1995,4
+G,High School Honors,Male,White,1996,4
+G,High School Honors,Male,White,1997,4
+G,High School Honors,Male,White,1998,6
+G,High School Honors,Male,White,1999,8
+G,High School Honors,Male,White,2000,9
+G,High School Honors,Male,White,2001,13
+G,High School Honors,Male,White,2002,14
+G,High School Honors,Male,White,2003,11
+G,High School Honors,Male,White,2004,9
+G,High School Honors,Male,White,2005,9
+G,High School Honors,Male,White,2006,10
+G,High School Honors,Male,White,2007,8
+G,High School Honors,Male,White,2008,8
+G,Masters,Female,African American,2013,75
+G,Masters,Female,Asian,2013,310
+G,Masters,Female,Chicano/Latino,2013,122
+G,Masters,Female,Decline to State,2013,189
+G,Masters,Female,International,2013,313
+G,Masters,Female,Native American,2013,15
+G,Masters,Female,Pacific Islander,2013,1
+G,Masters,Female,White,2013,494
+G,Masters,Male,African American,2013,50
+G,Masters,Male,Asian,2013,406
+G,Masters,Male,Chicano/Latino,2013,82
+G,Masters,Male,Decline to State,2013,168
+G,Masters,Male,International,2013,557
+G,Masters,Male,Native American,2013,9
+G,Masters,Male,Pacific Islander,2013,2
+G,Masters,Male,White,2013,620
+G,New Freshmen,Female,African American,1987,1
+G,New Freshmen,Female,African American,1988,2
+G,New Freshmen,Female,African American,1989,4
+G,New Freshmen,Female,African American,1990,2
+G,New Freshmen,Female,African American,1991,3
+G,New Freshmen,Female,African American,1992,7
+G,New Freshmen,Female,African American,1993,17
+G,New Freshmen,Female,African American,1994,23
+G,New Freshmen,Female,African American,1995,18
+G,New Freshmen,Female,African American,1996,13
+G,New Freshmen,Female,African American,1997,17
+G,New Freshmen,Female,African American,1998,18
+G,New Freshmen,Female,African American,1999,12
+G,New Freshmen,Female,African American,2000,13
+G,New Freshmen,Female,African American,2001,11
+G,New Freshmen,Female,African American,2002,12
+G,New Freshmen,Female,African American,2003,19
+G,New Freshmen,Female,African American,2004,21
+G,New Freshmen,Female,African American,2005,20
+G,New Freshmen,Female,African American,2006,17
+G,New Freshmen,Female,African American,2007,13
+G,New Freshmen,Female,African American,2008,14
+G,New Freshmen,Female,Asian,1987,3
+G,New Freshmen,Female,Asian,1988,9
+G,New Freshmen,Female,Asian,1989,27
+G,New Freshmen,Female,Asian,1990,56
+G,New Freshmen,Female,Asian,1991,60
+G,New Freshmen,Female,Asian,1992,62
+G,New Freshmen,Female,Asian,1993,69
+G,New Freshmen,Female,Asian,1994,96
+G,New Freshmen,Female,Asian,1995,107
+G,New Freshmen,Female,Asian,1996,106
+G,New Freshmen,Female,Asian,1997,113
+G,New Freshmen,Female,Asian,1998,122
+G,New Freshmen,Female,Asian,1999,124
+G,New Freshmen,Female,Asian,2000,122
+G,New Freshmen,Female,Asian,2001,137
+G,New Freshmen,Female,Asian,2002,146
+G,New Freshmen,Female,Asian,2003,177
+G,New Freshmen,Female,Asian,2004,186
+G,New Freshmen,Female,Asian,2005,178
+G,New Freshmen,Female,Asian,2006,175
+G,New Freshmen,Female,Asian,2007,187
+G,New Freshmen,Female,Asian,2008,175
+G,New Freshmen,Female,Chicano/Latino,1987,3
+G,New Freshmen,Female,Chicano/Latino,1988,2
+G,New Freshmen,Female,Chicano/Latino,1989,10
+G,New Freshmen,Female,Chicano/Latino,1990,11
+G,New Freshmen,Female,Chicano/Latino,1991,16
+G,New Freshmen,Female,Chicano/Latino,1992,15
+G,New Freshmen,Female,Chicano/Latino,1993,20
+G,New Freshmen,Female,Chicano/Latino,1994,23
+G,New Freshmen,Female,Chicano/Latino,1995,25
+G,New Freshmen,Female,Chicano/Latino,1996,23
+G,New Freshmen,Female,Chicano/Latino,1997,19
+G,New Freshmen,Female,Chicano/Latino,1998,24
+G,New Freshmen,Female,Chicano/Latino,1999,27
+G,New Freshmen,Female,Chicano/Latino,2000,30
+G,New Freshmen,Female,Chicano/Latino,2001,31
+G,New Freshmen,Female,Chicano/Latino,2002,45
+G,New Freshmen,Female,Chicano/Latino,2003,45
+G,New Freshmen,Female,Chicano/Latino,2004,37
+G,New Freshmen,Female,Chicano/Latino,2005,35
+G,New Freshmen,Female,Chicano/Latino,2006,32
+G,New Freshmen,Female,Chicano/Latino,2007,26
+G,New Freshmen,Female,Chicano/Latino,2008,33
+G,New Freshmen,Female,Decline to State,1989,1
+G,New Freshmen,Female,Decline to State,1990,4
+G,New Freshmen,Female,Decline to State,1991,4
+G,New Freshmen,Female,Decline to State,1992,3
+G,New Freshmen,Female,Decline to State,1993,7
+G,New Freshmen,Female,Decline to State,1994,8
+G,New Freshmen,Female,Decline to State,1995,7
+G,New Freshmen,Female,Decline to State,1996,7
+G,New Freshmen,Female,Decline to State,1997,6
+G,New Freshmen,Female,Decline to State,1998,9
+G,New Freshmen,Female,Decline to State,1999,14
+G,New Freshmen,Female,Decline to State,2000,18
+G,New Freshmen,Female,Decline to State,2001,21
+G,New Freshmen,Female,Decline to State,2002,18
+G,New Freshmen,Female,Decline to State,2003,14
+G,New Freshmen,Female,Decline to State,2004,17
+G,New Freshmen,Female,Decline to State,2005,19
+G,New Freshmen,Female,Decline to State,2006,21
+G,New Freshmen,Female,Decline to State,2007,26
+G,New Freshmen,Female,Decline to State,2008,39
+G,New Freshmen,Female,International,1986,1
+G,New Freshmen,Female,International,1987,1
+G,New Freshmen,Female,International,1988,3
+G,New Freshmen,Female,International,1989,3
+G,New Freshmen,Female,International,1990,4
+G,New Freshmen,Female,International,1991,2
+G,New Freshmen,Female,International,1992,1
+G,New Freshmen,Female,International,1993,1
+G,New Freshmen,Female,International,1994,3
+G,New Freshmen,Female,International,1995,3
+G,New Freshmen,Female,International,1996,4
+G,New Freshmen,Female,International,1997,5
+G,New Freshmen,Female,International,1998,5
+G,New Freshmen,Female,International,1999,5
+G,New Freshmen,Female,International,2000,4
+G,New Freshmen,Female,International,2001,7
+G,New Freshmen,Female,International,2002,11
+G,New Freshmen,Female,International,2003,8
+G,New Freshmen,Female,International,2004,8
+G,New Freshmen,Female,International,2005,7
+G,New Freshmen,Female,International,2006,5
+G,New Freshmen,Female,International,2007,5
+G,New Freshmen,Female,International,2008,4
+G,New Freshmen,Female,Native American,1991,1
+G,New Freshmen,Female,Native American,1992,3
+G,New Freshmen,Female,Native American,1993,3
+G,New Freshmen,Female,Native American,1994,3
+G,New Freshmen,Female,Native American,1995,5
+G,New Freshmen,Female,Native American,1996,4
+G,New Freshmen,Female,Native American,1997,4
+G,New Freshmen,Female,Native American,1998,1
+G,New Freshmen,Female,Native American,2002,3
+G,New Freshmen,Female,Native American,2003,4
+G,New Freshmen,Female,Native American,2004,4
+G,New Freshmen,Female,Native American,2005,5
+G,New Freshmen,Female,Native American,2006,1
+G,New Freshmen,Female,Native American,2007,1
+G,New Freshmen,Female,Native American,2008,2
+G,New Freshmen,Female,Other,1989,1
+G,New Freshmen,Female,Other,1990,2
+G,New Freshmen,Female,Other,1991,3
+G,New Freshmen,Female,Other,1992,4
+G,New Freshmen,Female,Other,1993,3
+G,New Freshmen,Female,Other,1994,2
+G,New Freshmen,Female,Other,1995,2
+G,New Freshmen,Female,Other,1996,3
+G,New Freshmen,Female,Other,1997,2
+G,New Freshmen,Female,Other,1998,7
+G,New Freshmen,Female,Other,1999,11
+G,New Freshmen,Female,Other,2000,12
+G,New Freshmen,Female,Other,2001,10
+G,New Freshmen,Female,Other,2002,11
+G,New Freshmen,Female,Other,2003,21
+G,New Freshmen,Female,Other,2004,26
+G,New Freshmen,Female,Other,2005,24
+G,New Freshmen,Female,Other,2006,29
+G,New Freshmen,Female,Other,2007,31
+G,New Freshmen,Female,Other,2008,34
+G,New Freshmen,Female,Pacific Islander,1996,1
+G,New Freshmen,Female,Pacific Islander,1997,1
+G,New Freshmen,Female,Pacific Islander,1998,1
+G,New Freshmen,Female,Pacific Islander,2000,1
+G,New Freshmen,Female,Pacific Islander,2001,2
+G,New Freshmen,Female,Pacific Islander,2002,2
+G,New Freshmen,Female,Pacific Islander,2003,2
+G,New Freshmen,Female,Pacific Islander,2004,3
+G,New Freshmen,Female,Pacific Islander,2006,2
+G,New Freshmen,Female,Pacific Islander,2007,4
+G,New Freshmen,Female,Pacific Islander,2008,3
+G,New Freshmen,Female,White,1986,2
+G,New Freshmen,Female,White,1987,16
+G,New Freshmen,Female,White,1988,30
+G,New Freshmen,Female,White,1989,51
+G,New Freshmen,Female,White,1990,69
+G,New Freshmen,Female,White,1991,68
+G,New Freshmen,Female,White,1992,76
+G,New Freshmen,Female,White,1993,77
+G,New Freshmen,Female,White,1994,88
+G,New Freshmen,Female,White,1995,96
+G,New Freshmen,Female,White,1996,107
+G,New Freshmen,Female,White,1997,106
+G,New Freshmen,Female,White,1998,108
+G,New Freshmen,Female,White,1999,102
+G,New Freshmen,Female,White,2000,96
+G,New Freshmen,Female,White,2001,95
+G,New Freshmen,Female,White,2002,112
+G,New Freshmen,Female,White,2003,116
+G,New Freshmen,Female,White,2004,118
+G,New Freshmen,Female,White,2005,104
+G,New Freshmen,Female,White,2006,105
+G,New Freshmen,Female,White,2007,103
+G,New Freshmen,Female,White,2008,97
+G,New Freshmen,Male,African American,1988,3
+G,New Freshmen,Male,African American,1989,4
+G,New Freshmen,Male,African American,1990,5
+G,New Freshmen,Male,African American,1991,7
+G,New Freshmen,Male,African American,1992,11
+G,New Freshmen,Male,African American,1993,12
+G,New Freshmen,Male,African American,1994,14
+G,New Freshmen,Male,African American,1995,14
+G,New Freshmen,Male,African American,1996,9
+G,New Freshmen,Male,African American,1997,8
+G,New Freshmen,Male,African American,1998,13
+G,New Freshmen,Male,African American,1999,13
+G,New Freshmen,Male,African American,2000,12
+G,New Freshmen,Male,African American,2001,14
+G,New Freshmen,Male,African American,2002,10
+G,New Freshmen,Male,African American,2003,11
+G,New Freshmen,Male,African American,2004,7
+G,New Freshmen,Male,African American,2005,12
+G,New Freshmen,Male,African American,2006,15
+G,New Freshmen,Male,African American,2007,12
+G,New Freshmen,Male,African American,2008,13
+G,New Freshmen,Male,Asian,1985,1
+G,New Freshmen,Male,Asian,1986,1
+G,New Freshmen,Male,Asian,1987,16
+G,New Freshmen,Male,Asian,1988,31
+G,New Freshmen,Male,Asian,1989,41
+G,New Freshmen,Male,Asian,1990,68
+G,New Freshmen,Male,Asian,1991,71
+G,New Freshmen,Male,Asian,1992,83
+G,New Freshmen,Male,Asian,1993,105
+G,New Freshmen,Male,Asian,1994,110
+G,New Freshmen,Male,Asian,1995,130
+G,New Freshmen,Male,Asian,1996,121
+G,New Freshmen,Male,Asian,1997,116
+G,New Freshmen,Male,Asian,1998,106
+G,New Freshmen,Male,Asian,1999,102
+G,New Freshmen,Male,Asian,2000,91
+G,New Freshmen,Male,Asian,2001,96
+G,New Freshmen,Male,Asian,2002,118
+G,New Freshmen,Male,Asian,2003,152
+G,New Freshmen,Male,Asian,2004,166
+G,New Freshmen,Male,Asian,2005,161
+G,New Freshmen,Male,Asian,2006,158
+G,New Freshmen,Male,Asian,2007,181
+G,New Freshmen,Male,Asian,2008,164
+G,New Freshmen,Male,Chicano/Latino,1987,2
+G,New Freshmen,Male,Chicano/Latino,1988,5
+G,New Freshmen,Male,Chicano/Latino,1989,9
+G,New Freshmen,Male,Chicano/Latino,1990,12
+G,New Freshmen,Male,Chicano/Latino,1991,15
+G,New Freshmen,Male,Chicano/Latino,1992,18
+G,New Freshmen,Male,Chicano/Latino,1993,23
+G,New Freshmen,Male,Chicano/Latino,1994,34
+G,New Freshmen,Male,Chicano/Latino,1995,30
+G,New Freshmen,Male,Chicano/Latino,1996,31
+G,New Freshmen,Male,Chicano/Latino,1997,28
+G,New Freshmen,Male,Chicano/Latino,1998,24
+G,New Freshmen,Male,Chicano/Latino,1999,27
+G,New Freshmen,Male,Chicano/Latino,2000,22
+G,New Freshmen,Male,Chicano/Latino,2001,26
+G,New Freshmen,Male,Chicano/Latino,2002,29
+G,New Freshmen,Male,Chicano/Latino,2003,28
+G,New Freshmen,Male,Chicano/Latino,2004,25
+G,New Freshmen,Male,Chicano/Latino,2005,26
+G,New Freshmen,Male,Chicano/Latino,2006,24
+G,New Freshmen,Male,Chicano/Latino,2007,29
+G,New Freshmen,Male,Chicano/Latino,2008,27
+G,New Freshmen,Male,Decline to State,1987,1
+G,New Freshmen,Male,Decline to State,1991,2
+G,New Freshmen,Male,Decline to State,1992,7
+G,New Freshmen,Male,Decline to State,1993,8
+G,New Freshmen,Male,Decline to State,1994,16
+G,New Freshmen,Male,Decline to State,1995,18
+G,New Freshmen,Male,Decline to State,1996,10
+G,New Freshmen,Male,Decline to State,1997,11
+G,New Freshmen,Male,Decline to State,1998,13
+G,New Freshmen,Male,Decline to State,1999,15
+G,New Freshmen,Male,Decline to State,2000,18
+G,New Freshmen,Male,Decline to State,2001,19
+G,New Freshmen,Male,Decline to State,2002,25
+G,New Freshmen,Male,Decline to State,2003,30
+G,New Freshmen,Male,Decline to State,2004,25
+G,New Freshmen,Male,Decline to State,2005,31
+G,New Freshmen,Male,Decline to State,2006,28
+G,New Freshmen,Male,Decline to State,2007,30
+G,New Freshmen,Male,Decline to State,2008,37
+G,New Freshmen,Male,International,1985,1
+G,New Freshmen,Male,International,1986,6
+G,New Freshmen,Male,International,1987,5
+G,New Freshmen,Male,International,1988,6
+G,New Freshmen,Male,International,1989,8
+G,New Freshmen,Male,International,1990,7
+G,New Freshmen,Male,International,1991,10
+G,New Freshmen,Male,International,1992,9
+G,New Freshmen,Male,International,1993,10
+G,New Freshmen,Male,International,1994,7
+G,New Freshmen,Male,International,1995,9
+G,New Freshmen,Male,International,1996,4
+G,New Freshmen,Male,International,1997,7
+G,New Freshmen,Male,International,1998,9
+G,New Freshmen,Male,International,1999,10
+G,New Freshmen,Male,International,2000,13
+G,New Freshmen,Male,International,2001,17
+G,New Freshmen,Male,International,2002,16
+G,New Freshmen,Male,International,2003,20
+G,New Freshmen,Male,International,2004,16
+G,New Freshmen,Male,International,2005,14
+G,New Freshmen,Male,International,2006,11
+G,New Freshmen,Male,International,2007,10
+G,New Freshmen,Male,International,2008,7
+G,New Freshmen,Male,Native American,1989,1
+G,New Freshmen,Male,Native American,1990,1
+G,New Freshmen,Male,Native American,1991,1
+G,New Freshmen,Male,Native American,1992,1
+G,New Freshmen,Male,Native American,1993,3
+G,New Freshmen,Male,Native American,1994,3
+G,New Freshmen,Male,Native American,1995,1
+G,New Freshmen,Male,Native American,1996,2
+G,New Freshmen,Male,Native American,1997,2
+G,New Freshmen,Male,Native American,1998,3
+G,New Freshmen,Male,Native American,1999,1
+G,New Freshmen,Male,Native American,2001,1
+G,New Freshmen,Male,Native American,2002,1
+G,New Freshmen,Male,Native American,2003,1
+G,New Freshmen,Male,Native American,2004,1
+G,New Freshmen,Male,Native American,2005,3
+G,New Freshmen,Male,Native American,2006,5
+G,New Freshmen,Male,Native American,2007,4
+G,New Freshmen,Male,Native American,2008,4
+G,New Freshmen,Male,Other,1990,2
+G,New Freshmen,Male,Other,1991,2
+G,New Freshmen,Male,Other,1992,2
+G,New Freshmen,Male,Other,1993,4
+G,New Freshmen,Male,Other,1994,4
+G,New Freshmen,Male,Other,1995,3
+G,New Freshmen,Male,Other,1996,2
+G,New Freshmen,Male,Other,1997,4
+G,New Freshmen,Male,Other,1998,9
+G,New Freshmen,Male,Other,1999,8
+G,New Freshmen,Male,Other,2000,4
+G,New Freshmen,Male,Other,2001,4
+G,New Freshmen,Male,Other,2002,9
+G,New Freshmen,Male,Other,2003,11
+G,New Freshmen,Male,Other,2004,16
+G,New Freshmen,Male,Other,2005,22
+G,New Freshmen,Male,Other,2006,17
+G,New Freshmen,Male,Other,2007,18
+G,New Freshmen,Male,Other,2008,22
+G,New Freshmen,Male,Pacific Islander,1992,1
+G,New Freshmen,Male,Pacific Islander,1993,1
+G,New Freshmen,Male,Pacific Islander,1994,1
+G,New Freshmen,Male,Pacific Islander,1995,2
+G,New Freshmen,Male,Pacific Islander,1996,2
+G,New Freshmen,Male,Pacific Islander,1997,2
+G,New Freshmen,Male,Pacific Islander,1998,1
+G,New Freshmen,Male,Pacific Islander,2003,1
+G,New Freshmen,Male,Pacific Islander,2004,1
+G,New Freshmen,Male,Pacific Islander,2005,1
+G,New Freshmen,Male,Pacific Islander,2006,1
+G,New Freshmen,Male,Pacific Islander,2007,3
+G,New Freshmen,Male,Pacific Islander,2008,3
+G,New Freshmen,Male,White,1986,3
+G,New Freshmen,Male,White,1987,30
+G,New Freshmen,Male,White,1988,62
+G,New Freshmen,Male,White,1989,90
+G,New Freshmen,Male,White,1990,106
+G,New Freshmen,Male,White,1991,107
+G,New Freshmen,Male,White,1992,146
+G,New Freshmen,Male,White,1993,161
+G,New Freshmen,Male,White,1994,164
+G,New Freshmen,Male,White,1995,164
+G,New Freshmen,Male,White,1996,156
+G,New Freshmen,Male,White,1997,160
+G,New Freshmen,Male,White,1998,155
+G,New Freshmen,Male,White,1999,162
+G,New Freshmen,Male,White,2000,155
+G,New Freshmen,Male,White,2001,134
+G,New Freshmen,Male,White,2002,135
+G,New Freshmen,Male,White,2003,143
+G,New Freshmen,Male,White,2004,160
+G,New Freshmen,Male,White,2005,155
+G,New Freshmen,Male,White,2006,172
+G,New Freshmen,Male,White,2007,168
+G,New Freshmen,Male,White,2008,161
+G,Professional,Female,African American,2013,26
+G,Professional,Female,Asian,2013,242
+G,Professional,Female,Chicano/Latino,2013,76
+G,Professional,Female,Decline to State,2013,43
+G,Professional,Female,International,2013,26
+G,Professional,Female,Native American,2013,9
+G,Professional,Female,Pacific Islander,2013,1
+G,Professional,Female,White,2013,263
+G,Professional,Male,African American,2013,27
+G,Professional,Male,Asian,2013,90
+G,Professional,Male,Chicano/Latino,2013,48
+G,Professional,Male,Decline to State,2013,44
+G,Professional,Male,International,2013,15
+G,Professional,Male,Native American,2013,6
+G,Professional,Male,White,2013,224
+G,Second Bachelor,Female,African American,1988,1
+G,Second Bachelor,Female,African American,1989,2
+G,Second Bachelor,Female,African American,1990,1
+G,Second Bachelor,Female,African American,1991,1
+G,Second Bachelor,Female,African American,1992,1
+G,Second Bachelor,Female,African American,1993,1
+G,Second Bachelor,Female,African American,1994,1
+G,Second Bachelor,Female,African American,1995,2
+G,Second Bachelor,Female,African American,1996,2
+G,Second Bachelor,Female,African American,1997,1
+G,Second Bachelor,Female,African American,1999,1
+G,Second Bachelor,Female,African American,2000,1
+G,Second Bachelor,Female,African American,2003,1
+G,Second Bachelor,Female,African American,2004,1
+G,Second Bachelor,Female,African American,2005,1
+G,Second Bachelor,Female,African American,2006,1
+G,Second Bachelor,Female,African American,2007,1
+G,Second Bachelor,Female,Asian,1984,1
+G,Second Bachelor,Female,Asian,1985,7
+G,Second Bachelor,Female,Asian,1986,7
+G,Second Bachelor,Female,Asian,1987,4
+G,Second Bachelor,Female,Asian,1988,4
+G,Second Bachelor,Female,Asian,1989,11
+G,Second Bachelor,Female,Asian,1990,17
+G,Second Bachelor,Female,Asian,1991,18
+G,Second Bachelor,Female,Asian,1992,14
+G,Second Bachelor,Female,Asian,1993,21
+G,Second Bachelor,Female,Asian,1994,28
+G,Second Bachelor,Female,Asian,1995,24
+G,Second Bachelor,Female,Asian,1996,26
+G,Second Bachelor,Female,Asian,1997,34
+G,Second Bachelor,Female,Asian,1998,32
+G,Second Bachelor,Female,Asian,1999,30
+G,Second Bachelor,Female,Asian,2000,28
+G,Second Bachelor,Female,Asian,2001,27
+G,Second Bachelor,Female,Asian,2002,22
+G,Second Bachelor,Female,Asian,2003,56
+G,Second Bachelor,Female,Asian,2004,50
+G,Second Bachelor,Female,Asian,2005,36
+G,Second Bachelor,Female,Asian,2006,18
+G,Second Bachelor,Female,Asian,2007,2
+G,Second Bachelor,Female,Asian,2008,1
+G,Second Bachelor,Female,Chicano/Latino,1986,1
+G,Second Bachelor,Female,Chicano/Latino,1987,5
+G,Second Bachelor,Female,Chicano/Latino,1988,6
+G,Second Bachelor,Female,Chicano/Latino,1989,3
+G,Second Bachelor,Female,Chicano/Latino,1990,4
+G,Second Bachelor,Female,Chicano/Latino,1991,4
+G,Second Bachelor,Female,Chicano/Latino,1992,5
+G,Second Bachelor,Female,Chicano/Latino,1993,4
+G,Second Bachelor,Female,Chicano/Latino,1994,3
+G,Second Bachelor,Female,Chicano/Latino,1995,1
+G,Second Bachelor,Female,Chicano/Latino,1996,1
+G,Second Bachelor,Female,Chicano/Latino,1997,2
+G,Second Bachelor,Female,Chicano/Latino,1998,1
+G,Second Bachelor,Female,Chicano/Latino,1999,1
+G,Second Bachelor,Female,Chicano/Latino,2000,2
+G,Second Bachelor,Female,Chicano/Latino,2001,3
+G,Second Bachelor,Female,Chicano/Latino,2002,3
+G,Second Bachelor,Female,Chicano/Latino,2003,6
+G,Second Bachelor,Female,Chicano/Latino,2004,5
+G,Second Bachelor,Female,Chicano/Latino,2005,4
+G,Second Bachelor,Female,Chicano/Latino,2006,2
+G,Second Bachelor,Female,Decline to State,1985,1
+G,Second Bachelor,Female,Decline to State,1986,4
+G,Second Bachelor,Female,Decline to State,1987,6
+G,Second Bachelor,Female,Decline to State,1988,10
+G,Second Bachelor,Female,Decline to State,1989,6
+G,Second Bachelor,Female,Decline to State,1990,2
+G,Second Bachelor,Female,Decline to State,1991,6
+G,Second Bachelor,Female,Decline to State,1992,13
+G,Second Bachelor,Female,Decline to State,1993,14
+G,Second Bachelor,Female,Decline to State,1994,9
+G,Second Bachelor,Female,Decline to State,1995,3
+G,Second Bachelor,Female,Decline to State,1997,3
+G,Second Bachelor,Female,Decline to State,1998,5
+G,Second Bachelor,Female,Decline to State,1999,4
+G,Second Bachelor,Female,Decline to State,2000,5
+G,Second Bachelor,Female,Decline to State,2001,3
+G,Second Bachelor,Female,Decline to State,2002,4
+G,Second Bachelor,Female,Decline to State,2003,5
+G,Second Bachelor,Female,Decline to State,2004,4
+G,Second Bachelor,Female,Decline to State,2005,2
+G,Second Bachelor,Female,Decline to State,2006,1
+G,Second Bachelor,Female,International,1986,4
+G,Second Bachelor,Female,International,1987,3
+G,Second Bachelor,Female,International,1988,3
+G,Second Bachelor,Female,International,1989,5
+G,Second Bachelor,Female,International,1990,4
+G,Second Bachelor,Female,International,1991,3
+G,Second Bachelor,Female,International,1992,2
+G,Second Bachelor,Female,International,1993,4
+G,Second Bachelor,Female,International,1994,5
+G,Second Bachelor,Female,International,1995,5
+G,Second Bachelor,Female,International,1996,2
+G,Second Bachelor,Female,International,1997,5
+G,Second Bachelor,Female,International,1998,7
+G,Second Bachelor,Female,International,1999,8
+G,Second Bachelor,Female,International,2000,3
+G,Second Bachelor,Female,International,2001,6
+G,Second Bachelor,Female,International,2002,6
+G,Second Bachelor,Female,International,2003,6
+G,Second Bachelor,Female,International,2004,8
+G,Second Bachelor,Female,International,2005,6
+G,Second Bachelor,Female,International,2006,3
+G,Second Bachelor,Female,International,2007,4
+G,Second Bachelor,Female,International,2008,4
+G,Second Bachelor,Female,Native American,1993,1
+G,Second Bachelor,Female,Native American,1994,1
+G,Second Bachelor,Female,Other,1987,1
+G,Second Bachelor,Female,Other,1988,1
+G,Second Bachelor,Female,Other,1991,1
+G,Second Bachelor,Female,Other,1992,1
+G,Second Bachelor,Female,Other,2003,3
+G,Second Bachelor,Female,Other,2004,3
+G,Second Bachelor,Female,Other,2005,3
+G,Second Bachelor,Female,Other,2006,2
+G,Second Bachelor,Female,Other,2007,1
+G,Second Bachelor,Female,Pacific Islander,1992,1
+G,Second Bachelor,Female,Pacific Islander,1993,1
+G,Second Bachelor,Female,White,1984,3
+G,Second Bachelor,Female,White,1985,19
+G,Second Bachelor,Female,White,1986,38
+G,Second Bachelor,Female,White,1987,32
+G,Second Bachelor,Female,White,1988,32
+G,Second Bachelor,Female,White,1989,22
+G,Second Bachelor,Female,White,1990,22
+G,Second Bachelor,Female,White,1991,19
+G,Second Bachelor,Female,White,1992,24
+G,Second Bachelor,Female,White,1993,27
+G,Second Bachelor,Female,White,1994,24
+G,Second Bachelor,Female,White,1995,27
+G,Second Bachelor,Female,White,1996,37
+G,Second Bachelor,Female,White,1997,27
+G,Second Bachelor,Female,White,1998,23
+G,Second Bachelor,Female,White,1999,23
+G,Second Bachelor,Female,White,2000,23
+G,Second Bachelor,Female,White,2001,22
+G,Second Bachelor,Female,White,2002,29
+G,Second Bachelor,Female,White,2003,40
+G,Second Bachelor,Female,White,2004,20
+G,Second Bachelor,Female,White,2005,14
+G,Second Bachelor,Female,White,2006,9
+G,Second Bachelor,Female,White,2007,5
+G,Second Bachelor,Female,White,2008,3
+G,Second Bachelor,Male,African American,1987,1
+G,Second Bachelor,Male,African American,1988,1
+G,Second Bachelor,Male,African American,2002,1
+G,Second Bachelor,Male,African American,2003,1
+G,Second Bachelor,Male,Asian,1984,1
+G,Second Bachelor,Male,Asian,1985,6
+G,Second Bachelor,Male,Asian,1986,8
+G,Second Bachelor,Male,Asian,1987,9
+G,Second Bachelor,Male,Asian,1988,11
+G,Second Bachelor,Male,Asian,1989,14
+G,Second Bachelor,Male,Asian,1990,10
+G,Second Bachelor,Male,Asian,1991,5
+G,Second Bachelor,Male,Asian,1992,4
+G,Second Bachelor,Male,Asian,1993,7
+G,Second Bachelor,Male,Asian,1994,11
+G,Second Bachelor,Male,Asian,1995,13
+G,Second Bachelor,Male,Asian,1996,16
+G,Second Bachelor,Male,Asian,1997,17
+G,Second Bachelor,Male,Asian,1998,13
+G,Second Bachelor,Male,Asian,1999,13
+G,Second Bachelor,Male,Asian,2000,12
+G,Second Bachelor,Male,Asian,2001,15
+G,Second Bachelor,Male,Asian,2002,10
+G,Second Bachelor,Male,Asian,2003,22
+G,Second Bachelor,Male,Asian,2004,18
+G,Second Bachelor,Male,Asian,2005,13
+G,Second Bachelor,Male,Asian,2006,5
+G,Second Bachelor,Male,Chicano/Latino,1985,2
+G,Second Bachelor,Male,Chicano/Latino,1986,4
+G,Second Bachelor,Male,Chicano/Latino,1987,3
+G,Second Bachelor,Male,Chicano/Latino,1988,2
+G,Second Bachelor,Male,Chicano/Latino,1989,4
+G,Second Bachelor,Male,Chicano/Latino,1990,3
+G,Second Bachelor,Male,Chicano/Latino,1991,1
+G,Second Bachelor,Male,Chicano/Latino,1992,4
+G,Second Bachelor,Male,Chicano/Latino,1993,4
+G,Second Bachelor,Male,Chicano/Latino,1994,2
+G,Second Bachelor,Male,Chicano/Latino,1995,4
+G,Second Bachelor,Male,Chicano/Latino,1996,4
+G,Second Bachelor,Male,Chicano/Latino,1997,5
+G,Second Bachelor,Male,Chicano/Latino,1998,4
+G,Second Bachelor,Male,Chicano/Latino,1999,2
+G,Second Bachelor,Male,Chicano/Latino,2000,1
+G,Second Bachelor,Male,Chicano/Latino,2001,2
+G,Second Bachelor,Male,Chicano/Latino,2002,1
+G,Second Bachelor,Male,Chicano/Latino,2003,4
+G,Second Bachelor,Male,Chicano/Latino,2004,4
+G,Second Bachelor,Male,Chicano/Latino,2005,3
+G,Second Bachelor,Male,Chicano/Latino,2006,4
+G,Second Bachelor,Male,Chicano/Latino,2007,1
+G,Second Bachelor,Male,Chicano/Latino,2008,1
+G,Second Bachelor,Male,Decline to State,1986,8
+G,Second Bachelor,Male,Decline to State,1987,15
+G,Second Bachelor,Male,Decline to State,1988,12
+G,Second Bachelor,Male,Decline to State,1989,4
+G,Second Bachelor,Male,Decline to State,1990,8
+G,Second Bachelor,Male,Decline to State,1991,7
+G,Second Bachelor,Male,Decline to State,1992,8
+G,Second Bachelor,Male,Decline to State,1993,8
+G,Second Bachelor,Male,Decline to State,1994,2
+G,Second Bachelor,Male,Decline to State,1995,2
+G,Second Bachelor,Male,Decline to State,1998,1
+G,Second Bachelor,Male,Decline to State,1999,3
+G,Second Bachelor,Male,Decline to State,2000,6
+G,Second Bachelor,Male,Decline to State,2001,4
+G,Second Bachelor,Male,Decline to State,2002,2
+G,Second Bachelor,Male,Decline to State,2003,6
+G,Second Bachelor,Male,Decline to State,2004,5
+G,Second Bachelor,Male,Decline to State,2005,5
+G,Second Bachelor,Male,Decline to State,2006,5
+G,Second Bachelor,Male,Decline to State,2007,1
+G,Second Bachelor,Male,Decline to State,2008,1
+G,Second Bachelor,Male,International,1985,2
+G,Second Bachelor,Male,International,1986,2
+G,Second Bachelor,Male,International,1987,2
+G,Second Bachelor,Male,International,1988,2
+G,Second Bachelor,Male,International,1989,1
+G,Second Bachelor,Male,International,1990,1
+G,Second Bachelor,Male,International,1991,2
+G,Second Bachelor,Male,International,1992,4
+G,Second Bachelor,Male,International,1993,2
+G,Second Bachelor,Male,International,1994,4
+G,Second Bachelor,Male,International,1995,9
+G,Second Bachelor,Male,International,1996,11
+G,Second Bachelor,Male,International,1997,11
+G,Second Bachelor,Male,International,1998,9
+G,Second Bachelor,Male,International,1999,13
+G,Second Bachelor,Male,International,2000,13
+G,Second Bachelor,Male,International,2001,14
+G,Second Bachelor,Male,International,2002,15
+G,Second Bachelor,Male,International,2003,14
+G,Second Bachelor,Male,International,2004,12
+G,Second Bachelor,Male,International,2005,10
+G,Second Bachelor,Male,International,2006,12
+G,Second Bachelor,Male,International,2007,9
+G,Second Bachelor,Male,International,2008,14
+G,Second Bachelor,Male,Native American,1997,2
+G,Second Bachelor,Male,Native American,1998,2
+G,Second Bachelor,Male,Other,1986,1
+G,Second Bachelor,Male,Other,1987,3
+G,Second Bachelor,Male,Other,1988,2
+G,Second Bachelor,Male,Other,1989,1
+G,Second Bachelor,Male,Other,1990,1
+G,Second Bachelor,Male,Other,1993,1
+G,Second Bachelor,Male,Other,1994,1
+G,Second Bachelor,Male,Other,1998,1
+G,Second Bachelor,Male,Other,2003,2
+G,Second Bachelor,Male,Other,2004,2
+G,Second Bachelor,Male,Other,2005,1
+G,Second Bachelor,Male,White,1984,3
+G,Second Bachelor,Male,White,1985,17
+G,Second Bachelor,Male,White,1986,30
+G,Second Bachelor,Male,White,1987,24
+G,Second Bachelor,Male,White,1988,16
+G,Second Bachelor,Male,White,1989,28
+G,Second Bachelor,Male,White,1990,33
+G,Second Bachelor,Male,White,1991,25
+G,Second Bachelor,Male,White,1992,22
+G,Second Bachelor,Male,White,1993,19
+G,Second Bachelor,Male,White,1994,22
+G,Second Bachelor,Male,White,1995,26
+G,Second Bachelor,Male,White,1996,23
+G,Second Bachelor,Male,White,1997,17
+G,Second Bachelor,Male,White,1998,17
+G,Second Bachelor,Male,White,1999,20
+G,Second Bachelor,Male,White,2000,16
+G,Second Bachelor,Male,White,2001,15
+G,Second Bachelor,Male,White,2002,12
+G,Second Bachelor,Male,White,2003,20
+G,Second Bachelor,Male,White,2004,18
+G,Second Bachelor,Male,White,2005,13
+G,Second Bachelor,Male,White,2006,6
+G,Second Bachelor,Male,White,2007,3
+G,Second Bachelor,Male,White,2008,2
+G,(unknown),Female,African American,1983,126
+G,(unknown),Female,African American,1984,124
+G,(unknown),Female,African American,1985,133
+G,(unknown),Female,African American,1986,145
+G,(unknown),Female,African American,1987,142
+G,(unknown),Female,African American,1988,155
+G,(unknown),Female,African American,1989,167
+G,(unknown),Female,African American,1990,176
+G,(unknown),Female,African American,1991,169
+G,(unknown),Female,African American,1992,159
+G,(unknown),Female,African American,1993,158
+G,(unknown),Female,African American,1994,159
+G,(unknown),Female,African American,1995,174
+G,(unknown),Female,African American,1996,169
+G,(unknown),Female,African American,1997,147
+G,(unknown),Female,African American,1998,136
+G,(unknown),Female,African American,1999,124
+G,(unknown),Female,African American,2000,133
+G,(unknown),Female,African American,2001,137
+G,(unknown),Female,African American,2002,138
+G,(unknown),Female,African American,2003,165
+G,(unknown),Female,African American,2004,163
+G,(unknown),Female,African American,2005,164
+G,(unknown),Female,African American,2006,184
+G,(unknown),Female,African American,2007,186
+G,(unknown),Female,African American,2008,183
+G,(unknown),Female,African American,2009,203
+G,(unknown),Female,African American,2010,197
+G,(unknown),Female,African American,2011,200
+G,(unknown),Female,African American,2012,215
+G,(unknown),Female,Asian,1983,230
+G,(unknown),Female,Asian,1984,233
+G,(unknown),Female,Asian,1985,249
+G,(unknown),Female,Asian,1986,282
+G,(unknown),Female,Asian,1987,299
+G,(unknown),Female,Asian,1988,260
+G,(unknown),Female,Asian,1989,264
+G,(unknown),Female,Asian,1990,323
+G,(unknown),Female,Asian,1991,340
+G,(unknown),Female,Asian,1992,343
+G,(unknown),Female,Asian,1993,377
+G,(unknown),Female,Asian,1994,408
+G,(unknown),Female,Asian,1995,445
+G,(unknown),Female,Asian,1996,457
+G,(unknown),Female,Asian,1997,466
+G,(unknown),Female,Asian,1998,490
+G,(unknown),Female,Asian,1999,470
+G,(unknown),Female,Asian,2000,485
+G,(unknown),Female,Asian,2001,501
+G,(unknown),Female,Asian,2002,558
+G,(unknown),Female,Asian,2003,595
+G,(unknown),Female,Asian,2004,604
+G,(unknown),Female,Asian,2005,641
+G,(unknown),Female,Asian,2006,666
+G,(unknown),Female,Asian,2007,687
+G,(unknown),Female,Asian,2008,681
+G,(unknown),Female,Asian,2009,879
+G,(unknown),Female,Asian,2010,920
+G,(unknown),Female,Asian,2011,931
+G,(unknown),Female,Asian,2012,916
+G,(unknown),Female,Chicano/Latino,1983,148
+G,(unknown),Female,Chicano/Latino,1984,152
+G,(unknown),Female,Chicano/Latino,1985,153
+G,(unknown),Female,Chicano/Latino,1986,138
+G,(unknown),Female,Chicano/Latino,1987,160
+G,(unknown),Female,Chicano/Latino,1988,146
+G,(unknown),Female,Chicano/Latino,1989,163
+G,(unknown),Female,Chicano/Latino,1990,200
+G,(unknown),Female,Chicano/Latino,1991,197
+G,(unknown),Female,Chicano/Latino,1992,184
+G,(unknown),Female,Chicano/Latino,1993,197
+G,(unknown),Female,Chicano/Latino,1994,210
+G,(unknown),Female,Chicano/Latino,1995,195
+G,(unknown),Female,Chicano/Latino,1996,201
+G,(unknown),Female,Chicano/Latino,1997,215
+G,(unknown),Female,Chicano/Latino,1998,214
+G,(unknown),Female,Chicano/Latino,1999,195
+G,(unknown),Female,Chicano/Latino,2000,196
+G,(unknown),Female,Chicano/Latino,2001,208
+G,(unknown),Female,Chicano/Latino,2002,219
+G,(unknown),Female,Chicano/Latino,2003,241
+G,(unknown),Female,Chicano/Latino,2004,259
+G,(unknown),Female,Chicano/Latino,2005,265
+G,(unknown),Female,Chicano/Latino,2006,259
+G,(unknown),Female,Chicano/Latino,2007,262
+G,(unknown),Female,Chicano/Latino,2008,265
+G,(unknown),Female,Chicano/Latino,2009,369
+G,(unknown),Female,Chicano/Latino,2010,380
+G,(unknown),Female,Chicano/Latino,2011,357
+G,(unknown),Female,Chicano/Latino,2012,367
+G,(unknown),Female,Chicano/Latino,2013,1
+G,(unknown),Female,Decline to State,1983,43
+G,(unknown),Female,Decline to State,1984,51
+G,(unknown),Female,Decline to State,1985,57
+G,(unknown),Female,Decline to State,1986,115
+G,(unknown),Female,Decline to State,1987,80
+G,(unknown),Female,Decline to State,1988,62
+G,(unknown),Female,Decline to State,1989,32
+G,(unknown),Female,Decline to State,1990,42
+G,(unknown),Female,Decline to State,1991,46
+G,(unknown),Female,Decline to State,1992,70
+G,(unknown),Female,Decline to State,1993,58
+G,(unknown),Female,Decline to State,1994,61
+G,(unknown),Female,Decline to State,1995,73
+G,(unknown),Female,Decline to State,1996,79
+G,(unknown),Female,Decline to State,1997,97
+G,(unknown),Female,Decline to State,1998,99
+G,(unknown),Female,Decline to State,1999,116
+G,(unknown),Female,Decline to State,2000,131
+G,(unknown),Female,Decline to State,2001,138
+G,(unknown),Female,Decline to State,2002,183
+G,(unknown),Female,Decline to State,2003,213
+G,(unknown),Female,Decline to State,2004,203
+G,(unknown),Female,Decline to State,2005,255
+G,(unknown),Female,Decline to State,2006,241
+G,(unknown),Female,Decline to State,2007,247
+G,(unknown),Female,Decline to State,2008,330
+G,(unknown),Female,Decline to State,2009,419
+G,(unknown),Female,Decline to State,2010,419
+G,(unknown),Female,Decline to State,2011,505
+G,(unknown),Female,Decline to State,2012,566
+G,(unknown),Female,International,1983,225
+G,(unknown),Female,International,1984,285
+G,(unknown),Female,International,1985,292
+G,(unknown),Female,International,1986,301
+G,(unknown),Female,International,1987,295
+G,(unknown),Female,International,1988,319
+G,(unknown),Female,International,1989,313
+G,(unknown),Female,International,1990,307
+G,(unknown),Female,International,1991,288
+G,(unknown),Female,International,1992,279
+G,(unknown),Female,International,1993,301
+G,(unknown),Female,International,1994,297
+G,(unknown),Female,International,1995,295
+G,(unknown),Female,International,1996,341
+G,(unknown),Female,International,1997,388
+G,(unknown),Female,International,1998,402
+G,(unknown),Female,International,1999,461
+G,(unknown),Female,International,2000,512
+G,(unknown),Female,International,2001,589
+G,(unknown),Female,International,2002,596
+G,(unknown),Female,International,2003,586
+G,(unknown),Female,International,2004,574
+G,(unknown),Female,International,2005,555
+G,(unknown),Female,International,2006,541
+G,(unknown),Female,International,2007,555
+G,(unknown),Female,International,2008,562
+G,(unknown),Female,International,2009,571
+G,(unknown),Female,International,2010,551
+G,(unknown),Female,International,2011,615
+G,(unknown),Female,International,2012,674
+G,(unknown),Female,Native American,1983,26
+G,(unknown),Female,Native American,1984,27
+G,(unknown),Female,Native American,1985,26
+G,(unknown),Female,Native American,1986,23
+G,(unknown),Female,Native American,1987,29
+G,(unknown),Female,Native American,1988,29
+G,(unknown),Female,Native American,1989,27
+G,(unknown),Female,Native American,1990,30
+G,(unknown),Female,Native American,1991,26
+G,(unknown),Female,Native American,1992,28
+G,(unknown),Female,Native American,1993,26
+G,(unknown),Female,Native American,1994,24
+G,(unknown),Female,Native American,1995,24
+G,(unknown),Female,Native American,1996,27
+G,(unknown),Female,Native American,1997,35
+G,(unknown),Female,Native American,1998,27
+G,(unknown),Female,Native American,1999,24
+G,(unknown),Female,Native American,2000,25
+G,(unknown),Female,Native American,2001,22
+G,(unknown),Female,Native American,2002,29
+G,(unknown),Female,Native American,2003,40
+G,(unknown),Female,Native American,2004,42
+G,(unknown),Female,Native American,2005,43
+G,(unknown),Female,Native American,2006,46
+G,(unknown),Female,Native American,2007,50
+G,(unknown),Female,Native American,2008,49
+G,(unknown),Female,Native American,2009,51
+G,(unknown),Female,Native American,2010,50
+G,(unknown),Female,Native American,2011,56
+G,(unknown),Female,Native American,2012,63
+G,(unknown),Female,Other,1983,47
+G,(unknown),Female,Other,1984,40
+G,(unknown),Female,Other,1985,23
+G,(unknown),Female,Other,1986,17
+G,(unknown),Female,Other,1987,20
+G,(unknown),Female,Other,1988,25
+G,(unknown),Female,Other,1989,32
+G,(unknown),Female,Other,1990,39
+G,(unknown),Female,Other,1991,28
+G,(unknown),Female,Other,1992,31
+G,(unknown),Female,Other,1993,24
+G,(unknown),Female,Other,1994,43
+G,(unknown),Female,Other,1995,41
+G,(unknown),Female,Other,1996,39
+G,(unknown),Female,Other,1997,44
+G,(unknown),Female,Other,1998,52
+G,(unknown),Female,Other,1999,62
+G,(unknown),Female,Other,2000,47
+G,(unknown),Female,Other,2001,55
+G,(unknown),Female,Other,2002,92
+G,(unknown),Female,Other,2003,110
+G,(unknown),Female,Other,2004,131
+G,(unknown),Female,Other,2005,142
+G,(unknown),Female,Other,2006,147
+G,(unknown),Female,Other,2007,157
+G,(unknown),Female,Other,2008,162
+G,(unknown),Female,Other,2009,214
+G,(unknown),Female,Other,2010,160
+G,(unknown),Female,Pacific Islander,1983,2
+G,(unknown),Female,Pacific Islander,1985,1
+G,(unknown),Female,Pacific Islander,1986,2
+G,(unknown),Female,Pacific Islander,1987,1
+G,(unknown),Female,Pacific Islander,1988,1
+G,(unknown),Female,Pacific Islander,1989,3
+G,(unknown),Female,Pacific Islander,1990,3
+G,(unknown),Female,Pacific Islander,1991,2
+G,(unknown),Female,Pacific Islander,1992,1
+G,(unknown),Female,Pacific Islander,1993,3
+G,(unknown),Female,Pacific Islander,1994,6
+G,(unknown),Female,Pacific Islander,1995,5
+G,(unknown),Female,Pacific Islander,1996,4
+G,(unknown),Female,Pacific Islander,1997,3
+G,(unknown),Female,Pacific Islander,1998,6
+G,(unknown),Female,Pacific Islander,1999,12
+G,(unknown),Female,Pacific Islander,2000,9
+G,(unknown),Female,Pacific Islander,2001,10
+G,(unknown),Female,Pacific Islander,2002,14
+G,(unknown),Female,Pacific Islander,2003,12
+G,(unknown),Female,Pacific Islander,2004,7
+G,(unknown),Female,Pacific Islander,2005,6
+G,(unknown),Female,Pacific Islander,2006,6
+G,(unknown),Female,Pacific Islander,2007,8
+G,(unknown),Female,Pacific Islander,2008,9
+G,(unknown),Female,Pacific Islander,2009,13
+G,(unknown),Female,Pacific Islander,2010,14
+G,(unknown),Female,Pacific Islander,2011,14
+G,(unknown),Female,Pacific Islander,2012,8
+G,(unknown),Female,White,1983,2452
+G,(unknown),Female,White,1984,2546
+G,(unknown),Female,White,1985,2503
+G,(unknown),Female,White,1986,2434
+G,(unknown),Female,White,1987,2423
+G,(unknown),Female,White,1988,2368
+G,(unknown),Female,White,1989,2305
+G,(unknown),Female,White,1990,2237
+G,(unknown),Female,White,1991,2102
+G,(unknown),Female,White,1992,2104
+G,(unknown),Female,White,1993,2017
+G,(unknown),Female,White,1994,1852
+G,(unknown),Female,White,1995,1803
+G,(unknown),Female,White,1996,1801
+G,(unknown),Female,White,1997,1826
+G,(unknown),Female,White,1998,1898
+G,(unknown),Female,White,1999,1865
+G,(unknown),Female,White,2000,1900
+G,(unknown),Female,White,2001,1892
+G,(unknown),Female,White,2002,1898
+G,(unknown),Female,White,2003,1907
+G,(unknown),Female,White,2004,1875
+G,(unknown),Female,White,2005,1928
+G,(unknown),Female,White,2006,1927
+G,(unknown),Female,White,2007,1908
+G,(unknown),Female,White,2008,1799
+G,(unknown),Female,White,2009,1924
+G,(unknown),Female,White,2010,1923
+G,(unknown),Female,White,2011,1907
+G,(unknown),Female,White,2012,1796
+G,(unknown),Female,White,2013,1
+G,(unknown),Male,African American,1983,120
+G,(unknown),Male,African American,1984,124
+G,(unknown),Male,African American,1985,138
+G,(unknown),Male,African American,1986,135
+G,(unknown),Male,African American,1987,135
+G,(unknown),Male,African American,1988,136
+G,(unknown),Male,African American,1989,141
+G,(unknown),Male,African American,1990,147
+G,(unknown),Male,African American,1991,153
+G,(unknown),Male,African American,1992,130
+G,(unknown),Male,African American,1993,122
+G,(unknown),Male,African American,1994,130
+G,(unknown),Male,African American,1995,125
+G,(unknown),Male,African American,1996,134
+G,(unknown),Male,African American,1997,125
+G,(unknown),Male,African American,1998,98
+G,(unknown),Male,African American,1999,98
+G,(unknown),Male,African American,2000,85
+G,(unknown),Male,African American,2001,83
+G,(unknown),Male,African American,2002,98
+G,(unknown),Male,African American,2003,100
+G,(unknown),Male,African American,2004,109
+G,(unknown),Male,African American,2005,110
+G,(unknown),Male,African American,2006,107
+G,(unknown),Male,African American,2007,97
+G,(unknown),Male,African American,2008,108
+G,(unknown),Male,African American,2009,127
+G,(unknown),Male,African American,2010,132
+G,(unknown),Male,African American,2011,143
+G,(unknown),Male,African American,2012,138
+G,(unknown),Male,Asian,1983,398
+G,(unknown),Male,Asian,1984,409
+G,(unknown),Male,Asian,1985,384
+G,(unknown),Male,Asian,1986,374
+G,(unknown),Male,Asian,1987,378
+G,(unknown),Male,Asian,1988,351
+G,(unknown),Male,Asian,1989,354
+G,(unknown),Male,Asian,1990,366
+G,(unknown),Male,Asian,1991,392
+G,(unknown),Male,Asian,1992,405
+G,(unknown),Male,Asian,1993,438
+G,(unknown),Male,Asian,1994,467
+G,(unknown),Male,Asian,1995,470
+G,(unknown),Male,Asian,1996,477
+G,(unknown),Male,Asian,1997,468
+G,(unknown),Male,Asian,1998,501
+G,(unknown),Male,Asian,1999,469
+G,(unknown),Male,Asian,2000,451
+G,(unknown),Male,Asian,2001,470
+G,(unknown),Male,Asian,2002,492
+G,(unknown),Male,Asian,2003,556
+G,(unknown),Male,Asian,2004,615
+G,(unknown),Male,Asian,2005,630
+G,(unknown),Male,Asian,2006,659
+G,(unknown),Male,Asian,2007,663
+G,(unknown),Male,Asian,2008,656
+G,(unknown),Male,Asian,2009,867
+G,(unknown),Male,Asian,2010,900
+G,(unknown),Male,Asian,2011,896
+G,(unknown),Male,Asian,2012,873
+G,(unknown),Male,Chicano/Latino,1983,200
+G,(unknown),Male,Chicano/Latino,1984,208
+G,(unknown),Male,Chicano/Latino,1985,216
+G,(unknown),Male,Chicano/Latino,1986,207
+G,(unknown),Male,Chicano/Latino,1987,213
+G,(unknown),Male,Chicano/Latino,1988,212
+G,(unknown),Male,Chicano/Latino,1989,212
+G,(unknown),Male,Chicano/Latino,1990,216
+G,(unknown),Male,Chicano/Latino,1991,233
+G,(unknown),Male,Chicano/Latino,1992,249
+G,(unknown),Male,Chicano/Latino,1993,232
+G,(unknown),Male,Chicano/Latino,1994,224
+G,(unknown),Male,Chicano/Latino,1995,235
+G,(unknown),Male,Chicano/Latino,1996,220
+G,(unknown),Male,Chicano/Latino,1997,194
+G,(unknown),Male,Chicano/Latino,1998,189
+G,(unknown),Male,Chicano/Latino,1999,172
+G,(unknown),Male,Chicano/Latino,2000,174
+G,(unknown),Male,Chicano/Latino,2001,194
+G,(unknown),Male,Chicano/Latino,2002,195
+G,(unknown),Male,Chicano/Latino,2003,217
+G,(unknown),Male,Chicano/Latino,2004,225
+G,(unknown),Male,Chicano/Latino,2005,238
+G,(unknown),Male,Chicano/Latino,2006,248
+G,(unknown),Male,Chicano/Latino,2007,257
+G,(unknown),Male,Chicano/Latino,2008,270
+G,(unknown),Male,Chicano/Latino,2009,334
+G,(unknown),Male,Chicano/Latino,2010,355
+G,(unknown),Male,Chicano/Latino,2011,356
+G,(unknown),Male,Chicano/Latino,2012,360
+G,(unknown),Male,Decline to State,1983,88
+G,(unknown),Male,Decline to State,1984,87
+G,(unknown),Male,Decline to State,1985,166
+G,(unknown),Male,Decline to State,1986,183
+G,(unknown),Male,Decline to State,1987,138
+G,(unknown),Male,Decline to State,1988,98
+G,(unknown),Male,Decline to State,1989,35
+G,(unknown),Male,Decline to State,1990,78
+G,(unknown),Male,Decline to State,1991,95
+G,(unknown),Male,Decline to State,1992,127
+G,(unknown),Male,Decline to State,1993,86
+G,(unknown),Male,Decline to State,1994,122
+G,(unknown),Male,Decline to State,1995,127
+G,(unknown),Male,Decline to State,1996,127
+G,(unknown),Male,Decline to State,1997,133
+G,(unknown),Male,Decline to State,1998,145
+G,(unknown),Male,Decline to State,1999,152
+G,(unknown),Male,Decline to State,2000,169
+G,(unknown),Male,Decline to State,2001,171
+G,(unknown),Male,Decline to State,2002,199
+G,(unknown),Male,Decline to State,2003,238
+G,(unknown),Male,Decline to State,2004,271
+G,(unknown),Male,Decline to State,2005,308
+G,(unknown),Male,Decline to State,2006,336
+G,(unknown),Male,Decline to State,2007,382
+G,(unknown),Male,Decline to State,2008,416
+G,(unknown),Male,Decline to State,2009,526
+G,(unknown),Male,Decline to State,2010,506
+G,(unknown),Male,Decline to State,2011,611
+G,(unknown),Male,Decline to State,2012,646
+G,(unknown),Male,International,1983,1051
+G,(unknown),Male,International,1984,1134
+G,(unknown),Male,International,1985,1146
+G,(unknown),Male,International,1986,1156
+G,(unknown),Male,International,1987,1116
+G,(unknown),Male,International,1988,1058
+G,(unknown),Male,International,1989,1063
+G,(unknown),Male,International,1990,1133
+G,(unknown),Male,International,1991,993
+G,(unknown),Male,International,1992,944
+G,(unknown),Male,International,1993,863
+G,(unknown),Male,International,1994,787
+G,(unknown),Male,International,1995,777
+G,(unknown),Male,International,1996,822
+G,(unknown),Male,International,1997,891
+G,(unknown),Male,International,1998,941
+G,(unknown),Male,International,1999,1038
+G,(unknown),Male,International,2000,1095
+G,(unknown),Male,International,2001,1214
+G,(unknown),Male,International,2002,1286
+G,(unknown),Male,International,2003,1208
+G,(unknown),Male,International,2004,1145
+G,(unknown),Male,International,2005,1140
+G,(unknown),Male,International,2006,1144
+G,(unknown),Male,International,2007,1221
+G,(unknown),Male,International,2008,1268
+G,(unknown),Male,International,2009,1281
+G,(unknown),Male,International,2010,1348
+G,(unknown),Male,International,2011,1395
+G,(unknown),Male,International,2012,1383
+G,(unknown),Male,International,2013,1
+G,(unknown),Male,Native American,1983,23
+G,(unknown),Male,Native American,1984,28
+G,(unknown),Male,Native American,1985,25
+G,(unknown),Male,Native American,1986,23
+G,(unknown),Male,Native American,1987,31
+G,(unknown),Male,Native American,1988,25
+G,(unknown),Male,Native American,1989,28
+G,(unknown),Male,Native American,1990,23
+G,(unknown),Male,Native American,1991,16
+G,(unknown),Male,Native American,1992,22
+G,(unknown),Male,Native American,1993,20
+G,(unknown),Male,Native American,1994,24
+G,(unknown),Male,Native American,1995,27
+G,(unknown),Male,Native American,1996,26
+G,(unknown),Male,Native American,1997,26
+G,(unknown),Male,Native American,1998,19
+G,(unknown),Male,Native American,1999,12
+G,(unknown),Male,Native American,2000,15
+G,(unknown),Male,Native American,2001,17
+G,(unknown),Male,Native American,2002,22
+G,(unknown),Male,Native American,2003,34
+G,(unknown),Male,Native American,2004,35
+G,(unknown),Male,Native American,2005,42
+G,(unknown),Male,Native American,2006,57
+G,(unknown),Male,Native American,2007,63
+G,(unknown),Male,Native American,2008,56
+G,(unknown),Male,Native American,2009,61
+G,(unknown),Male,Native American,2010,54
+G,(unknown),Male,Native American,2011,57
+G,(unknown),Male,Native American,2012,53
+G,(unknown),Male,Other,1983,80
+G,(unknown),Male,Other,1984,68
+G,(unknown),Male,Other,1985,40
+G,(unknown),Male,Other,1986,31
+G,(unknown),Male,Other,1987,35
+G,(unknown),Male,Other,1988,23
+G,(unknown),Male,Other,1989,23
+G,(unknown),Male,Other,1990,28
+G,(unknown),Male,Other,1991,22
+G,(unknown),Male,Other,1992,22
+G,(unknown),Male,Other,1993,30
+G,(unknown),Male,Other,1994,40
+G,(unknown),Male,Other,1995,35
+G,(unknown),Male,Other,1996,36
+G,(unknown),Male,Other,1997,40
+G,(unknown),Male,Other,1998,44
+G,(unknown),Male,Other,1999,67
+G,(unknown),Male,Other,2000,43
+G,(unknown),Male,Other,2001,66
+G,(unknown),Male,Other,2002,87
+G,(unknown),Male,Other,2003,114
+G,(unknown),Male,Other,2004,113
+G,(unknown),Male,Other,2005,135
+G,(unknown),Male,Other,2006,146
+G,(unknown),Male,Other,2007,150
+G,(unknown),Male,Other,2008,149
+G,(unknown),Male,Other,2009,188
+G,(unknown),Male,Other,2010,139
+G,(unknown),Male,Pacific Islander,1983,5
+G,(unknown),Male,Pacific Islander,1984,3
+G,(unknown),Male,Pacific Islander,1985,2
+G,(unknown),Male,Pacific Islander,1986,3
+G,(unknown),Male,Pacific Islander,1987,1
+G,(unknown),Male,Pacific Islander,1988,1
+G,(unknown),Male,Pacific Islander,1989,2
+G,(unknown),Male,Pacific Islander,1990,4
+G,(unknown),Male,Pacific Islander,1991,4
+G,(unknown),Male,Pacific Islander,1992,5
+G,(unknown),Male,Pacific Islander,1993,4
+G,(unknown),Male,Pacific Islander,1994,2
+G,(unknown),Male,Pacific Islander,1995,3
+G,(unknown),Male,Pacific Islander,1996,4
+G,(unknown),Male,Pacific Islander,1997,3
+G,(unknown),Male,Pacific Islander,1998,4
+G,(unknown),Male,Pacific Islander,1999,1
+G,(unknown),Male,Pacific Islander,2000,5
+G,(unknown),Male,Pacific Islander,2001,4
+G,(unknown),Male,Pacific Islander,2002,6
+G,(unknown),Male,Pacific Islander,2003,9
+G,(unknown),Male,Pacific Islander,2004,11
+G,(unknown),Male,Pacific Islander,2005,8
+G,(unknown),Male,Pacific Islander,2006,6
+G,(unknown),Male,Pacific Islander,2007,9
+G,(unknown),Male,Pacific Islander,2008,11
+G,(unknown),Male,Pacific Islander,2009,14
+G,(unknown),Male,Pacific Islander,2010,12
+G,(unknown),Male,Pacific Islander,2011,10
+G,(unknown),Male,Pacific Islander,2012,8
+G,(unknown),Male,White,1983,3474
+G,(unknown),Male,White,1984,3552
+G,(unknown),Male,White,1985,3449
+G,(unknown),Male,White,1986,3411
+G,(unknown),Male,White,1987,3297
+G,(unknown),Male,White,1988,3089
+G,(unknown),Male,White,1989,3004
+G,(unknown),Male,White,1990,2886
+G,(unknown),Male,White,1991,2739
+G,(unknown),Male,White,1992,2670
+G,(unknown),Male,White,1993,2563
+G,(unknown),Male,White,1994,2436
+G,(unknown),Male,White,1995,2396
+G,(unknown),Male,White,1996,2311
+G,(unknown),Male,White,1997,2284
+G,(unknown),Male,White,1998,2198
+G,(unknown),Male,White,1999,2141
+G,(unknown),Male,White,2000,2023
+G,(unknown),Male,White,2001,2006
+G,(unknown),Male,White,2002,2045
+G,(unknown),Male,White,2003,2176
+G,(unknown),Male,White,2004,2224
+G,(unknown),Male,White,2005,2196
+G,(unknown),Male,White,2006,2129
+G,(unknown),Male,White,2007,2179
+G,(unknown),Male,White,2008,2056
+G,(unknown),Male,White,2009,2272
+G,(unknown),Male,White,2010,2238
+G,(unknown),Male,White,2011,2204
+G,(unknown),Male,White,2012,2059
+U,Advanced Standing,Female,African American,1983,52
+U,Advanced Standing,Female,African American,1984,100
+U,Advanced Standing,Female,African American,1985,142
+U,Advanced Standing,Female,African American,1986,152
+U,Advanced Standing,Female,African American,1987,206
+U,Advanced Standing,Female,African American,1988,200
+U,Advanced Standing,Female,African American,1989,235
+U,Advanced Standing,Female,African American,1990,217
+U,Advanced Standing,Female,African American,1991,178
+U,Advanced Standing,Female,African American,1992,144
+U,Advanced Standing,Female,African American,1993,124
+U,Advanced Standing,Female,African American,1994,129
+U,Advanced Standing,Female,African American,1995,142
+U,Advanced Standing,Female,African American,1996,138
+U,Advanced Standing,Female,African American,1997,136
+U,Advanced Standing,Female,African American,1998,131
+U,Advanced Standing,Female,African American,1999,121
+U,Advanced Standing,Female,African American,2000,104
+U,Advanced Standing,Female,African American,2001,104
+U,Advanced Standing,Female,African American,2002,105
+U,Advanced Standing,Female,African American,2003,136
+U,Advanced Standing,Female,African American,2004,106
+U,Advanced Standing,Female,African American,2005,107
+U,Advanced Standing,Female,African American,2006,104
+U,Advanced Standing,Female,African American,2007,108
+U,Advanced Standing,Female,African American,2008,107
+U,Advanced Standing,Female,African American,2009,123
+U,Advanced Standing,Female,African American,2010,123
+U,Advanced Standing,Female,African American,2011,131
+U,Advanced Standing,Female,African American,2012,118
+U,Advanced Standing,Female,African American,2013,124
+U,Advanced Standing,Female,Asian,1983,178
+U,Advanced Standing,Female,Asian,1984,420
+U,Advanced Standing,Female,Asian,1985,501
+U,Advanced Standing,Female,Asian,1986,523
+U,Advanced Standing,Female,Asian,1987,622
+U,Advanced Standing,Female,Asian,1988,634
+U,Advanced Standing,Female,Asian,1989,593
+U,Advanced Standing,Female,Asian,1990,582
+U,Advanced Standing,Female,Asian,1991,567
+U,Advanced Standing,Female,Asian,1992,539
+U,Advanced Standing,Female,Asian,1993,558
+U,Advanced Standing,Female,Asian,1994,568
+U,Advanced Standing,Female,Asian,1995,582
+U,Advanced Standing,Female,Asian,1996,567
+U,Advanced Standing,Female,Asian,1997,594
+U,Advanced Standing,Female,Asian,1998,610
+U,Advanced Standing,Female,Asian,1999,632
+U,Advanced Standing,Female,Asian,2000,648
+U,Advanced Standing,Female,Asian,2001,654
+U,Advanced Standing,Female,Asian,2002,724
+U,Advanced Standing,Female,Asian,2003,704
+U,Advanced Standing,Female,Asian,2004,667
+U,Advanced Standing,Female,Asian,2005,716
+U,Advanced Standing,Female,Asian,2006,694
+U,Advanced Standing,Female,Asian,2007,724
+U,Advanced Standing,Female,Asian,2008,717
+U,Advanced Standing,Female,Asian,2009,656
+U,Advanced Standing,Female,Asian,2010,643
+U,Advanced Standing,Female,Asian,2011,647
+U,Advanced Standing,Female,Asian,2012,669
+U,Advanced Standing,Female,Asian,2013,670
+U,Advanced Standing,Female,Chicano/Latino,1983,69
+U,Advanced Standing,Female,Chicano/Latino,1984,150
+U,Advanced Standing,Female,Chicano/Latino,1985,221
+U,Advanced Standing,Female,Chicano/Latino,1986,224
+U,Advanced Standing,Female,Chicano/Latino,1987,252
+U,Advanced Standing,Female,Chicano/Latino,1988,307
+U,Advanced Standing,Female,Chicano/Latino,1989,363
+U,Advanced Standing,Female,Chicano/Latino,1990,388
+U,Advanced Standing,Female,Chicano/Latino,1991,371
+U,Advanced Standing,Female,Chicano/Latino,1992,300
+U,Advanced Standing,Female,Chicano/Latino,1993,285
+U,Advanced Standing,Female,Chicano/Latino,1994,283
+U,Advanced Standing,Female,Chicano/Latino,1995,293
+U,Advanced Standing,Female,Chicano/Latino,1996,288
+U,Advanced Standing,Female,Chicano/Latino,1997,288
+U,Advanced Standing,Female,Chicano/Latino,1998,250
+U,Advanced Standing,Female,Chicano/Latino,1999,218
+U,Advanced Standing,Female,Chicano/Latino,2000,225
+U,Advanced Standing,Female,Chicano/Latino,2001,249
+U,Advanced Standing,Female,Chicano/Latino,2002,311
+U,Advanced Standing,Female,Chicano/Latino,2003,330
+U,Advanced Standing,Female,Chicano/Latino,2004,297
+U,Advanced Standing,Female,Chicano/Latino,2005,302
+U,Advanced Standing,Female,Chicano/Latino,2006,330
+U,Advanced Standing,Female,Chicano/Latino,2007,385
+U,Advanced Standing,Female,Chicano/Latino,2008,379
+U,Advanced Standing,Female,Chicano/Latino,2009,356
+U,Advanced Standing,Female,Chicano/Latino,2010,363
+U,Advanced Standing,Female,Chicano/Latino,2011,429
+U,Advanced Standing,Female,Chicano/Latino,2012,457
+U,Advanced Standing,Female,Chicano/Latino,2013,453
+U,Advanced Standing,Female,Decline to State,1983,40
+U,Advanced Standing,Female,Decline to State,1984,56
+U,Advanced Standing,Female,Decline to State,1985,93
+U,Advanced Standing,Female,Decline to State,1986,123
+U,Advanced Standing,Female,Decline to State,1987,160
+U,Advanced Standing,Female,Decline to State,1988,159
+U,Advanced Standing,Female,Decline to State,1989,165
+U,Advanced Standing,Female,Decline to State,1990,193
+U,Advanced Standing,Female,Decline to State,1991,203
+U,Advanced Standing,Female,Decline to State,1992,217
+U,Advanced Standing,Female,Decline to State,1993,190
+U,Advanced Standing,Female,Decline to State,1994,157
+U,Advanced Standing,Female,Decline to State,1995,109
+U,Advanced Standing,Female,Decline to State,1996,104
+U,Advanced Standing,Female,Decline to State,1997,123
+U,Advanced Standing,Female,Decline to State,1998,206
+U,Advanced Standing,Female,Decline to State,1999,256
+U,Advanced Standing,Female,Decline to State,2000,218
+U,Advanced Standing,Female,Decline to State,2001,241
+U,Advanced Standing,Female,Decline to State,2002,249
+U,Advanced Standing,Female,Decline to State,2003,242
+U,Advanced Standing,Female,Decline to State,2004,214
+U,Advanced Standing,Female,Decline to State,2005,210
+U,Advanced Standing,Female,Decline to State,2006,191
+U,Advanced Standing,Female,Decline to State,2007,181
+U,Advanced Standing,Female,Decline to State,2008,192
+U,Advanced Standing,Female,Decline to State,2009,195
+U,Advanced Standing,Female,Decline to State,2010,186
+U,Advanced Standing,Female,Decline to State,2011,176
+U,Advanced Standing,Female,Decline to State,2012,116
+U,Advanced Standing,Female,Decline to State,2013,93
+U,Advanced Standing,Female,International,1983,43
+U,Advanced Standing,Female,International,1984,71
+U,Advanced Standing,Female,International,1985,71
+U,Advanced Standing,Female,International,1986,58
+U,Advanced Standing,Female,International,1987,81
+U,Advanced Standing,Female,International,1988,100
+U,Advanced Standing,Female,International,1989,106
+U,Advanced Standing,Female,International,1990,106
+U,Advanced Standing,Female,International,1991,112
+U,Advanced Standing,Female,International,1992,122
+U,Advanced Standing,Female,International,1993,135
+U,Advanced Standing,Female,International,1994,146
+U,Advanced Standing,Female,International,1995,153
+U,Advanced Standing,Female,International,1996,141
+U,Advanced Standing,Female,International,1997,162
+U,Advanced Standing,Female,International,1998,179
+U,Advanced Standing,Female,International,1999,203
+U,Advanced Standing,Female,International,2000,214
+U,Advanced Standing,Female,International,2001,216
+U,Advanced Standing,Female,International,2002,198
+U,Advanced Standing,Female,International,2003,187
+U,Advanced Standing,Female,International,2004,171
+U,Advanced Standing,Female,International,2005,171
+U,Advanced Standing,Female,International,2006,166
+U,Advanced Standing,Female,International,2007,151
+U,Advanced Standing,Female,International,2008,159
+U,Advanced Standing,Female,International,2009,206
+U,Advanced Standing,Female,International,2010,262
+U,Advanced Standing,Female,International,2011,349
+U,Advanced Standing,Female,International,2012,389
+U,Advanced Standing,Female,International,2013,504
+U,Advanced Standing,Female,Native American,1983,5
+U,Advanced Standing,Female,Native American,1984,13
+U,Advanced Standing,Female,Native American,1985,21
+U,Advanced Standing,Female,Native American,1986,23
+U,Advanced Standing,Female,Native American,1987,24
+U,Advanced Standing,Female,Native American,1988,31
+U,Advanced Standing,Female,Native American,1989,39
+U,Advanced Standing,Female,Native American,1990,49
+U,Advanced Standing,Female,Native American,1991,52
+U,Advanced Standing,Female,Native American,1992,38
+U,Advanced Standing,Female,Native American,1993,43
+U,Advanced Standing,Female,Native American,1994,45
+U,Advanced Standing,Female,Native American,1995,43
+U,Advanced Standing,Female,Native American,1996,27
+U,Advanced Standing,Female,Native American,1997,33
+U,Advanced Standing,Female,Native American,1998,27
+U,Advanced Standing,Female,Native American,1999,23
+U,Advanced Standing,Female,Native American,2000,18
+U,Advanced Standing,Female,Native American,2001,19
+U,Advanced Standing,Female,Native American,2002,25
+U,Advanced Standing,Female,Native American,2003,25
+U,Advanced Standing,Female,Native American,2004,29
+U,Advanced Standing,Female,Native American,2005,21
+U,Advanced Standing,Female,Native American,2006,21
+U,Advanced Standing,Female,Native American,2007,23
+U,Advanced Standing,Female,Native American,2008,17
+U,Advanced Standing,Female,Native American,2009,21
+U,Advanced Standing,Female,Native American,2010,29
+U,Advanced Standing,Female,Native American,2011,26
+U,Advanced Standing,Female,Native American,2012,31
+U,Advanced Standing,Female,Native American,2013,29
+U,Advanced Standing,Female,Other,1983,34
+U,Advanced Standing,Female,Other,1984,73
+U,Advanced Standing,Female,Other,1985,97
+U,Advanced Standing,Female,Other,1986,82
+U,Advanced Standing,Female,Other,1987,71
+U,Advanced Standing,Female,Other,1988,60
+U,Advanced Standing,Female,Other,1989,65
+U,Advanced Standing,Female,Other,1990,49
+U,Advanced Standing,Female,Other,1991,47
+U,Advanced Standing,Female,Other,1992,52
+U,Advanced Standing,Female,Other,1993,51
+U,Advanced Standing,Female,Other,1994,56
+U,Advanced Standing,Female,Other,1995,50
+U,Advanced Standing,Female,Other,1996,49
+U,Advanced Standing,Female,Other,1997,46
+U,Advanced Standing,Female,Other,1998,54
+U,Advanced Standing,Female,Other,1999,53
+U,Advanced Standing,Female,Other,2000,56
+U,Advanced Standing,Female,Other,2001,60
+U,Advanced Standing,Female,Other,2002,76
+U,Advanced Standing,Female,Other,2003,81
+U,Advanced Standing,Female,Other,2004,77
+U,Advanced Standing,Female,Other,2005,67
+U,Advanced Standing,Female,Other,2006,68
+U,Advanced Standing,Female,Other,2007,63
+U,Advanced Standing,Female,Other,2008,52
+U,Advanced Standing,Female,Other,2009,65
+U,Advanced Standing,Female,Other,2010,42
+U,Advanced Standing,Female,Pacific Islander,1983,3
+U,Advanced Standing,Female,Pacific Islander,1984,4
+U,Advanced Standing,Female,Pacific Islander,1985,2
+U,Advanced Standing,Female,Pacific Islander,1986,3
+U,Advanced Standing,Female,Pacific Islander,1988,1
+U,Advanced Standing,Female,Pacific Islander,1989,2
+U,Advanced Standing,Female,Pacific Islander,1990,4
+U,Advanced Standing,Female,Pacific Islander,1991,4
+U,Advanced Standing,Female,Pacific Islander,1992,5
+U,Advanced Standing,Female,Pacific Islander,1993,8
+U,Advanced Standing,Female,Pacific Islander,1994,9
+U,Advanced Standing,Female,Pacific Islander,1995,10
+U,Advanced Standing,Female,Pacific Islander,1996,5
+U,Advanced Standing,Female,Pacific Islander,1998,4
+U,Advanced Standing,Female,Pacific Islander,1999,6
+U,Advanced Standing,Female,Pacific Islander,2000,7
+U,Advanced Standing,Female,Pacific Islander,2001,12
+U,Advanced Standing,Female,Pacific Islander,2002,12
+U,Advanced Standing,Female,Pacific Islander,2003,11
+U,Advanced Standing,Female,Pacific Islander,2004,7
+U,Advanced Standing,Female,Pacific Islander,2005,10
+U,Advanced Standing,Female,Pacific Islander,2006,9
+U,Advanced Standing,Female,Pacific Islander,2007,12
+U,Advanced Standing,Female,Pacific Islander,2008,12
+U,Advanced Standing,Female,Pacific Islander,2009,10
+U,Advanced Standing,Female,Pacific Islander,2010,5
+U,Advanced Standing,Female,Pacific Islander,2011,10
+U,Advanced Standing,Female,Pacific Islander,2012,11
+U,Advanced Standing,Female,Pacific Islander,2013,9
+U,Advanced Standing,Female,White,1983,955
+U,Advanced Standing,Female,White,1984,1888
+U,Advanced Standing,Female,White,1985,2121
+U,Advanced Standing,Female,White,1986,1854
+U,Advanced Standing,Female,White,1987,1996
+U,Advanced Standing,Female,White,1988,1948
+U,Advanced Standing,Female,White,1989,1766
+U,Advanced Standing,Female,White,1990,1588
+U,Advanced Standing,Female,White,1991,1401
+U,Advanced Standing,Female,White,1992,1239
+U,Advanced Standing,Female,White,1993,1073
+U,Advanced Standing,Female,White,1994,882
+U,Advanced Standing,Female,White,1995,802
+U,Advanced Standing,Female,White,1996,775
+U,Advanced Standing,Female,White,1997,796
+U,Advanced Standing,Female,White,1998,835
+U,Advanced Standing,Female,White,1999,828
+U,Advanced Standing,Female,White,2000,830
+U,Advanced Standing,Female,White,2001,858
+U,Advanced Standing,Female,White,2002,840
+U,Advanced Standing,Female,White,2003,798
+U,Advanced Standing,Female,White,2004,837
+U,Advanced Standing,Female,White,2005,912
+U,Advanced Standing,Female,White,2006,977
+U,Advanced Standing,Female,White,2007,974
+U,Advanced Standing,Female,White,2008,907
+U,Advanced Standing,Female,White,2009,888
+U,Advanced Standing,Female,White,2010,856
+U,Advanced Standing,Female,White,2011,917
+U,Advanced Standing,Female,White,2012,891
+U,Advanced Standing,Female,White,2013,793
+U,Advanced Standing,Male,African American,1983,62
+U,Advanced Standing,Male,African American,1984,107
+U,Advanced Standing,Male,African American,1985,134
+U,Advanced Standing,Male,African American,1986,129
+U,Advanced Standing,Male,African American,1987,153
+U,Advanced Standing,Male,African American,1988,162
+U,Advanced Standing,Male,African American,1989,171
+U,Advanced Standing,Male,African American,1990,185
+U,Advanced Standing,Male,African American,1991,147
+U,Advanced Standing,Male,African American,1992,148
+U,Advanced Standing,Male,African American,1993,150
+U,Advanced Standing,Male,African American,1994,128
+U,Advanced Standing,Male,African American,1995,136
+U,Advanced Standing,Male,African American,1996,139
+U,Advanced Standing,Male,African American,1997,154
+U,Advanced Standing,Male,African American,1998,132
+U,Advanced Standing,Male,African American,1999,109
+U,Advanced Standing,Male,African American,2000,93
+U,Advanced Standing,Male,African American,2001,87
+U,Advanced Standing,Male,African American,2002,91
+U,Advanced Standing,Male,African American,2003,92
+U,Advanced Standing,Male,African American,2004,71
+U,Advanced Standing,Male,African American,2005,73
+U,Advanced Standing,Male,African American,2006,93
+U,Advanced Standing,Male,African American,2007,104
+U,Advanced Standing,Male,African American,2008,115
+U,Advanced Standing,Male,African American,2009,114
+U,Advanced Standing,Male,African American,2010,109
+U,Advanced Standing,Male,African American,2011,126
+U,Advanced Standing,Male,African American,2012,131
+U,Advanced Standing,Male,African American,2013,114
+U,Advanced Standing,Male,Asian,1983,279
+U,Advanced Standing,Male,Asian,1984,588
+U,Advanced Standing,Male,Asian,1985,736
+U,Advanced Standing,Male,Asian,1986,691
+U,Advanced Standing,Male,Asian,1987,721
+U,Advanced Standing,Male,Asian,1988,731
+U,Advanced Standing,Male,Asian,1989,705
+U,Advanced Standing,Male,Asian,1990,724
+U,Advanced Standing,Male,Asian,1991,707
+U,Advanced Standing,Male,Asian,1992,665
+U,Advanced Standing,Male,Asian,1993,635
+U,Advanced Standing,Male,Asian,1994,624
+U,Advanced Standing,Male,Asian,1995,612
+U,Advanced Standing,Male,Asian,1996,663
+U,Advanced Standing,Male,Asian,1997,631
+U,Advanced Standing,Male,Asian,1998,602
+U,Advanced Standing,Male,Asian,1999,585
+U,Advanced Standing,Male,Asian,2000,487
+U,Advanced Standing,Male,Asian,2001,525
+U,Advanced Standing,Male,Asian,2002,578
+U,Advanced Standing,Male,Asian,2003,589
+U,Advanced Standing,Male,Asian,2004,595
+U,Advanced Standing,Male,Asian,2005,644
+U,Advanced Standing,Male,Asian,2006,669
+U,Advanced Standing,Male,Asian,2007,692
+U,Advanced Standing,Male,Asian,2008,723
+U,Advanced Standing,Male,Asian,2009,750
+U,Advanced Standing,Male,Asian,2010,764
+U,Advanced Standing,Male,Asian,2011,758
+U,Advanced Standing,Male,Asian,2012,695
+U,Advanced Standing,Male,Asian,2013,682
+U,Advanced Standing,Male,Chicano/Latino,1983,86
+U,Advanced Standing,Male,Chicano/Latino,1984,171
+U,Advanced Standing,Male,Chicano/Latino,1985,224
+U,Advanced Standing,Male,Chicano/Latino,1986,231
+U,Advanced Standing,Male,Chicano/Latino,1987,278
+U,Advanced Standing,Male,Chicano/Latino,1988,309
+U,Advanced Standing,Male,Chicano/Latino,1989,352
+U,Advanced Standing,Male,Chicano/Latino,1990,370
+U,Advanced Standing,Male,Chicano/Latino,1991,371
+U,Advanced Standing,Male,Chicano/Latino,1992,352
+U,Advanced Standing,Male,Chicano/Latino,1993,323
+U,Advanced Standing,Male,Chicano/Latino,1994,300
+U,Advanced Standing,Male,Chicano/Latino,1995,301
+U,Advanced Standing,Male,Chicano/Latino,1996,289
+U,Advanced Standing,Male,Chicano/Latino,1997,262
+U,Advanced Standing,Male,Chicano/Latino,1998,251
+U,Advanced Standing,Male,Chicano/Latino,1999,225
+U,Advanced Standing,Male,Chicano/Latino,2000,198
+U,Advanced Standing,Male,Chicano/Latino,2001,197
+U,Advanced Standing,Male,Chicano/Latino,2002,227
+U,Advanced Standing,Male,Chicano/Latino,2003,256
+U,Advanced Standing,Male,Chicano/Latino,2004,274
+U,Advanced Standing,Male,Chicano/Latino,2005,270
+U,Advanced Standing,Male,Chicano/Latino,2006,316
+U,Advanced Standing,Male,Chicano/Latino,2007,356
+U,Advanced Standing,Male,Chicano/Latino,2008,375
+U,Advanced Standing,Male,Chicano/Latino,2009,410
+U,Advanced Standing,Male,Chicano/Latino,2010,425
+U,Advanced Standing,Male,Chicano/Latino,2011,448
+U,Advanced Standing,Male,Chicano/Latino,2012,480
+U,Advanced Standing,Male,Chicano/Latino,2013,492
+U,Advanced Standing,Male,Decline to State,1983,44
+U,Advanced Standing,Male,Decline to State,1984,51
+U,Advanced Standing,Male,Decline to State,1985,114
+U,Advanced Standing,Male,Decline to State,1986,128
+U,Advanced Standing,Male,Decline to State,1987,183
+U,Advanced Standing,Male,Decline to State,1988,192
+U,Advanced Standing,Male,Decline to State,1989,195
+U,Advanced Standing,Male,Decline to State,1990,219
+U,Advanced Standing,Male,Decline to State,1991,240
+U,Advanced Standing,Male,Decline to State,1992,248
+U,Advanced Standing,Male,Decline to State,1993,220
+U,Advanced Standing,Male,Decline to State,1994,194
+U,Advanced Standing,Male,Decline to State,1995,170
+U,Advanced Standing,Male,Decline to State,1996,128
+U,Advanced Standing,Male,Decline to State,1997,129
+U,Advanced Standing,Male,Decline to State,1998,207
+U,Advanced Standing,Male,Decline to State,1999,263
+U,Advanced Standing,Male,Decline to State,2000,245
+U,Advanced Standing,Male,Decline to State,2001,241
+U,Advanced Standing,Male,Decline to State,2002,260
+U,Advanced Standing,Male,Decline to State,2003,255
+U,Advanced Standing,Male,Decline to State,2004,250
+U,Advanced Standing,Male,Decline to State,2005,239
+U,Advanced Standing,Male,Decline to State,2006,224
+U,Advanced Standing,Male,Decline to State,2007,231
+U,Advanced Standing,Male,Decline to State,2008,212
+U,Advanced Standing,Male,Decline to State,2009,202
+U,Advanced Standing,Male,Decline to State,2010,209
+U,Advanced Standing,Male,Decline to State,2011,179
+U,Advanced Standing,Male,Decline to State,2012,128
+U,Advanced Standing,Male,Decline to State,2013,118
+U,Advanced Standing,Male,International,1983,38
+U,Advanced Standing,Male,International,1984,111
+U,Advanced Standing,Male,International,1985,121
+U,Advanced Standing,Male,International,1986,118
+U,Advanced Standing,Male,International,1987,143
+U,Advanced Standing,Male,International,1988,143
+U,Advanced Standing,Male,International,1989,124
+U,Advanced Standing,Male,International,1990,127
+U,Advanced Standing,Male,International,1991,143
+U,Advanced Standing,Male,International,1992,178
+U,Advanced Standing,Male,International,1993,187
+U,Advanced Standing,Male,International,1994,206
+U,Advanced Standing,Male,International,1995,190
+U,Advanced Standing,Male,International,1996,190
+U,Advanced Standing,Male,International,1997,206
+U,Advanced Standing,Male,International,1998,221
+U,Advanced Standing,Male,International,1999,228
+U,Advanced Standing,Male,International,2000,224
+U,Advanced Standing,Male,International,2001,199
+U,Advanced Standing,Male,International,2002,163
+U,Advanced Standing,Male,International,2003,169
+U,Advanced Standing,Male,International,2004,201
+U,Advanced Standing,Male,International,2005,208
+U,Advanced Standing,Male,International,2006,200
+U,Advanced Standing,Male,International,2007,213
+U,Advanced Standing,Male,International,2008,224
+U,Advanced Standing,Male,International,2009,307
+U,Advanced Standing,Male,International,2010,372
+U,Advanced Standing,Male,International,2011,463
+U,Advanced Standing,Male,International,2012,529
+U,Advanced Standing,Male,International,2013,586
+U,Advanced Standing,Male,Native American,1983,7
+U,Advanced Standing,Male,Native American,1984,15
+U,Advanced Standing,Male,Native American,1985,19
+U,Advanced Standing,Male,Native American,1986,22
+U,Advanced Standing,Male,Native American,1987,28
+U,Advanced Standing,Male,Native American,1988,43
+U,Advanced Standing,Male,Native American,1989,50
+U,Advanced Standing,Male,Native American,1990,37
+U,Advanced Standing,Male,Native American,1991,44
+U,Advanced Standing,Male,Native American,1992,42
+U,Advanced Standing,Male,Native American,1993,39
+U,Advanced Standing,Male,Native American,1994,27
+U,Advanced Standing,Male,Native American,1995,29
+U,Advanced Standing,Male,Native American,1996,29
+U,Advanced Standing,Male,Native American,1997,32
+U,Advanced Standing,Male,Native American,1998,20
+U,Advanced Standing,Male,Native American,1999,17
+U,Advanced Standing,Male,Native American,2000,15
+U,Advanced Standing,Male,Native American,2001,14
+U,Advanced Standing,Male,Native American,2002,14
+U,Advanced Standing,Male,Native American,2003,16
+U,Advanced Standing,Male,Native American,2004,13
+U,Advanced Standing,Male,Native American,2005,18
+U,Advanced Standing,Male,Native American,2006,20
+U,Advanced Standing,Male,Native American,2007,21
+U,Advanced Standing,Male,Native American,2008,25
+U,Advanced Standing,Male,Native American,2009,22
+U,Advanced Standing,Male,Native American,2010,19
+U,Advanced Standing,Male,Native American,2011,27
+U,Advanced Standing,Male,Native American,2012,29
+U,Advanced Standing,Male,Native American,2013,22
+U,Advanced Standing,Male,Other,1983,38
+U,Advanced Standing,Male,Other,1984,102
+U,Advanced Standing,Male,Other,1985,121
+U,Advanced Standing,Male,Other,1986,113
+U,Advanced Standing,Male,Other,1987,93
+U,Advanced Standing,Male,Other,1988,64
+U,Advanced Standing,Male,Other,1989,54
+U,Advanced Standing,Male,Other,1990,35
+U,Advanced Standing,Male,Other,1991,36
+U,Advanced Standing,Male,Other,1992,44
+U,Advanced Standing,Male,Other,1993,43
+U,Advanced Standing,Male,Other,1994,45
+U,Advanced Standing,Male,Other,1995,41
+U,Advanced Standing,Male,Other,1996,47
+U,Advanced Standing,Male,Other,1997,54
+U,Advanced Standing,Male,Other,1998,57
+U,Advanced Standing,Male,Other,1999,52
+U,Advanced Standing,Male,Other,2000,55
+U,Advanced Standing,Male,Other,2001,64
+U,Advanced Standing,Male,Other,2002,68
+U,Advanced Standing,Male,Other,2003,52
+U,Advanced Standing,Male,Other,2004,46
+U,Advanced Standing,Male,Other,2005,47
+U,Advanced Standing,Male,Other,2006,47
+U,Advanced Standing,Male,Other,2007,43
+U,Advanced Standing,Male,Other,2008,45
+U,Advanced Standing,Male,Other,2009,44
+U,Advanced Standing,Male,Other,2010,26
+U,Advanced Standing,Male,Pacific Islander,1983,1
+U,Advanced Standing,Male,Pacific Islander,1985,1
+U,Advanced Standing,Male,Pacific Islander,1986,3
+U,Advanced Standing,Male,Pacific Islander,1987,2
+U,Advanced Standing,Male,Pacific Islander,1988,4
+U,Advanced Standing,Male,Pacific Islander,1989,2
+U,Advanced Standing,Male,Pacific Islander,1990,2
+U,Advanced Standing,Male,Pacific Islander,1991,7
+U,Advanced Standing,Male,Pacific Islander,1992,6
+U,Advanced Standing,Male,Pacific Islander,1993,5
+U,Advanced Standing,Male,Pacific Islander,1994,10
+U,Advanced Standing,Male,Pacific Islander,1995,9
+U,Advanced Standing,Male,Pacific Islander,1996,6
+U,Advanced Standing,Male,Pacific Islander,1997,8
+U,Advanced Standing,Male,Pacific Islander,1998,6
+U,Advanced Standing,Male,Pacific Islander,1999,8
+U,Advanced Standing,Male,Pacific Islander,2000,9
+U,Advanced Standing,Male,Pacific Islander,2001,9
+U,Advanced Standing,Male,Pacific Islander,2002,8
+U,Advanced Standing,Male,Pacific Islander,2003,8
+U,Advanced Standing,Male,Pacific Islander,2004,6
+U,Advanced Standing,Male,Pacific Islander,2005,7
+U,Advanced Standing,Male,Pacific Islander,2006,5
+U,Advanced Standing,Male,Pacific Islander,2007,8
+U,Advanced Standing,Male,Pacific Islander,2008,8
+U,Advanced Standing,Male,Pacific Islander,2009,10
+U,Advanced Standing,Male,Pacific Islander,2010,10
+U,Advanced Standing,Male,Pacific Islander,2011,11
+U,Advanced Standing,Male,Pacific Islander,2012,11
+U,Advanced Standing,Male,Pacific Islander,2013,9
+U,Advanced Standing,Male,White,1983,966
+U,Advanced Standing,Male,White,1984,1914
+U,Advanced Standing,Male,White,1985,2336
+U,Advanced Standing,Male,White,1986,2006
+U,Advanced Standing,Male,White,1987,2111
+U,Advanced Standing,Male,White,1988,2066
+U,Advanced Standing,Male,White,1989,1911
+U,Advanced Standing,Male,White,1990,1711
+U,Advanced Standing,Male,White,1991,1500
+U,Advanced Standing,Male,White,1992,1276
+U,Advanced Standing,Male,White,1993,1122
+U,Advanced Standing,Male,White,1994,904
+U,Advanced Standing,Male,White,1995,771
+U,Advanced Standing,Male,White,1996,809
+U,Advanced Standing,Male,White,1997,831
+U,Advanced Standing,Male,White,1998,748
+U,Advanced Standing,Male,White,1999,728
+U,Advanced Standing,Male,White,2000,744
+U,Advanced Standing,Male,White,2001,763
+U,Advanced Standing,Male,White,2002,774
+U,Advanced Standing,Male,White,2003,773
+U,Advanced Standing,Male,White,2004,810
+U,Advanced Standing,Male,White,2005,904
+U,Advanced Standing,Male,White,2006,984
+U,Advanced Standing,Male,White,2007,989
+U,Advanced Standing,Male,White,2008,985
+U,Advanced Standing,Male,White,2009,1027
+U,Advanced Standing,Male,White,2010,1023
+U,Advanced Standing,Male,White,2011,988
+U,Advanced Standing,Male,White,2012,953
+U,Advanced Standing,Male,White,2013,899
+U,EAP Reciprocity,Female,International,2009,1
+U,EAP Reciprocity,Male,Decline to State,2006,1
+U,EAP Reciprocity,Male,International,2006,1
+U,High School Honors,Female,African American,1985,2
+U,High School Honors,Female,African American,1986,2
+U,High School Honors,Female,African American,1987,3
+U,High School Honors,Female,African American,1988,2
+U,High School Honors,Female,African American,1989,3
+U,High School Honors,Female,African American,1990,3
+U,High School Honors,Female,African American,1991,3
+U,High School Honors,Female,African American,1992,2
+U,High School Honors,Female,African American,1993,3
+U,High School Honors,Female,African American,1994,2
+U,High School Honors,Female,African American,1995,3
+U,High School Honors,Female,African American,1996,4
+U,High School Honors,Female,African American,1997,4
+U,High School Honors,Female,African American,1998,3
+U,High School Honors,Female,African American,1999,3
+U,High School Honors,Female,African American,2000,2
+U,High School Honors,Female,African American,2001,4
+U,High School Honors,Female,African American,2002,3
+U,High School Honors,Female,African American,2003,3
+U,High School Honors,Female,African American,2004,2
+U,High School Honors,Female,African American,2005,2
+U,High School Honors,Female,Asian,1985,3
+U,High School Honors,Female,Asian,1986,9
+U,High School Honors,Female,Asian,1987,24
+U,High School Honors,Female,Asian,1988,32
+U,High School Honors,Female,Asian,1989,44
+U,High School Honors,Female,Asian,1990,47
+U,High School Honors,Female,Asian,1991,41
+U,High School Honors,Female,Asian,1992,42
+U,High School Honors,Female,Asian,1993,44
+U,High School Honors,Female,Asian,1994,43
+U,High School Honors,Female,Asian,1995,50
+U,High School Honors,Female,Asian,1996,48
+U,High School Honors,Female,Asian,1997,45
+U,High School Honors,Female,Asian,1998,45
+U,High School Honors,Female,Asian,1999,38
+U,High School Honors,Female,Asian,2000,36
+U,High School Honors,Female,Asian,2001,31
+U,High School Honors,Female,Asian,2002,32
+U,High School Honors,Female,Asian,2003,24
+U,High School Honors,Female,Asian,2004,18
+U,High School Honors,Female,Asian,2005,10
+U,High School Honors,Female,Chicano/Latino,1986,1
+U,High School Honors,Female,Chicano/Latino,1987,1
+U,High School Honors,Female,Chicano/Latino,1988,1
+U,High School Honors,Female,Chicano/Latino,1989,2
+U,High School Honors,Female,Chicano/Latino,1990,1
+U,High School Honors,Female,Chicano/Latino,1991,2
+U,High School Honors,Female,Chicano/Latino,1992,2
+U,High School Honors,Female,Chicano/Latino,1993,4
+U,High School Honors,Female,Chicano/Latino,1994,5
+U,High School Honors,Female,Chicano/Latino,1995,5
+U,High School Honors,Female,Chicano/Latino,1996,5
+U,High School Honors,Female,Chicano/Latino,1997,2
+U,High School Honors,Female,Chicano/Latino,1999,1
+U,High School Honors,Female,Chicano/Latino,2000,1
+U,High School Honors,Female,Chicano/Latino,2001,1
+U,High School Honors,Female,Chicano/Latino,2003,2
+U,High School Honors,Female,Chicano/Latino,2004,1
+U,High School Honors,Female,Decline to State,1987,1
+U,High School Honors,Female,Decline to State,1988,5
+U,High School Honors,Female,Decline to State,1989,6
+U,High School Honors,Female,Decline to State,1990,5
+U,High School Honors,Female,Decline to State,1991,4
+U,High School Honors,Female,Decline to State,1992,3
+U,High School Honors,Female,Decline to State,1993,3
+U,High School Honors,Female,Decline to State,1994,3
+U,High School Honors,Female,Decline to State,1995,3
+U,High School Honors,Female,Decline to State,1996,5
+U,High School Honors,Female,Decline to State,1997,6
+U,High School Honors,Female,Decline to State,1998,4
+U,High School Honors,Female,Decline to State,1999,6
+U,High School Honors,Female,Decline to State,2000,6
+U,High School Honors,Female,Decline to State,2001,9
+U,High School Honors,Female,Decline to State,2002,11
+U,High School Honors,Female,Decline to State,2003,8
+U,High School Honors,Female,Decline to State,2004,7
+U,High School Honors,Female,Decline to State,2005,8
+U,High School Honors,Female,Decline to State,2006,4
+U,High School Honors,Female,Decline to State,2007,1
+U,High School Honors,Female,International,2000,1
+U,High School Honors,Female,International,2002,1
+U,High School Honors,Female,International,2003,1
+U,High School Honors,Female,International,2004,1
+U,High School Honors,Female,International,2005,1
+U,High School Honors,Female,Native American,1985,1
+U,High School Honors,Female,Native American,1986,1
+U,High School Honors,Female,Native American,1987,1
+U,High School Honors,Female,Native American,1988,1
+U,High School Honors,Female,Native American,1993,1
+U,High School Honors,Female,Native American,2002,1
+U,High School Honors,Female,Native American,2003,1
+U,High School Honors,Female,Native American,2004,1
+U,High School Honors,Female,Native American,2005,1
+U,High School Honors,Female,Other,1986,1
+U,High School Honors,Female,Other,1987,1
+U,High School Honors,Female,Other,1988,1
+U,High School Honors,Female,Other,1990,1
+U,High School Honors,Female,Other,1994,2
+U,High School Honors,Female,Other,1995,2
+U,High School Honors,Female,Other,1996,1
+U,High School Honors,Female,Other,1997,1
+U,High School Honors,Female,Other,1998,1
+U,High School Honors,Female,White,1986,8
+U,High School Honors,Female,White,1987,13
+U,High School Honors,Female,White,1988,22
+U,High School Honors,Female,White,1989,30
+U,High School Honors,Female,White,1990,25
+U,High School Honors,Female,White,1991,23
+U,High School Honors,Female,White,1992,23
+U,High School Honors,Female,White,1993,24
+U,High School Honors,Female,White,1994,30
+U,High School Honors,Female,White,1995,30
+U,High School Honors,Female,White,1996,25
+U,High School Honors,Female,White,1997,22
+U,High School Honors,Female,White,1998,18
+U,High School Honors,Female,White,1999,11
+U,High School Honors,Female,White,2000,9
+U,High School Honors,Female,White,2001,14
+U,High School Honors,Female,White,2002,21
+U,High School Honors,Female,White,2003,16
+U,High School Honors,Female,White,2004,14
+U,High School Honors,Female,White,2005,4
+U,High School Honors,Female,White,2006,1
+U,High School Honors,Male,African American,1985,2
+U,High School Honors,Male,African American,1986,3
+U,High School Honors,Male,African American,1987,3
+U,High School Honors,Male,African American,1988,3
+U,High School Honors,Male,African American,1989,4
+U,High School Honors,Male,African American,1990,4
+U,High School Honors,Male,African American,1991,3
+U,High School Honors,Male,African American,1992,2
+U,High School Honors,Male,African American,1994,1
+U,High School Honors,Male,African American,1995,1
+U,High School Honors,Male,African American,1996,1
+U,High School Honors,Male,African American,2002,1
+U,High School Honors,Male,African American,2003,1
+U,High School Honors,Male,African American,2004,1
+U,High School Honors,Male,African American,2005,1
+U,High School Honors,Male,Asian,1985,4
+U,High School Honors,Male,Asian,1986,14
+U,High School Honors,Male,Asian,1987,22
+U,High School Honors,Male,Asian,1988,36
+U,High School Honors,Male,Asian,1989,54
+U,High School Honors,Male,Asian,1990,66
+U,High School Honors,Male,Asian,1991,67
+U,High School Honors,Male,Asian,1992,77
+U,High School Honors,Male,Asian,1993,69
+U,High School Honors,Male,Asian,1994,64
+U,High School Honors,Male,Asian,1995,69
+U,High School Honors,Male,Asian,1996,63
+U,High School Honors,Male,Asian,1997,63
+U,High School Honors,Male,Asian,1998,53
+U,High School Honors,Male,Asian,1999,41
+U,High School Honors,Male,Asian,2000,36
+U,High School Honors,Male,Asian,2001,37
+U,High School Honors,Male,Asian,2002,39
+U,High School Honors,Male,Asian,2003,30
+U,High School Honors,Male,Asian,2004,21
+U,High School Honors,Male,Asian,2005,11
+U,High School Honors,Male,Asian,2006,2
+U,High School Honors,Male,Asian,2009,1
+U,High School Honors,Male,Asian,2010,1
+U,High School Honors,Male,Chicano/Latino,1985,3
+U,High School Honors,Male,Chicano/Latino,1986,4
+U,High School Honors,Male,Chicano/Latino,1987,5
+U,High School Honors,Male,Chicano/Latino,1988,4
+U,High School Honors,Male,Chicano/Latino,1989,6
+U,High School Honors,Male,Chicano/Latino,1990,4
+U,High School Honors,Male,Chicano/Latino,1991,5
+U,High School Honors,Male,Chicano/Latino,1992,6
+U,High School Honors,Male,Chicano/Latino,1993,6
+U,High School Honors,Male,Chicano/Latino,1994,6
+U,High School Honors,Male,Chicano/Latino,1995,6
+U,High School Honors,Male,Chicano/Latino,1996,4
+U,High School Honors,Male,Chicano/Latino,1997,3
+U,High School Honors,Male,Chicano/Latino,1998,3
+U,High School Honors,Male,Chicano/Latino,1999,2
+U,High School Honors,Male,Chicano/Latino,2000,2
+U,High School Honors,Male,Chicano/Latino,2001,2
+U,High School Honors,Male,Chicano/Latino,2002,1
+U,High School Honors,Male,Decline to State,1987,1
+U,High School Honors,Male,Decline to State,1988,3
+U,High School Honors,Male,Decline to State,1989,3
+U,High School Honors,Male,Decline to State,1990,4
+U,High School Honors,Male,Decline to State,1991,6
+U,High School Honors,Male,Decline to State,1992,9
+U,High School Honors,Male,Decline to State,1993,9
+U,High School Honors,Male,Decline to State,1994,12
+U,High School Honors,Male,Decline to State,1995,10
+U,High School Honors,Male,Decline to State,1996,9
+U,High School Honors,Male,Decline to State,1997,10
+U,High School Honors,Male,Decline to State,1998,11
+U,High School Honors,Male,Decline to State,1999,18
+U,High School Honors,Male,Decline to State,2000,19
+U,High School Honors,Male,Decline to State,2001,25
+U,High School Honors,Male,Decline to State,2002,23
+U,High School Honors,Male,Decline to State,2003,17
+U,High School Honors,Male,Decline to State,2004,10
+U,High School Honors,Male,Decline to State,2005,4
+U,High School Honors,Male,Decline to State,2006,1
+U,High School Honors,Male,International,1986,1
+U,High School Honors,Male,Native American,1997,1
+U,High School Honors,Male,Native American,1998,1
+U,High School Honors,Male,Native American,1999,1
+U,High School Honors,Male,Native American,2000,2
+U,High School Honors,Male,Native American,2001,1
+U,High School Honors,Male,Other,1987,1
+U,High School Honors,Male,Other,1988,1
+U,High School Honors,Male,Other,1989,1
+U,High School Honors,Male,Other,1990,2
+U,High School Honors,Male,Other,1991,3
+U,High School Honors,Male,Other,1992,3
+U,High School Honors,Male,Other,1993,3
+U,High School Honors,Male,Other,1994,1
+U,High School Honors,Male,Other,1995,2
+U,High School Honors,Male,Other,1996,2
+U,High School Honors,Male,Other,1997,2
+U,High School Honors,Male,Other,1998,2
+U,High School Honors,Male,Other,1999,1
+U,High School Honors,Male,Other,2000,2
+U,High School Honors,Male,Other,2001,2
+U,High School Honors,Male,Other,2002,2
+U,High School Honors,Male,Other,2003,1
+U,High School Honors,Male,Other,2004,1
+U,High School Honors,Male,Other,2005,1
+U,High School Honors,Male,White,1986,21
+U,High School Honors,Male,White,1987,29
+U,High School Honors,Male,White,1988,39
+U,High School Honors,Male,White,1989,51
+U,High School Honors,Male,White,1990,45
+U,High School Honors,Male,White,1991,41
+U,High School Honors,Male,White,1992,51
+U,High School Honors,Male,White,1993,47
+U,High School Honors,Male,White,1994,38
+U,High School Honors,Male,White,1995,35
+U,High School Honors,Male,White,1996,35
+U,High School Honors,Male,White,1997,28
+U,High School Honors,Male,White,1998,33
+U,High School Honors,Male,White,1999,32
+U,High School Honors,Male,White,2000,33
+U,High School Honors,Male,White,2001,36
+U,High School Honors,Male,White,2002,27
+U,High School Honors,Male,White,2003,20
+U,High School Honors,Male,White,2004,11
+U,High School Honors,Male,White,2005,5
+U,High School Honors,Male,White,2006,3
+U,High School Honors,Male,White,2007,1
+U,Limited,Male,Asian,2003,1
+U,Limited,Male,Asian,2004,1
+U,Limited,Male,International,2003,1
+U,New Freshmen,Female,African American,1983,132
+U,New Freshmen,Female,African American,1984,268
+U,New Freshmen,Female,African American,1985,357
+U,New Freshmen,Female,African American,1986,451
+U,New Freshmen,Female,African American,1987,591
+U,New Freshmen,Female,African American,1988,684
+U,New Freshmen,Female,African American,1989,744
+U,New Freshmen,Female,African American,1990,667
+U,New Freshmen,Female,African American,1991,662
+U,New Freshmen,Female,African American,1992,607
+U,New Freshmen,Female,African American,1993,538
+U,New Freshmen,Female,African American,1994,516
+U,New Freshmen,Female,African American,1995,554
+U,New Freshmen,Female,African American,1996,538
+U,New Freshmen,Female,African American,1997,609
+U,New Freshmen,Female,African American,1998,546
+U,New Freshmen,Female,African American,1999,517
+U,New Freshmen,Female,African American,2000,502
+U,New Freshmen,Female,African American,2001,425
+U,New Freshmen,Female,African American,2002,427
+U,New Freshmen,Female,African American,2003,439
+U,New Freshmen,Female,African American,2004,419
+U,New Freshmen,Female,African American,2005,427
+U,New Freshmen,Female,African American,2006,423
+U,New Freshmen,Female,African American,2007,420
+U,New Freshmen,Female,African American,2008,440
+U,New Freshmen,Female,African American,2009,446
+U,New Freshmen,Female,African American,2010,407
+U,New Freshmen,Female,African American,2011,400
+U,New Freshmen,Female,African American,2012,388
+U,New Freshmen,Female,African American,2013,393
+U,New Freshmen,Female,Asian,1983,605
+U,New Freshmen,Female,Asian,1984,1062
+U,New Freshmen,Female,Asian,1985,1530
+U,New Freshmen,Female,Asian,1986,1897
+U,New Freshmen,Female,Asian,1987,2074
+U,New Freshmen,Female,Asian,1988,2177
+U,New Freshmen,Female,Asian,1989,2156
+U,New Freshmen,Female,Asian,1990,2109
+U,New Freshmen,Female,Asian,1991,2349
+U,New Freshmen,Female,Asian,1992,2683
+U,New Freshmen,Female,Asian,1993,2985
+U,New Freshmen,Female,Asian,1994,3166
+U,New Freshmen,Female,Asian,1995,3312
+U,New Freshmen,Female,Asian,1996,3471
+U,New Freshmen,Female,Asian,1997,3572
+U,New Freshmen,Female,Asian,1998,3800
+U,New Freshmen,Female,Asian,1999,3948
+U,New Freshmen,Female,Asian,2000,4192
+U,New Freshmen,Female,Asian,2001,4498
+U,New Freshmen,Female,Asian,2002,4734
+U,New Freshmen,Female,Asian,2003,4601
+U,New Freshmen,Female,Asian,2004,4492
+U,New Freshmen,Female,Asian,2005,4550
+U,New Freshmen,Female,Asian,2006,4660
+U,New Freshmen,Female,Asian,2007,4805
+U,New Freshmen,Female,Asian,2008,4903
+U,New Freshmen,Female,Asian,2009,4843
+U,New Freshmen,Female,Asian,2010,4789
+U,New Freshmen,Female,Asian,2011,4683
+U,New Freshmen,Female,Asian,2012,4592
+U,New Freshmen,Female,Asian,2013,4515
+U,New Freshmen,Female,Chicano/Latino,1983,130
+U,New Freshmen,Female,Chicano/Latino,1984,288
+U,New Freshmen,Female,Chicano/Latino,1985,408
+U,New Freshmen,Female,Chicano/Latino,1986,562
+U,New Freshmen,Female,Chicano/Latino,1987,764
+U,New Freshmen,Female,Chicano/Latino,1988,933
+U,New Freshmen,Female,Chicano/Latino,1989,1089
+U,New Freshmen,Female,Chicano/Latino,1990,1220
+U,New Freshmen,Female,Chicano/Latino,1991,1298
+U,New Freshmen,Female,Chicano/Latino,1992,1301
+U,New Freshmen,Female,Chicano/Latino,1993,1269
+U,New Freshmen,Female,Chicano/Latino,1994,1205
+U,New Freshmen,Female,Chicano/Latino,1995,1238
+U,New Freshmen,Female,Chicano/Latino,1996,1264
+U,New Freshmen,Female,Chicano/Latino,1997,1270
+U,New Freshmen,Female,Chicano/Latino,1998,1132
+U,New Freshmen,Female,Chicano/Latino,1999,1059
+U,New Freshmen,Female,Chicano/Latino,2000,988
+U,New Freshmen,Female,Chicano/Latino,2001,956
+U,New Freshmen,Female,Chicano/Latino,2002,1025
+U,New Freshmen,Female,Chicano/Latino,2003,1065
+U,New Freshmen,Female,Chicano/Latino,2004,1056
+U,New Freshmen,Female,Chicano/Latino,2005,1123
+U,New Freshmen,Female,Chicano/Latino,2006,1172
+U,New Freshmen,Female,Chicano/Latino,2007,1238
+U,New Freshmen,Female,Chicano/Latino,2008,1307
+U,New Freshmen,Female,Chicano/Latino,2009,1374
+U,New Freshmen,Female,Chicano/Latino,2010,1347
+U,New Freshmen,Female,Chicano/Latino,2011,1368
+U,New Freshmen,Female,Chicano/Latino,2012,1427
+U,New Freshmen,Female,Chicano/Latino,2013,1462
+U,New Freshmen,Female,Decline to State,1983,18
+U,New Freshmen,Female,Decline to State,1984,27
+U,New Freshmen,Female,Decline to State,1985,94
+U,New Freshmen,Female,Decline to State,1986,140
+U,New Freshmen,Female,Decline to State,1987,175
+U,New Freshmen,Female,Decline to State,1988,231
+U,New Freshmen,Female,Decline to State,1989,253
+U,New Freshmen,Female,Decline to State,1990,270
+U,New Freshmen,Female,Decline to State,1991,332
+U,New Freshmen,Female,Decline to State,1992,381
+U,New Freshmen,Female,Decline to State,1993,402
+U,New Freshmen,Female,Decline to State,1994,396
+U,New Freshmen,Female,Decline to State,1995,389
+U,New Freshmen,Female,Decline to State,1996,407
+U,New Freshmen,Female,Decline to State,1997,409
+U,New Freshmen,Female,Decline to State,1998,622
+U,New Freshmen,Female,Decline to State,1999,723
+U,New Freshmen,Female,Decline to State,2000,801
+U,New Freshmen,Female,Decline to State,2001,903
+U,New Freshmen,Female,Decline to State,2002,863
+U,New Freshmen,Female,Decline to State,2003,833
+U,New Freshmen,Female,Decline to State,2004,815
+U,New Freshmen,Female,Decline to State,2005,758
+U,New Freshmen,Female,Decline to State,2006,727
+U,New Freshmen,Female,Decline to State,2007,674
+U,New Freshmen,Female,Decline to State,2008,627
+U,New Freshmen,Female,Decline to State,2009,633
+U,New Freshmen,Female,Decline to State,2010,619
+U,New Freshmen,Female,Decline to State,2011,619
+U,New Freshmen,Female,Decline to State,2012,511
+U,New Freshmen,Female,Decline to State,2013,433
+U,New Freshmen,Female,International,1983,34
+U,New Freshmen,Female,International,1984,69
+U,New Freshmen,Female,International,1985,90
+U,New Freshmen,Female,International,1986,108
+U,New Freshmen,Female,International,1987,125
+U,New Freshmen,Female,International,1988,127
+U,New Freshmen,Female,International,1989,120
+U,New Freshmen,Female,International,1990,114
+U,New Freshmen,Female,International,1991,114
+U,New Freshmen,Female,International,1992,129
+U,New Freshmen,Female,International,1993,125
+U,New Freshmen,Female,International,1994,120
+U,New Freshmen,Female,International,1995,123
+U,New Freshmen,Female,International,1996,137
+U,New Freshmen,Female,International,1997,133
+U,New Freshmen,Female,International,1998,134
+U,New Freshmen,Female,International,1999,133
+U,New Freshmen,Female,International,2000,143
+U,New Freshmen,Female,International,2001,131
+U,New Freshmen,Female,International,2002,122
+U,New Freshmen,Female,International,2003,118
+U,New Freshmen,Female,International,2004,125
+U,New Freshmen,Female,International,2005,129
+U,New Freshmen,Female,International,2006,133
+U,New Freshmen,Female,International,2007,158
+U,New Freshmen,Female,International,2008,269
+U,New Freshmen,Female,International,2009,380
+U,New Freshmen,Female,International,2010,545
+U,New Freshmen,Female,International,2011,731
+U,New Freshmen,Female,International,2012,868
+U,New Freshmen,Female,International,2013,1116
+U,New Freshmen,Female,Native American,1983,5
+U,New Freshmen,Female,Native American,1984,16
+U,New Freshmen,Female,Native American,1985,23
+U,New Freshmen,Female,Native American,1986,38
+U,New Freshmen,Female,Native American,1987,79
+U,New Freshmen,Female,Native American,1988,96
+U,New Freshmen,Female,Native American,1989,102
+U,New Freshmen,Female,Native American,1990,105
+U,New Freshmen,Female,Native American,1991,109
+U,New Freshmen,Female,Native American,1992,88
+U,New Freshmen,Female,Native American,1993,77
+U,New Freshmen,Female,Native American,1994,75
+U,New Freshmen,Female,Native American,1995,85
+U,New Freshmen,Female,Native American,1996,92
+U,New Freshmen,Female,Native American,1997,98
+U,New Freshmen,Female,Native American,1998,91
+U,New Freshmen,Female,Native American,1999,89
+U,New Freshmen,Female,Native American,2000,59
+U,New Freshmen,Female,Native American,2001,64
+U,New Freshmen,Female,Native American,2002,64
+U,New Freshmen,Female,Native American,2003,53
+U,New Freshmen,Female,Native American,2004,59
+U,New Freshmen,Female,Native American,2005,51
+U,New Freshmen,Female,Native American,2006,44
+U,New Freshmen,Female,Native American,2007,49
+U,New Freshmen,Female,Native American,2008,46
+U,New Freshmen,Female,Native American,2009,47
+U,New Freshmen,Female,Native American,2010,54
+U,New Freshmen,Female,Native American,2011,66
+U,New Freshmen,Female,Native American,2012,77
+U,New Freshmen,Female,Native American,2013,71
+U,New Freshmen,Female,Other,1983,39
+U,New Freshmen,Female,Other,1984,60
+U,New Freshmen,Female,Other,1985,96
+U,New Freshmen,Female,Other,1986,124
+U,New Freshmen,Female,Other,1987,105
+U,New Freshmen,Female,Other,1988,89
+U,New Freshmen,Female,Other,1989,68
+U,New Freshmen,Female,Other,1990,49
+U,New Freshmen,Female,Other,1991,55
+U,New Freshmen,Female,Other,1992,79
+U,New Freshmen,Female,Other,1993,88
+U,New Freshmen,Female,Other,1994,93
+U,New Freshmen,Female,Other,1995,108
+U,New Freshmen,Female,Other,1996,105
+U,New Freshmen,Female,Other,1997,132
+U,New Freshmen,Female,Other,1998,134
+U,New Freshmen,Female,Other,1999,146
+U,New Freshmen,Female,Other,2000,154
+U,New Freshmen,Female,Other,2001,139
+U,New Freshmen,Female,Other,2002,144
+U,New Freshmen,Female,Other,2003,134
+U,New Freshmen,Female,Other,2004,162
+U,New Freshmen,Female,Other,2005,153
+U,New Freshmen,Female,Other,2006,151
+U,New Freshmen,Female,Other,2007,158
+U,New Freshmen,Female,Other,2008,153
+U,New Freshmen,Female,Other,2009,152
+U,New Freshmen,Female,Other,2010,114
+U,New Freshmen,Female,Pacific Islander,1983,5
+U,New Freshmen,Female,Pacific Islander,1984,3
+U,New Freshmen,Female,Pacific Islander,1985,4
+U,New Freshmen,Female,Pacific Islander,1986,5
+U,New Freshmen,Female,Pacific Islander,1987,7
+U,New Freshmen,Female,Pacific Islander,1988,5
+U,New Freshmen,Female,Pacific Islander,1989,5
+U,New Freshmen,Female,Pacific Islander,1990,9
+U,New Freshmen,Female,Pacific Islander,1991,9
+U,New Freshmen,Female,Pacific Islander,1992,19
+U,New Freshmen,Female,Pacific Islander,1993,27
+U,New Freshmen,Female,Pacific Islander,1994,31
+U,New Freshmen,Female,Pacific Islander,1995,30
+U,New Freshmen,Female,Pacific Islander,1996,25
+U,New Freshmen,Female,Pacific Islander,1997,25
+U,New Freshmen,Female,Pacific Islander,1998,19
+U,New Freshmen,Female,Pacific Islander,1999,25
+U,New Freshmen,Female,Pacific Islander,2000,33
+U,New Freshmen,Female,Pacific Islander,2001,35
+U,New Freshmen,Female,Pacific Islander,2002,25
+U,New Freshmen,Female,Pacific Islander,2003,31
+U,New Freshmen,Female,Pacific Islander,2004,30
+U,New Freshmen,Female,Pacific Islander,2005,31
+U,New Freshmen,Female,Pacific Islander,2006,31
+U,New Freshmen,Female,Pacific Islander,2007,33
+U,New Freshmen,Female,Pacific Islander,2008,27
+U,New Freshmen,Female,Pacific Islander,2009,25
+U,New Freshmen,Female,Pacific Islander,2010,25
+U,New Freshmen,Female,Pacific Islander,2011,17
+U,New Freshmen,Female,Pacific Islander,2012,14
+U,New Freshmen,Female,Pacific Islander,2013,17
+U,New Freshmen,Female,White,1983,1024
+U,New Freshmen,Female,White,1984,1949
+U,New Freshmen,Female,White,1985,2557
+U,New Freshmen,Female,White,1986,2967
+U,New Freshmen,Female,White,1987,2932
+U,New Freshmen,Female,White,1988,2678
+U,New Freshmen,Female,White,1989,2408
+U,New Freshmen,Female,White,1990,2159
+U,New Freshmen,Female,White,1991,2068
+U,New Freshmen,Female,White,1992,2034
+U,New Freshmen,Female,White,1993,2021
+U,New Freshmen,Female,White,1994,1990
+U,New Freshmen,Female,White,1995,2008
+U,New Freshmen,Female,White,1996,2060
+U,New Freshmen,Female,White,1997,2171
+U,New Freshmen,Female,White,1998,2313
+U,New Freshmen,Female,White,1999,2458
+U,New Freshmen,Female,White,2000,2486
+U,New Freshmen,Female,White,2001,2621
+U,New Freshmen,Female,White,2002,2745
+U,New Freshmen,Female,White,2003,2678
+U,New Freshmen,Female,White,2004,2714
+U,New Freshmen,Female,White,2005,2841
+U,New Freshmen,Female,White,2006,2956
+U,New Freshmen,Female,White,2007,3070
+U,New Freshmen,Female,White,2008,3059
+U,New Freshmen,Female,White,2009,3040
+U,New Freshmen,Female,White,2010,3055
+U,New Freshmen,Female,White,2011,3043
+U,New Freshmen,Female,White,2012,2893
+U,New Freshmen,Female,White,2013,2751
+U,New Freshmen,Male,African American,1983,108
+U,New Freshmen,Male,African American,1984,220
+U,New Freshmen,Male,African American,1985,297
+U,New Freshmen,Male,African American,1986,331
+U,New Freshmen,Male,African American,1987,461
+U,New Freshmen,Male,African American,1988,478
+U,New Freshmen,Male,African American,1989,482
+U,New Freshmen,Male,African American,1990,412
+U,New Freshmen,Male,African American,1991,418
+U,New Freshmen,Male,African American,1992,378
+U,New Freshmen,Male,African American,1993,361
+U,New Freshmen,Male,African American,1994,341
+U,New Freshmen,Male,African American,1995,357
+U,New Freshmen,Male,African American,1996,349
+U,New Freshmen,Male,African American,1997,357
+U,New Freshmen,Male,African American,1998,343
+U,New Freshmen,Male,African American,1999,310
+U,New Freshmen,Male,African American,2000,275
+U,New Freshmen,Male,African American,2001,249
+U,New Freshmen,Male,African American,2002,250
+U,New Freshmen,Male,African American,2003,251
+U,New Freshmen,Male,African American,2004,232
+U,New Freshmen,Male,African American,2005,219
+U,New Freshmen,Male,African American,2006,215
+U,New Freshmen,Male,African American,2007,209
+U,New Freshmen,Male,African American,2008,227
+U,New Freshmen,Male,African American,2009,226
+U,New Freshmen,Male,African American,2010,222
+U,New Freshmen,Male,African American,2011,222
+U,New Freshmen,Male,African American,2012,232
+U,New Freshmen,Male,African American,2013,234
+U,New Freshmen,Male,Asian,1983,599
+U,New Freshmen,Male,Asian,1984,1055
+U,New Freshmen,Male,Asian,1985,1470
+U,New Freshmen,Male,Asian,1986,1820
+U,New Freshmen,Male,Asian,1987,2043
+U,New Freshmen,Male,Asian,1988,2165
+U,New Freshmen,Male,Asian,1989,2316
+U,New Freshmen,Male,Asian,1990,2440
+U,New Freshmen,Male,Asian,1991,2732
+U,New Freshmen,Male,Asian,1992,3042
+U,New Freshmen,Male,Asian,1993,3325
+U,New Freshmen,Male,Asian,1994,3491
+U,New Freshmen,Male,Asian,1995,3538
+U,New Freshmen,Male,Asian,1996,3556
+U,New Freshmen,Male,Asian,1997,3614
+U,New Freshmen,Male,Asian,1998,3655
+U,New Freshmen,Male,Asian,1999,3675
+U,New Freshmen,Male,Asian,2000,3637
+U,New Freshmen,Male,Asian,2001,3606
+U,New Freshmen,Male,Asian,2002,3714
+U,New Freshmen,Male,Asian,2003,3561
+U,New Freshmen,Male,Asian,2004,3561
+U,New Freshmen,Male,Asian,2005,3755
+U,New Freshmen,Male,Asian,2006,3839
+U,New Freshmen,Male,Asian,2007,4035
+U,New Freshmen,Male,Asian,2008,4136
+U,New Freshmen,Male,Asian,2009,4074
+U,New Freshmen,Male,Asian,2010,3945
+U,New Freshmen,Male,Asian,2011,3970
+U,New Freshmen,Male,Asian,2012,4076
+U,New Freshmen,Male,Asian,2013,4104
+U,New Freshmen,Male,Chicano/Latino,1983,137
+U,New Freshmen,Male,Chicano/Latino,1984,300
+U,New Freshmen,Male,Chicano/Latino,1985,451
+U,New Freshmen,Male,Chicano/Latino,1986,540
+U,New Freshmen,Male,Chicano/Latino,1987,753
+U,New Freshmen,Male,Chicano/Latino,1988,889
+U,New Freshmen,Male,Chicano/Latino,1989,995
+U,New Freshmen,Male,Chicano/Latino,1990,1070
+U,New Freshmen,Male,Chicano/Latino,1991,1127
+U,New Freshmen,Male,Chicano/Latino,1992,1126
+U,New Freshmen,Male,Chicano/Latino,1993,1071
+U,New Freshmen,Male,Chicano/Latino,1994,992
+U,New Freshmen,Male,Chicano/Latino,1995,1012
+U,New Freshmen,Male,Chicano/Latino,1996,959
+U,New Freshmen,Male,Chicano/Latino,1997,929
+U,New Freshmen,Male,Chicano/Latino,1998,873
+U,New Freshmen,Male,Chicano/Latino,1999,833
+U,New Freshmen,Male,Chicano/Latino,2000,768
+U,New Freshmen,Male,Chicano/Latino,2001,767
+U,New Freshmen,Male,Chicano/Latino,2002,784
+U,New Freshmen,Male,Chicano/Latino,2003,804
+U,New Freshmen,Male,Chicano/Latino,2004,788
+U,New Freshmen,Male,Chicano/Latino,2005,795
+U,New Freshmen,Male,Chicano/Latino,2006,794
+U,New Freshmen,Male,Chicano/Latino,2007,862
+U,New Freshmen,Male,Chicano/Latino,2008,867
+U,New Freshmen,Male,Chicano/Latino,2009,896
+U,New Freshmen,Male,Chicano/Latino,2010,867
+U,New Freshmen,Male,Chicano/Latino,2011,876
+U,New Freshmen,Male,Chicano/Latino,2012,882
+U,New Freshmen,Male,Chicano/Latino,2013,921
+U,New Freshmen,Male,Decline to State,1983,20
+U,New Freshmen,Male,Decline to State,1984,49
+U,New Freshmen,Male,Decline to State,1985,132
+U,New Freshmen,Male,Decline to State,1986,220
+U,New Freshmen,Male,Decline to State,1987,263
+U,New Freshmen,Male,Decline to State,1988,339
+U,New Freshmen,Male,Decline to State,1989,385
+U,New Freshmen,Male,Decline to State,1990,422
+U,New Freshmen,Male,Decline to State,1991,461
+U,New Freshmen,Male,Decline to State,1992,514
+U,New Freshmen,Male,Decline to State,1993,527
+U,New Freshmen,Male,Decline to State,1994,488
+U,New Freshmen,Male,Decline to State,1995,453
+U,New Freshmen,Male,Decline to State,1996,444
+U,New Freshmen,Male,Decline to State,1997,437
+U,New Freshmen,Male,Decline to State,1998,624
+U,New Freshmen,Male,Decline to State,1999,715
+U,New Freshmen,Male,Decline to State,2000,780
+U,New Freshmen,Male,Decline to State,2001,877
+U,New Freshmen,Male,Decline to State,2002,814
+U,New Freshmen,Male,Decline to State,2003,742
+U,New Freshmen,Male,Decline to State,2004,703
+U,New Freshmen,Male,Decline to State,2005,630
+U,New Freshmen,Male,Decline to State,2006,588
+U,New Freshmen,Male,Decline to State,2007,551
+U,New Freshmen,Male,Decline to State,2008,535
+U,New Freshmen,Male,Decline to State,2009,510
+U,New Freshmen,Male,Decline to State,2010,504
+U,New Freshmen,Male,Decline to State,2011,499
+U,New Freshmen,Male,Decline to State,2012,427
+U,New Freshmen,Male,Decline to State,2013,369
+U,New Freshmen,Male,International,1983,45
+U,New Freshmen,Male,International,1984,100
+U,New Freshmen,Male,International,1985,131
+U,New Freshmen,Male,International,1986,167
+U,New Freshmen,Male,International,1987,195
+U,New Freshmen,Male,International,1988,189
+U,New Freshmen,Male,International,1989,186
+U,New Freshmen,Male,International,1990,202
+U,New Freshmen,Male,International,1991,213
+U,New Freshmen,Male,International,1992,222
+U,New Freshmen,Male,International,1993,224
+U,New Freshmen,Male,International,1994,221
+U,New Freshmen,Male,International,1995,210
+U,New Freshmen,Male,International,1996,215
+U,New Freshmen,Male,International,1997,209
+U,New Freshmen,Male,International,1998,204
+U,New Freshmen,Male,International,1999,195
+U,New Freshmen,Male,International,2000,188
+U,New Freshmen,Male,International,2001,176
+U,New Freshmen,Male,International,2002,177
+U,New Freshmen,Male,International,2003,178
+U,New Freshmen,Male,International,2004,181
+U,New Freshmen,Male,International,2005,198
+U,New Freshmen,Male,International,2006,183
+U,New Freshmen,Male,International,2007,184
+U,New Freshmen,Male,International,2008,314
+U,New Freshmen,Male,International,2009,387
+U,New Freshmen,Male,International,2010,533
+U,New Freshmen,Male,International,2011,751
+U,New Freshmen,Male,International,2012,881
+U,New Freshmen,Male,International,2013,1127
+U,New Freshmen,Male,Native American,1983,14
+U,New Freshmen,Male,Native American,1984,24
+U,New Freshmen,Male,Native American,1985,33
+U,New Freshmen,Male,Native American,1986,40
+U,New Freshmen,Male,Native American,1987,63
+U,New Freshmen,Male,Native American,1988,69
+U,New Freshmen,Male,Native American,1989,79
+U,New Freshmen,Male,Native American,1990,71
+U,New Freshmen,Male,Native American,1991,70
+U,New Freshmen,Male,Native American,1992,76
+U,New Freshmen,Male,Native American,1993,77
+U,New Freshmen,Male,Native American,1994,78
+U,New Freshmen,Male,Native American,1995,95
+U,New Freshmen,Male,Native American,1996,99
+U,New Freshmen,Male,Native American,1997,78
+U,New Freshmen,Male,Native American,1998,67
+U,New Freshmen,Male,Native American,1999,54
+U,New Freshmen,Male,Native American,2000,39
+U,New Freshmen,Male,Native American,2001,33
+U,New Freshmen,Male,Native American,2002,40
+U,New Freshmen,Male,Native American,2003,35
+U,New Freshmen,Male,Native American,2004,29
+U,New Freshmen,Male,Native American,2005,36
+U,New Freshmen,Male,Native American,2006,33
+U,New Freshmen,Male,Native American,2007,33
+U,New Freshmen,Male,Native American,2008,33
+U,New Freshmen,Male,Native American,2009,38
+U,New Freshmen,Male,Native American,2010,44
+U,New Freshmen,Male,Native American,2011,49
+U,New Freshmen,Male,Native American,2012,59
+U,New Freshmen,Male,Native American,2013,46
+U,New Freshmen,Male,Other,1983,60
+U,New Freshmen,Male,Other,1984,90
+U,New Freshmen,Male,Other,1985,120
+U,New Freshmen,Male,Other,1986,141
+U,New Freshmen,Male,Other,1987,118
+U,New Freshmen,Male,Other,1988,93
+U,New Freshmen,Male,Other,1989,85
+U,New Freshmen,Male,Other,1990,71
+U,New Freshmen,Male,Other,1991,63
+U,New Freshmen,Male,Other,1992,84
+U,New Freshmen,Male,Other,1993,80
+U,New Freshmen,Male,Other,1994,84
+U,New Freshmen,Male,Other,1995,102
+U,New Freshmen,Male,Other,1996,118
+U,New Freshmen,Male,Other,1997,137
+U,New Freshmen,Male,Other,1998,147
+U,New Freshmen,Male,Other,1999,147
+U,New Freshmen,Male,Other,2000,144
+U,New Freshmen,Male,Other,2001,143
+U,New Freshmen,Male,Other,2002,119
+U,New Freshmen,Male,Other,2003,106
+U,New Freshmen,Male,Other,2004,89
+U,New Freshmen,Male,Other,2005,95
+U,New Freshmen,Male,Other,2006,96
+U,New Freshmen,Male,Other,2007,108
+U,New Freshmen,Male,Other,2008,120
+U,New Freshmen,Male,Other,2009,114
+U,New Freshmen,Male,Other,2010,89
+U,New Freshmen,Male,Pacific Islander,1983,4
+U,New Freshmen,Male,Pacific Islander,1984,5
+U,New Freshmen,Male,Pacific Islander,1985,5
+U,New Freshmen,Male,Pacific Islander,1986,5
+U,New Freshmen,Male,Pacific Islander,1987,3
+U,New Freshmen,Male,Pacific Islander,1988,4
+U,New Freshmen,Male,Pacific Islander,1989,5
+U,New Freshmen,Male,Pacific Islander,1990,6
+U,New Freshmen,Male,Pacific Islander,1991,12
+U,New Freshmen,Male,Pacific Islander,1992,13
+U,New Freshmen,Male,Pacific Islander,1993,15
+U,New Freshmen,Male,Pacific Islander,1994,19
+U,New Freshmen,Male,Pacific Islander,1995,20
+U,New Freshmen,Male,Pacific Islander,1996,27
+U,New Freshmen,Male,Pacific Islander,1997,24
+U,New Freshmen,Male,Pacific Islander,1998,30
+U,New Freshmen,Male,Pacific Islander,1999,28
+U,New Freshmen,Male,Pacific Islander,2000,28
+U,New Freshmen,Male,Pacific Islander,2001,24
+U,New Freshmen,Male,Pacific Islander,2002,22
+U,New Freshmen,Male,Pacific Islander,2003,15
+U,New Freshmen,Male,Pacific Islander,2004,20
+U,New Freshmen,Male,Pacific Islander,2005,21
+U,New Freshmen,Male,Pacific Islander,2006,22
+U,New Freshmen,Male,Pacific Islander,2007,20
+U,New Freshmen,Male,Pacific Islander,2008,21
+U,New Freshmen,Male,Pacific Islander,2009,20
+U,New Freshmen,Male,Pacific Islander,2010,20
+U,New Freshmen,Male,Pacific Islander,2011,24
+U,New Freshmen,Male,Pacific Islander,2012,25
+U,New Freshmen,Male,Pacific Islander,2013,24
+U,New Freshmen,Male,White,1983,1414
+U,New Freshmen,Male,White,1984,2588
+U,New Freshmen,Male,White,1985,3343
+U,New Freshmen,Male,White,1986,3868
+U,New Freshmen,Male,White,1987,3988
+U,New Freshmen,Male,White,1988,3752
+U,New Freshmen,Male,White,1989,3440
+U,New Freshmen,Male,White,1990,3207
+U,New Freshmen,Male,White,1991,3009
+U,New Freshmen,Male,White,1992,2977
+U,New Freshmen,Male,White,1993,2840
+U,New Freshmen,Male,White,1994,2671
+U,New Freshmen,Male,White,1995,2667
+U,New Freshmen,Male,White,1996,2688
+U,New Freshmen,Male,White,1997,2675
+U,New Freshmen,Male,White,1998,2752
+U,New Freshmen,Male,White,1999,2785
+U,New Freshmen,Male,White,2000,2753
+U,New Freshmen,Male,White,2001,2802
+U,New Freshmen,Male,White,2002,2733
+U,New Freshmen,Male,White,2003,2661
+U,New Freshmen,Male,White,2004,2600
+U,New Freshmen,Male,White,2005,2631
+U,New Freshmen,Male,White,2006,2622
+U,New Freshmen,Male,White,2007,2714
+U,New Freshmen,Male,White,2008,2787
+U,New Freshmen,Male,White,2009,2802
+U,New Freshmen,Male,White,2010,2772
+U,New Freshmen,Male,White,2011,2773
+U,New Freshmen,Male,White,2012,2710
+U,New Freshmen,Male,White,2013,2710
+U,Second Bachelor,Female,African American,1985,1
+U,Second Bachelor,Female,African American,1986,2
+U,Second Bachelor,Female,African American,1987,3
+U,Second Bachelor,Female,African American,1988,3
+U,Second Bachelor,Female,African American,1989,2
+U,Second Bachelor,Female,African American,1990,2
+U,Second Bachelor,Female,African American,1991,2
+U,Second Bachelor,Female,African American,1992,2
+U,Second Bachelor,Female,African American,1993,2
+U,Second Bachelor,Female,African American,1994,3
+U,Second Bachelor,Female,African American,1995,1
+U,Second Bachelor,Female,African American,1996,1
+U,Second Bachelor,Female,African American,1997,1
+U,Second Bachelor,Female,African American,1998,1
+U,Second Bachelor,Female,Asian,1983,3
+U,Second Bachelor,Female,Asian,1984,10
+U,Second Bachelor,Female,Asian,1985,4
+U,Second Bachelor,Female,Asian,1986,5
+U,Second Bachelor,Female,Asian,1987,9
+U,Second Bachelor,Female,Asian,1988,14
+U,Second Bachelor,Female,Asian,1989,14
+U,Second Bachelor,Female,Asian,1990,16
+U,Second Bachelor,Female,Asian,1991,21
+U,Second Bachelor,Female,Asian,1992,25
+U,Second Bachelor,Female,Asian,1993,25
+U,Second Bachelor,Female,Asian,1994,27
+U,Second Bachelor,Female,Asian,1995,31
+U,Second Bachelor,Female,Asian,1996,33
+U,Second Bachelor,Female,Asian,1997,29
+U,Second Bachelor,Female,Asian,1998,31
+U,Second Bachelor,Female,Asian,1999,26
+U,Second Bachelor,Female,Asian,2000,23
+U,Second Bachelor,Female,Asian,2001,28
+U,Second Bachelor,Female,Asian,2002,34
+U,Second Bachelor,Female,Asian,2003,2
+U,Second Bachelor,Female,Asian,2004,3
+U,Second Bachelor,Female,Asian,2005,3
+U,Second Bachelor,Female,Asian,2006,3
+U,Second Bachelor,Female,Asian,2007,3
+U,Second Bachelor,Female,Asian,2009,1
+U,Second Bachelor,Female,Asian,2010,2
+U,Second Bachelor,Female,Asian,2011,2
+U,Second Bachelor,Female,Asian,2012,2
+U,Second Bachelor,Female,Asian,2013,1
+U,Second Bachelor,Female,Chicano/Latino,1984,2
+U,Second Bachelor,Female,Chicano/Latino,1985,6
+U,Second Bachelor,Female,Chicano/Latino,1986,6
+U,Second Bachelor,Female,Chicano/Latino,1987,5
+U,Second Bachelor,Female,Chicano/Latino,1988,6
+U,Second Bachelor,Female,Chicano/Latino,1989,6
+U,Second Bachelor,Female,Chicano/Latino,1990,4
+U,Second Bachelor,Female,Chicano/Latino,1991,4
+U,Second Bachelor,Female,Chicano/Latino,1992,3
+U,Second Bachelor,Female,Chicano/Latino,1993,1
+U,Second Bachelor,Female,Chicano/Latino,1994,1
+U,Second Bachelor,Female,Chicano/Latino,1995,2
+U,Second Bachelor,Female,Chicano/Latino,1996,1
+U,Second Bachelor,Female,Chicano/Latino,1997,1
+U,Second Bachelor,Female,Chicano/Latino,1998,2
+U,Second Bachelor,Female,Chicano/Latino,1999,4
+U,Second Bachelor,Female,Chicano/Latino,2000,3
+U,Second Bachelor,Female,Chicano/Latino,2001,2
+U,Second Bachelor,Female,Chicano/Latino,2002,4
+U,Second Bachelor,Female,Decline to State,1983,10
+U,Second Bachelor,Female,Decline to State,1984,9
+U,Second Bachelor,Female,Decline to State,1985,15
+U,Second Bachelor,Female,Decline to State,1986,16
+U,Second Bachelor,Female,Decline to State,1987,16
+U,Second Bachelor,Female,Decline to State,1988,12
+U,Second Bachelor,Female,Decline to State,1989,13
+U,Second Bachelor,Female,Decline to State,1990,21
+U,Second Bachelor,Female,Decline to State,1991,21
+U,Second Bachelor,Female,Decline to State,1992,13
+U,Second Bachelor,Female,Decline to State,1993,7
+U,Second Bachelor,Female,Decline to State,1995,4
+U,Second Bachelor,Female,Decline to State,1996,7
+U,Second Bachelor,Female,Decline to State,1997,5
+U,Second Bachelor,Female,Decline to State,1998,5
+U,Second Bachelor,Female,Decline to State,1999,6
+U,Second Bachelor,Female,Decline to State,2000,5
+U,Second Bachelor,Female,Decline to State,2001,7
+U,Second Bachelor,Female,Decline to State,2002,7
+U,Second Bachelor,Female,Decline to State,2003,2
+U,Second Bachelor,Female,Decline to State,2004,1
+U,Second Bachelor,Female,Decline to State,2007,1
+U,Second Bachelor,Female,Decline to State,2008,1
+U,Second Bachelor,Female,Decline to State,2009,1
+U,Second Bachelor,Female,International,1983,1
+U,Second Bachelor,Female,International,1984,1
+U,Second Bachelor,Female,International,1985,1
+U,Second Bachelor,Female,International,1986,7
+U,Second Bachelor,Female,International,1987,2
+U,Second Bachelor,Female,International,1988,3
+U,Second Bachelor,Female,International,1989,1
+U,Second Bachelor,Female,International,1990,1
+U,Second Bachelor,Female,International,1991,2
+U,Second Bachelor,Female,International,1992,4
+U,Second Bachelor,Female,International,1993,2
+U,Second Bachelor,Female,International,1994,2
+U,Second Bachelor,Female,International,1996,2
+U,Second Bachelor,Female,International,1997,3
+U,Second Bachelor,Female,International,1998,2
+U,Second Bachelor,Female,International,1999,1
+U,Second Bachelor,Female,International,2000,2
+U,Second Bachelor,Female,International,2001,3
+U,Second Bachelor,Female,International,2002,3
+U,Second Bachelor,Female,International,2003,1
+U,Second Bachelor,Female,International,2004,2
+U,Second Bachelor,Female,International,2005,1
+U,Second Bachelor,Female,International,2012,1
+U,Second Bachelor,Female,International,2013,2
+U,Second Bachelor,Female,Native American,1991,1
+U,Second Bachelor,Female,Native American,1992,1
+U,Second Bachelor,Female,Other,1985,2
+U,Second Bachelor,Female,Other,1986,1
+U,Second Bachelor,Female,Other,1989,1
+U,Second Bachelor,Female,Other,1990,1
+U,Second Bachelor,Female,Other,2002,1
+U,Second Bachelor,Female,Pacific Islander,1991,1
+U,Second Bachelor,Female,White,1983,21
+U,Second Bachelor,Female,White,1984,29
+U,Second Bachelor,Female,White,1985,32
+U,Second Bachelor,Female,White,1986,23
+U,Second Bachelor,Female,White,1987,23
+U,Second Bachelor,Female,White,1988,24
+U,Second Bachelor,Female,White,1989,17
+U,Second Bachelor,Female,White,1990,16
+U,Second Bachelor,Female,White,1991,22
+U,Second Bachelor,Female,White,1992,23
+U,Second Bachelor,Female,White,1993,24
+U,Second Bachelor,Female,White,1994,25
+U,Second Bachelor,Female,White,1995,21
+U,Second Bachelor,Female,White,1996,18
+U,Second Bachelor,Female,White,1997,17
+U,Second Bachelor,Female,White,1998,18
+U,Second Bachelor,Female,White,1999,17
+U,Second Bachelor,Female,White,2000,29
+U,Second Bachelor,Female,White,2001,24
+U,Second Bachelor,Female,White,2002,14
+U,Second Bachelor,Female,White,2003,1
+U,Second Bachelor,Female,White,2004,1
+U,Second Bachelor,Male,African American,1983,3
+U,Second Bachelor,Male,African American,1984,1
+U,Second Bachelor,Male,African American,1985,2
+U,Second Bachelor,Male,African American,1986,2
+U,Second Bachelor,Male,African American,1989,1
+U,Second Bachelor,Male,African American,1994,1
+U,Second Bachelor,Male,African American,2000,1
+U,Second Bachelor,Male,African American,2001,1
+U,Second Bachelor,Male,Asian,1983,4
+U,Second Bachelor,Male,Asian,1984,9
+U,Second Bachelor,Male,Asian,1985,10
+U,Second Bachelor,Male,Asian,1986,10
+U,Second Bachelor,Male,Asian,1987,7
+U,Second Bachelor,Male,Asian,1988,6
+U,Second Bachelor,Male,Asian,1989,4
+U,Second Bachelor,Male,Asian,1990,6
+U,Second Bachelor,Male,Asian,1991,9
+U,Second Bachelor,Male,Asian,1992,12
+U,Second Bachelor,Male,Asian,1993,15
+U,Second Bachelor,Male,Asian,1994,12
+U,Second Bachelor,Male,Asian,1995,14
+U,Second Bachelor,Male,Asian,1996,17
+U,Second Bachelor,Male,Asian,1997,13
+U,Second Bachelor,Male,Asian,1998,16
+U,Second Bachelor,Male,Asian,1999,16
+U,Second Bachelor,Male,Asian,2000,11
+U,Second Bachelor,Male,Asian,2001,12
+U,Second Bachelor,Male,Asian,2002,17
+U,Second Bachelor,Male,Asian,2003,2
+U,Second Bachelor,Male,Asian,2004,1
+U,Second Bachelor,Male,Asian,2005,1
+U,Second Bachelor,Male,Asian,2006,1
+U,Second Bachelor,Male,Asian,2009,1
+U,Second Bachelor,Male,Asian,2013,1
+U,Second Bachelor,Male,Chicano/Latino,1983,3
+U,Second Bachelor,Male,Chicano/Latino,1984,4
+U,Second Bachelor,Male,Chicano/Latino,1985,2
+U,Second Bachelor,Male,Chicano/Latino,1986,3
+U,Second Bachelor,Male,Chicano/Latino,1987,2
+U,Second Bachelor,Male,Chicano/Latino,1988,2
+U,Second Bachelor,Male,Chicano/Latino,1990,3
+U,Second Bachelor,Male,Chicano/Latino,1991,5
+U,Second Bachelor,Male,Chicano/Latino,1992,4
+U,Second Bachelor,Male,Chicano/Latino,1993,6
+U,Second Bachelor,Male,Chicano/Latino,1994,6
+U,Second Bachelor,Male,Chicano/Latino,1995,5
+U,Second Bachelor,Male,Chicano/Latino,1996,6
+U,Second Bachelor,Male,Chicano/Latino,1997,2
+U,Second Bachelor,Male,Chicano/Latino,1998,1
+U,Second Bachelor,Male,Chicano/Latino,1999,2
+U,Second Bachelor,Male,Chicano/Latino,2000,1
+U,Second Bachelor,Male,Chicano/Latino,2001,3
+U,Second Bachelor,Male,Chicano/Latino,2002,3
+U,Second Bachelor,Male,Chicano/Latino,2006,2
+U,Second Bachelor,Male,Chicano/Latino,2007,2
+U,Second Bachelor,Male,Decline to State,1983,8
+U,Second Bachelor,Male,Decline to State,1984,10
+U,Second Bachelor,Male,Decline to State,1985,19
+U,Second Bachelor,Male,Decline to State,1986,15
+U,Second Bachelor,Male,Decline to State,1987,16
+U,Second Bachelor,Male,Decline to State,1988,17
+U,Second Bachelor,Male,Decline to State,1989,13
+U,Second Bachelor,Male,Decline to State,1990,11
+U,Second Bachelor,Male,Decline to State,1991,14
+U,Second Bachelor,Male,Decline to State,1992,11
+U,Second Bachelor,Male,Decline to State,1993,5
+U,Second Bachelor,Male,Decline to State,1994,4
+U,Second Bachelor,Male,Decline to State,1995,3
+U,Second Bachelor,Male,Decline to State,1997,1
+U,Second Bachelor,Male,Decline to State,1998,4
+U,Second Bachelor,Male,Decline to State,1999,5
+U,Second Bachelor,Male,Decline to State,2000,3
+U,Second Bachelor,Male,Decline to State,2001,2
+U,Second Bachelor,Male,Decline to State,2002,3
+U,Second Bachelor,Male,Decline to State,2003,2
+U,Second Bachelor,Male,Decline to State,2004,1
+U,Second Bachelor,Male,Decline to State,2005,2
+U,Second Bachelor,Male,Decline to State,2006,1
+U,Second Bachelor,Male,Decline to State,2008,1
+U,Second Bachelor,Male,Decline to State,2009,2
+U,Second Bachelor,Male,Decline to State,2010,2
+U,Second Bachelor,Male,Decline to State,2011,2
+U,Second Bachelor,Male,International,1983,2
+U,Second Bachelor,Male,International,1985,1
+U,Second Bachelor,Male,International,1986,11
+U,Second Bachelor,Male,International,1987,2
+U,Second Bachelor,Male,International,1990,3
+U,Second Bachelor,Male,International,1991,3
+U,Second Bachelor,Male,International,1992,5
+U,Second Bachelor,Male,International,1993,8
+U,Second Bachelor,Male,International,1994,7
+U,Second Bachelor,Male,International,1995,6
+U,Second Bachelor,Male,International,1996,3
+U,Second Bachelor,Male,International,1997,3
+U,Second Bachelor,Male,International,1998,3
+U,Second Bachelor,Male,International,1999,1
+U,Second Bachelor,Male,International,2000,5
+U,Second Bachelor,Male,International,2001,4
+U,Second Bachelor,Male,International,2002,1
+U,Second Bachelor,Male,Native American,1986,1
+U,Second Bachelor,Male,Native American,1994,1
+U,Second Bachelor,Male,Native American,1995,2
+U,Second Bachelor,Male,Native American,1996,2
+U,Second Bachelor,Male,Other,1984,1
+U,Second Bachelor,Male,Other,1985,3
+U,Second Bachelor,Male,Other,1986,1
+U,Second Bachelor,Male,Other,2001,1
+U,Second Bachelor,Male,Other,2002,2
+U,Second Bachelor,Male,White,1983,22
+U,Second Bachelor,Male,White,1984,35
+U,Second Bachelor,Male,White,1985,27
+U,Second Bachelor,Male,White,1986,16
+U,Second Bachelor,Male,White,1987,25
+U,Second Bachelor,Male,White,1988,30
+U,Second Bachelor,Male,White,1989,26
+U,Second Bachelor,Male,White,1990,20
+U,Second Bachelor,Male,White,1991,26
+U,Second Bachelor,Male,White,1992,25
+U,Second Bachelor,Male,White,1993,26
+U,Second Bachelor,Male,White,1994,27
+U,Second Bachelor,Male,White,1995,12
+U,Second Bachelor,Male,White,1996,12
+U,Second Bachelor,Male,White,1997,15
+U,Second Bachelor,Male,White,1998,14
+U,Second Bachelor,Male,White,1999,13
+U,Second Bachelor,Male,White,2000,11
+U,Second Bachelor,Male,White,2001,10
+U,Second Bachelor,Male,White,2002,13
+U,Second Bachelor,Male,White,2003,4
+U,Second Bachelor,Male,White,2004,1
+U,Second Bachelor,Male,White,2005,1
+U,Second Bachelor,Male,White,2006,3
+U,Second Bachelor,Male,White,2007,7
+U,Second Bachelor,Male,White,2008,6
+U,Second Bachelor,Male,White,2009,6
+U,Second Bachelor,Male,White,2010,1
+U,Second Bachelor,Male,White,2011,2
+U,Second Bachelor,Male,White,2012,3
+U,Second Bachelor,Male,White,2013,2
+U,(unknown),Female,African American,1983,333
+U,(unknown),Female,African American,1984,200
+U,(unknown),Female,African American,1985,97
+U,(unknown),Female,African American,1986,63
+U,(unknown),Female,African American,1987,19
+U,(unknown),Female,African American,1988,6
+U,(unknown),Female,African American,1989,5
+U,(unknown),Female,African American,1990,1
+U,(unknown),Female,African American,1992,4
+U,(unknown),Female,African American,1993,3
+U,(unknown),Female,African American,1994,4
+U,(unknown),Female,African American,1995,3
+U,(unknown),Female,African American,1996,9
+U,(unknown),Female,African American,1997,7
+U,(unknown),Female,African American,1998,5
+U,(unknown),Female,African American,1999,2
+U,(unknown),Female,African American,2000,1
+U,(unknown),Female,African American,2001,1
+U,(unknown),Female,African American,2002,1
+U,(unknown),Female,African American,2003,1
+U,(unknown),Female,African American,2004,1
+U,(unknown),Female,African American,2009,8
+U,(unknown),Female,African American,2010,9
+U,(unknown),Female,African American,2011,11
+U,(unknown),Female,African American,2012,5
+U,(unknown),Female,African American,2013,3
+U,(unknown),Female,Asian,1983,1496
+U,(unknown),Female,Asian,1984,947
+U,(unknown),Female,Asian,1985,566
+U,(unknown),Female,Asian,1986,260
+U,(unknown),Female,Asian,1987,75
+U,(unknown),Female,Asian,1988,34
+U,(unknown),Female,Asian,1989,28
+U,(unknown),Female,Asian,1990,16
+U,(unknown),Female,Asian,1991,12
+U,(unknown),Female,Asian,1992,9
+U,(unknown),Female,Asian,1993,9
+U,(unknown),Female,Asian,1994,11
+U,(unknown),Female,Asian,1995,9
+U,(unknown),Female,Asian,1996,6
+U,(unknown),Female,Asian,1997,5
+U,(unknown),Female,Asian,1998,4
+U,(unknown),Female,Asian,1999,2
+U,(unknown),Female,Asian,2000,6
+U,(unknown),Female,Asian,2001,3
+U,(unknown),Female,Asian,2002,4
+U,(unknown),Female,Asian,2004,1
+U,(unknown),Female,Asian,2005,1
+U,(unknown),Female,Asian,2009,5
+U,(unknown),Female,Asian,2010,6
+U,(unknown),Female,Asian,2011,9
+U,(unknown),Female,Asian,2012,8
+U,(unknown),Female,Asian,2013,4
+U,(unknown),Female,Chicano/Latino,1983,287
+U,(unknown),Female,Chicano/Latino,1984,183
+U,(unknown),Female,Chicano/Latino,1985,110
+U,(unknown),Female,Chicano/Latino,1986,69
+U,(unknown),Female,Chicano/Latino,1987,25
+U,(unknown),Female,Chicano/Latino,1988,10
+U,(unknown),Female,Chicano/Latino,1989,6
+U,(unknown),Female,Chicano/Latino,1990,3
+U,(unknown),Female,Chicano/Latino,1992,4
+U,(unknown),Female,Chicano/Latino,1993,3
+U,(unknown),Female,Chicano/Latino,1994,6
+U,(unknown),Female,Chicano/Latino,1995,8
+U,(unknown),Female,Chicano/Latino,1996,12
+U,(unknown),Female,Chicano/Latino,1997,13
+U,(unknown),Female,Chicano/Latino,1998,9
+U,(unknown),Female,Chicano/Latino,1999,7
+U,(unknown),Female,Chicano/Latino,2000,5
+U,(unknown),Female,Chicano/Latino,2001,1
+U,(unknown),Female,Chicano/Latino,2002,1
+U,(unknown),Female,Chicano/Latino,2006,1
+U,(unknown),Female,Chicano/Latino,2007,1
+U,(unknown),Female,Chicano/Latino,2008,2
+U,(unknown),Female,Chicano/Latino,2009,7
+U,(unknown),Female,Chicano/Latino,2010,9
+U,(unknown),Female,Chicano/Latino,2011,7
+U,(unknown),Female,Chicano/Latino,2012,7
+U,(unknown),Female,Chicano/Latino,2013,7
+U,(unknown),Female,Decline to State,1983,46
+U,(unknown),Female,Decline to State,1984,19
+U,(unknown),Female,Decline to State,1985,10
+U,(unknown),Female,Decline to State,1986,33
+U,(unknown),Female,Decline to State,1987,25
+U,(unknown),Female,Decline to State,1988,14
+U,(unknown),Female,Decline to State,1989,10
+U,(unknown),Female,Decline to State,1990,8
+U,(unknown),Female,Decline to State,1991,11
+U,(unknown),Female,Decline to State,1992,22
+U,(unknown),Female,Decline to State,1993,26
+U,(unknown),Female,Decline to State,1994,26
+U,(unknown),Female,Decline to State,1995,20
+U,(unknown),Female,Decline to State,1996,17
+U,(unknown),Female,Decline to State,1997,15
+U,(unknown),Female,Decline to State,1998,15
+U,(unknown),Female,Decline to State,1999,21
+U,(unknown),Female,Decline to State,2000,29
+U,(unknown),Female,Decline to State,2001,13
+U,(unknown),Female,Decline to State,2002,14
+U,(unknown),Female,Decline to State,2003,10
+U,(unknown),Female,Decline to State,2004,15
+U,(unknown),Female,Decline to State,2005,29
+U,(unknown),Female,Decline to State,2006,15
+U,(unknown),Female,Decline to State,2007,6
+U,(unknown),Female,Decline to State,2008,6
+U,(unknown),Female,Decline to State,2009,8
+U,(unknown),Female,Decline to State,2010,5
+U,(unknown),Female,Decline to State,2011,9
+U,(unknown),Female,Decline to State,2012,11
+U,(unknown),Female,Decline to State,2013,7
+U,(unknown),Female,International,1983,103
+U,(unknown),Female,International,1984,46
+U,(unknown),Female,International,1985,21
+U,(unknown),Female,International,1986,14
+U,(unknown),Female,International,1987,5
+U,(unknown),Female,International,1988,2
+U,(unknown),Female,International,1989,3
+U,(unknown),Female,International,1990,1
+U,(unknown),Female,International,1992,1
+U,(unknown),Female,International,1993,2
+U,(unknown),Female,International,1994,2
+U,(unknown),Female,International,1998,2
+U,(unknown),Female,International,1999,2
+U,(unknown),Female,International,2000,2
+U,(unknown),Female,International,2001,1
+U,(unknown),Female,International,2002,1
+U,(unknown),Female,International,2009,1
+U,(unknown),Female,International,2013,1
+U,(unknown),Female,Native American,1983,26
+U,(unknown),Female,Native American,1984,12
+U,(unknown),Female,Native American,1985,6
+U,(unknown),Female,Native American,1986,3
+U,(unknown),Female,Native American,1987,1
+U,(unknown),Female,Native American,1993,1
+U,(unknown),Female,Native American,1994,1
+U,(unknown),Female,Native American,1996,2
+U,(unknown),Female,Native American,1997,1
+U,(unknown),Female,Native American,1998,1
+U,(unknown),Female,Native American,1999,1
+U,(unknown),Female,Native American,2002,1
+U,(unknown),Female,Native American,2009,1
+U,(unknown),Female,Native American,2011,1
+U,(unknown),Female,Other,1983,179
+U,(unknown),Female,Other,1984,99
+U,(unknown),Female,Other,1985,42
+U,(unknown),Female,Other,1986,27
+U,(unknown),Female,Other,1987,8
+U,(unknown),Female,Other,1992,5
+U,(unknown),Female,Other,1993,4
+U,(unknown),Female,Other,1994,4
+U,(unknown),Female,Other,1995,2
+U,(unknown),Female,Other,1996,1
+U,(unknown),Female,Other,1997,1
+U,(unknown),Female,Other,1999,1
+U,(unknown),Female,Other,2000,1
+U,(unknown),Female,Other,2001,1
+U,(unknown),Female,Other,2002,1
+U,(unknown),Female,Other,2009,2
+U,(unknown),Female,Other,2010,4
+U,(unknown),Female,Pacific Islander,1983,6
+U,(unknown),Female,Pacific Islander,1984,3
+U,(unknown),Female,Pacific Islander,1985,2
+U,(unknown),Female,Pacific Islander,1986,1
+U,(unknown),Female,Pacific Islander,1987,1
+U,(unknown),Female,Pacific Islander,1991,1
+U,(unknown),Female,Pacific Islander,2013,1
+U,(unknown),Female,White,1983,3739
+U,(unknown),Female,White,1984,1978
+U,(unknown),Female,White,1985,906
+U,(unknown),Female,White,1986,476
+U,(unknown),Female,White,1987,181
+U,(unknown),Female,White,1988,43
+U,(unknown),Female,White,1989,15
+U,(unknown),Female,White,1990,12
+U,(unknown),Female,White,1991,24
+U,(unknown),Female,White,1992,16
+U,(unknown),Female,White,1993,14
+U,(unknown),Female,White,1994,7
+U,(unknown),Female,White,1995,11
+U,(unknown),Female,White,1996,16
+U,(unknown),Female,White,1997,15
+U,(unknown),Female,White,1998,20
+U,(unknown),Female,White,1999,9
+U,(unknown),Female,White,2000,10
+U,(unknown),Female,White,2001,9
+U,(unknown),Female,White,2002,7
+U,(unknown),Female,White,2003,2
+U,(unknown),Female,White,2004,1
+U,(unknown),Female,White,2006,2
+U,(unknown),Female,White,2007,4
+U,(unknown),Female,White,2008,3
+U,(unknown),Female,White,2009,14
+U,(unknown),Female,White,2010,15
+U,(unknown),Female,White,2011,9
+U,(unknown),Female,White,2012,6
+U,(unknown),Female,White,2013,2
+U,(unknown),Male,African American,1983,256
+U,(unknown),Male,African American,1984,147
+U,(unknown),Male,African American,1985,83
+U,(unknown),Male,African American,1986,51
+U,(unknown),Male,African American,1987,14
+U,(unknown),Male,African American,1988,9
+U,(unknown),Male,African American,1989,4
+U,(unknown),Male,African American,1990,3
+U,(unknown),Male,African American,1991,4
+U,(unknown),Male,African American,1992,5
+U,(unknown),Male,African American,1993,4
+U,(unknown),Male,African American,1994,3
+U,(unknown),Male,African American,1995,5
+U,(unknown),Male,African American,1996,4
+U,(unknown),Male,African American,1997,4
+U,(unknown),Male,African American,1999,4
+U,(unknown),Male,African American,2000,3
+U,(unknown),Male,African American,2001,1
+U,(unknown),Male,African American,2002,1
+U,(unknown),Male,African American,2003,1
+U,(unknown),Male,African American,2004,1
+U,(unknown),Male,African American,2005,1
+U,(unknown),Male,African American,2009,6
+U,(unknown),Male,African American,2010,5
+U,(unknown),Male,African American,2011,2
+U,(unknown),Male,African American,2013,3
+U,(unknown),Male,Asian,1983,1720
+U,(unknown),Male,Asian,1984,1047
+U,(unknown),Male,Asian,1985,555
+U,(unknown),Male,Asian,1986,283
+U,(unknown),Male,Asian,1987,92
+U,(unknown),Male,Asian,1988,44
+U,(unknown),Male,Asian,1989,32
+U,(unknown),Male,Asian,1990,17
+U,(unknown),Male,Asian,1991,13
+U,(unknown),Male,Asian,1992,9
+U,(unknown),Male,Asian,1993,9
+U,(unknown),Male,Asian,1994,8
+U,(unknown),Male,Asian,1995,11
+U,(unknown),Male,Asian,1996,9
+U,(unknown),Male,Asian,1997,5
+U,(unknown),Male,Asian,1998,4
+U,(unknown),Male,Asian,1999,2
+U,(unknown),Male,Asian,2000,2
+U,(unknown),Male,Asian,2001,3
+U,(unknown),Male,Asian,2002,4
+U,(unknown),Male,Asian,2008,1
+U,(unknown),Male,Asian,2009,17
+U,(unknown),Male,Asian,2010,18
+U,(unknown),Male,Asian,2011,14
+U,(unknown),Male,Asian,2012,5
+U,(unknown),Male,Asian,2013,7
+U,(unknown),Male,Chicano/Latino,1983,407
+U,(unknown),Male,Chicano/Latino,1984,239
+U,(unknown),Male,Chicano/Latino,1985,134
+U,(unknown),Male,Chicano/Latino,1986,64
+U,(unknown),Male,Chicano/Latino,1987,17
+U,(unknown),Male,Chicano/Latino,1988,12
+U,(unknown),Male,Chicano/Latino,1989,7
+U,(unknown),Male,Chicano/Latino,1990,5
+U,(unknown),Male,Chicano/Latino,1991,4
+U,(unknown),Male,Chicano/Latino,1992,5
+U,(unknown),Male,Chicano/Latino,1993,7
+U,(unknown),Male,Chicano/Latino,1994,7
+U,(unknown),Male,Chicano/Latino,1995,8
+U,(unknown),Male,Chicano/Latino,1996,12
+U,(unknown),Male,Chicano/Latino,1997,10
+U,(unknown),Male,Chicano/Latino,1998,7
+U,(unknown),Male,Chicano/Latino,1999,2
+U,(unknown),Male,Chicano/Latino,2000,1
+U,(unknown),Male,Chicano/Latino,2003,1
+U,(unknown),Male,Chicano/Latino,2006,2
+U,(unknown),Male,Chicano/Latino,2007,1
+U,(unknown),Male,Chicano/Latino,2009,7
+U,(unknown),Male,Chicano/Latino,2010,5
+U,(unknown),Male,Chicano/Latino,2011,8
+U,(unknown),Male,Chicano/Latino,2012,6
+U,(unknown),Male,Chicano/Latino,2013,6
+U,(unknown),Male,Decline to State,1983,68
+U,(unknown),Male,Decline to State,1984,38
+U,(unknown),Male,Decline to State,1985,16
+U,(unknown),Male,Decline to State,1986,15
+U,(unknown),Male,Decline to State,1987,14
+U,(unknown),Male,Decline to State,1988,2
+U,(unknown),Male,Decline to State,1989,2
+U,(unknown),Male,Decline to State,1990,6
+U,(unknown),Male,Decline to State,1991,9
+U,(unknown),Male,Decline to State,1992,17
+U,(unknown),Male,Decline to State,1993,17
+U,(unknown),Male,Decline to State,1994,17
+U,(unknown),Male,Decline to State,1995,15
+U,(unknown),Male,Decline to State,1996,7
+U,(unknown),Male,Decline to State,1997,6
+U,(unknown),Male,Decline to State,1998,10
+U,(unknown),Male,Decline to State,1999,4
+U,(unknown),Male,Decline to State,2000,5
+U,(unknown),Male,Decline to State,2001,9
+U,(unknown),Male,Decline to State,2002,4
+U,(unknown),Male,Decline to State,2003,18
+U,(unknown),Male,Decline to State,2004,12
+U,(unknown),Male,Decline to State,2005,25
+U,(unknown),Male,Decline to State,2006,10
+U,(unknown),Male,Decline to State,2007,6
+U,(unknown),Male,Decline to State,2008,4
+U,(unknown),Male,Decline to State,2009,12
+U,(unknown),Male,Decline to State,2010,13
+U,(unknown),Male,Decline to State,2011,18
+U,(unknown),Male,Decline to State,2012,11
+U,(unknown),Male,Decline to State,2013,9
+U,(unknown),Male,International,1983,181
+U,(unknown),Male,International,1984,91
+U,(unknown),Male,International,1985,36
+U,(unknown),Male,International,1986,27
+U,(unknown),Male,International,1987,14
+U,(unknown),Male,International,1988,5
+U,(unknown),Male,International,1989,4
+U,(unknown),Male,International,1990,3
+U,(unknown),Male,International,1991,1
+U,(unknown),Male,International,1992,2
+U,(unknown),Male,International,1993,3
+U,(unknown),Male,International,1994,2
+U,(unknown),Male,International,1995,2
+U,(unknown),Male,International,2010,3
+U,(unknown),Male,International,2011,1
+U,(unknown),Male,International,2012,1
+U,(unknown),Male,Native American,1983,32
+U,(unknown),Male,Native American,1984,13
+U,(unknown),Male,Native American,1985,5
+U,(unknown),Male,Native American,1986,3
+U,(unknown),Male,Native American,1988,2
+U,(unknown),Male,Native American,1992,1
+U,(unknown),Male,Native American,1993,1
+U,(unknown),Male,Native American,1995,1
+U,(unknown),Male,Other,1983,256
+U,(unknown),Male,Other,1984,138
+U,(unknown),Male,Other,1985,62
+U,(unknown),Male,Other,1986,25
+U,(unknown),Male,Other,1987,7
+U,(unknown),Male,Other,1988,3
+U,(unknown),Male,Other,1989,3
+U,(unknown),Male,Other,1990,2
+U,(unknown),Male,Other,1991,1
+U,(unknown),Male,Other,1992,1
+U,(unknown),Male,Other,1993,1
+U,(unknown),Male,Other,1994,1
+U,(unknown),Male,Other,2001,1
+U,(unknown),Male,Other,2002,1
+U,(unknown),Male,Other,2003,1
+U,(unknown),Male,Other,2009,1
+U,(unknown),Male,Pacific Islander,1983,6
+U,(unknown),Male,Pacific Islander,1984,5
+U,(unknown),Male,Pacific Islander,1985,4
+U,(unknown),Male,Pacific Islander,1986,3
+U,(unknown),Male,Pacific Islander,2010,1
+U,(unknown),Male,White,1983,4753
+U,(unknown),Male,White,1984,2577
+U,(unknown),Male,White,1985,1301
+U,(unknown),Male,White,1986,621
+U,(unknown),Male,White,1987,191
+U,(unknown),Male,White,1988,60
+U,(unknown),Male,White,1989,25
+U,(unknown),Male,White,1990,13
+U,(unknown),Male,White,1991,20
+U,(unknown),Male,White,1992,24
+U,(unknown),Male,White,1993,32
+U,(unknown),Male,White,1994,26
+U,(unknown),Male,White,1995,20
+U,(unknown),Male,White,1996,11
+U,(unknown),Male,White,1997,15
+U,(unknown),Male,White,1998,12
+U,(unknown),Male,White,1999,8
+U,(unknown),Male,White,2000,10
+U,(unknown),Male,White,2001,6
+U,(unknown),Male,White,2002,6
+U,(unknown),Male,White,2003,3
+U,(unknown),Male,White,2004,4
+U,(unknown),Male,White,2005,1
+U,(unknown),Male,White,2006,3
+U,(unknown),Male,White,2007,4
+U,(unknown),Male,White,2008,2
+U,(unknown),Male,White,2009,15
+U,(unknown),Male,White,2010,24
+U,(unknown),Male,White,2011,14
+U,(unknown),Male,White,2012,8
+U,(unknown),Male,White,2013,5

@@ -1,0 +1,120 @@
+<section ng-controller="StocksController" ng-init="find()">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Nasdaq 100 Index 1985/11/01-2012/06/29</h1>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-9">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Summary
+                    </div>
+                    <div class="panel-body">
+                        <div id="row-selection" class="dc-data-count">
+                            <span>
+                    <span class="filter-count"></span> selected out of
+                            <span class="total-count"></span> records |
+                            <a href="javascript:dc.filterAll(); dc.renderAll();">
+                                <font color="#33CC99">Reset All</font>
+                            </a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Days by Gain/Loss
+                    </div>
+                    <div class="panel-body">
+                        <div id="gain-loss-chart"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <strong>Yearly Performance</strong> (radius: fluctuation/index ratio, color: gain/loss)
+                    </div>
+                    <div class="panel-body">
+                        <div id="yearly-bubble-chart"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Quarters
+                    </div>
+                    <div class="panel-body">
+                        <div id="quarter-chart"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Day of Week
+                    </div>
+                    <div class="panel-body">
+                        <div id="day-of-week-chart"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Days by Fluctuation(%)
+                    </div>
+                    <div class="panel-body">
+                        <div id="fluctuation-chart"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Monthly Index Abs Move & Volume/500,000 Chart
+                    </div>
+                    <div class="panel-body">
+                        <div id="monthly-move-chart"></div>
+                        <div id="monthly-volume-chart">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Records
+                    </div>
+                    <div class="panel-body">
+                        <table class="table table-hover dc-data-table">
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix"></div>
+</section>

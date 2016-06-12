@@ -1,0 +1,138 @@
+<section ng-controller="DonorsController" ng-init="find()">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="page-header">Donors</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Total Donation Count
+                    </div>
+                    <div class="panel-body">
+                        <div id="total-projects"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Nett Donations ($)
+                    </div>
+                    <div class="panel-body">
+                        <div id="net-donations"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        Summary
+                    </div>
+                    <div class="panel-body">
+                        <div id="row-selection">
+                            <span class="filter-count">_</span> selected out of <span class="total-count">_</span> records
+                            |
+                            <span>
+                                <a href='javascript:dc.filterAll();dc.redrawAll();'><font color="#33CC99">Reset All</font></a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Number of Donations
+                        </div>
+                        <div class="panel-body">
+                            <div id="date-chart"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Donation Count for Resources
+                        </div>
+                        <div class="panel-body">
+                            <div id="resource-chart"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Funding Status
+                        </div>
+                        <div class="panel-body">
+                            <div id="funding-chart"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Donation Count by Grade
+                        </div>
+                        <div class="panel-body">
+                            <div id="grade-chart"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Donation Count by Poverty Level
+                        </div>
+                        <div class="panel-body">
+                            <div id="poverty-chart"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Donation Amount by State ($)
+                        </div>
+                        <div class="panel-body">
+                            <div id="state-donations"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            Description
+                        </div>
+                        <div class="panel-body">
+                            <p>We will be analyzing data from DonorsChoose.org, which is a US based non profit organization
+                                that allows individuals to donate money directly to public school classroom projects. I have
+                                taken a subset of the original data set for our analysis purposes. This dataset contains
+                                nearly 9000 rows.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -26,7 +26,6 @@ $ mongoimport -d dashviz -c earthquakes --type csv --file earthquakes.csv --head
 $ mongoimport -d dashviz -c stocks --type csv --file stocks.csv --headerline
 
 $ mongoimport -d dashviz -c donors --type csv --file donors.csv --headerline
-
 ```
   - from the root directory run npm install
   - from the root directory run node server

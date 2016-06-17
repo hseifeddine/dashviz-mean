@@ -20,13 +20,20 @@ To be able to run this application on your local machine proceed as follows:
   - from the dataset directory run the following commands to import the data into a local instance of MongoDB:
  ```sh
 $ mongoimport -d dashviz -c censuses --type csv --file censuses.csv --headerline
+
 $ mongoimport -d dashviz -c earthquakes --type csv --file earthquakes.csv --headerline
+
 $ mongoimport -d dashviz -c stocks --type csv --file stocks.csv --headerline
+
 $ mongoimport -d dashviz -c donors --type csv --file donors.csv --headerline
+
 ```
   - from the root directory run npm install
   - from the root directory run node server
   - the application should be accessible at port 8080
+
+## Demo
+A live demo is available here: https://dashviz.herokuapp.com
 
 ## Version
 1.0.0

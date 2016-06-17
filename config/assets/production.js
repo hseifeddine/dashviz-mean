@@ -21,7 +21,7 @@ module.exports = {
         'public/lib/d3/d3.min.js',
         'public/lib/crossfilter2/crossfilter.min.js',
         'public/lib/dcjs/dc.min.js',
-        'public/lib/colorbrewer/colorbrewer.min.js',
+        'public/lib/colorbrewer/colorbrewer.js',
         'public/lib/owasp-password-strength-test/owasp-password-strength-test.js'
       ]
     },
